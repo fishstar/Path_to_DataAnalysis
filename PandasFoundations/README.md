@@ -1,1 +1,1 @@
-Exercises from DataCamp Couse: Pandas Foundations
+Exercises from DataCamp Course: Pandas Foundations
