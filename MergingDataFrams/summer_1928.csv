@@ -1,0 +1,711 @@
+Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+Aquatics,Diving,"GALITZEN, Michael Riley",USA,Men,10m platform,M,Bronze
+Aquatics,Diving,"DESJARDINS, Ulise Joseph ""Peter""",USA,Men,10m platform,M,Gold
+Aquatics,Diving,"SIMAIKA, Farid",EGY,Men,10m platform,M,Silver
+Aquatics,Diving,"SJ?QVIST, Laura",SWE,Women,10m platform,W,Bronze
+Aquatics,Diving,"BECKER-PINKSTON, Elizabeth",USA,Women,10m platform,W,Gold
+Aquatics,Diving,"COLEMAN, Georgia V.",USA,Women,10m platform,W,Silver
+Aquatics,Diving,"SIMAIKA, Farid",EGY,Men,3m springboard,M,Bronze
+Aquatics,Diving,"DESJARDINS, Ulise Joseph ""Peter""",USA,Men,3m springboard,M,Gold
+Aquatics,Diving,"GALITZEN, Michael Riley",USA,Men,3m springboard,M,Silver
+Aquatics,Diving,"COLEMAN, Georgia V.",USA,Women,3m springboard,W,Bronze
+Aquatics,Diving,"MEANY, Helen",USA,Women,3m springboard,W,Gold
+Aquatics,Diving,"POYNTON-HILL, Dorothy",USA,Women,3m springboard,W,Silver
+Aquatics,Swimming,"WYATT, Paul",USA,Men,100m backstroke,M,Bronze
+Aquatics,Swimming,"KOJAC, George Harold",USA,Men,100m backstroke,M,Gold
+Aquatics,Swimming,"LAUFER, Walter",USA,Men,100m backstroke,M,Silver
+Aquatics,Swimming,"COOPER, Margaret Joyce",GBR,Women,100m backstroke,W,Bronze
+Aquatics,Swimming,"BRAUN, Maria Johanna",NED,Women,100m backstroke,W,Gold
+Aquatics,Swimming,"KING, Ellen Elizabeth",GBR,Women,100m backstroke,W,Silver
+Aquatics,Swimming,"TAKAISHI, Katsuo",JPN,Men,100m freestyle,M,Bronze
+Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,100m freestyle,M,Gold
+Aquatics,Swimming,"BARANY, Istvan",HUN,Men,100m freestyle,M,Silver
+Aquatics,Swimming,"COOPER, Margaret Joyce",GBR,Women,100m freestyle,W,Bronze
+Aquatics,Swimming,"OSIPOWICH, Albina Lucy",USA,Women,100m freestyle,W,Gold
+Aquatics,Swimming,"SAVILLE, Eleanor",USA,Women,100m freestyle,W,Silver
+Aquatics,Swimming,"CRABBE, Clarence",USA,Men,1500m freestyle,M,Bronze
+Aquatics,Swimming,"BORG, Arne",SWE,Men,1500m freestyle,M,Gold
+Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,1500m freestyle,M,Silver
+Aquatics,Swimming,"YLDEFONSO, Teofilo",PHI,Men,200m breaststroke,M,Bronze
+Aquatics,Swimming,"TSURUTA, Yoshiyuki",JPN,Men,200m breaststroke,M,Gold
+Aquatics,Swimming,"RADEMACHER, Erich",GER,Men,200m breaststroke,M,Silver
+Aquatics,Swimming,"M?HE, Charlotte",GER,Women,200m breaststroke,W,Bronze
+Aquatics,Swimming,"SCHRADER, Hilde",GER,Women,200m breaststroke,W,Gold
+Aquatics,Swimming,"BARON, Mietje",NED,Women,200m breaststroke,W,Silver
+Aquatics,Swimming,"BORG, Arne",SWE,Men,400m freestyle,M,Bronze
+Aquatics,Swimming,"ZORRILLA, Victoriano",ARG,Men,400m freestyle,M,Gold
+Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,400m freestyle,M,Silver
+Aquatics,Swimming,"MCKIM, Josephine E.",USA,Women,400m freestyle,W,Bronze
+Aquatics,Swimming,"NORELIUS, Martha",USA,Women,400m freestyle,W,Gold
+Aquatics,Swimming,"BRAUN, Maria Johanna",NED,Women,400m freestyle,W,Silver
+Aquatics,Swimming,"REDFORD, Marie E.",RSA,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"RENNIE, Rhoda",RSA,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"RUSSELL, Kathleen",RSA,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"VAN DER GOES, Frederica Johanna",RSA,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"LAMBERT, Adelaide T.",USA,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"NORELIUS, Martha",USA,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"OSIPOWICH, Albina Lucy",USA,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"SAVILLE, Eleanor",USA,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"COOPER, Margaret Joyce",GBR,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"KING, Ellen Elizabeth",GBR,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"STEWART, Sarah Gillow Marshal",GBR,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"TANNER, Vera",GBR,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"AULT, Garnet Walter",CAN,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"BOURNE, Frederick Munroe",CAN,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"SPENCE, Walter",CAN,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"THOMPSON, James",CAN,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"CLAPP, Austin Rhone",USA,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"KOJAC, George Harold",USA,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"LAUFER, Walter",USA,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"ARAI, Nobuo",JPN,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"SADA, Tokuhei",JPN,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"TAKAISHI, Katsuo",JPN,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"YONEYAMA, Hiroshi",JPN,Men,4x200m freestyle relay,M,Silver
+Aquatics,Water polo,"BULTEEL, Emile J.",FRA,Men,water polo,M,Bronze
+Aquatics,Water polo,"CUVELIER, Henri G.",FRA,Men,water polo,M,Bronze
+Aquatics,Water polo,"DUJARDIN, Paul",FRA,Men,water polo,M,Bronze
+Aquatics,Water polo,"KEIGNAERT, Jules",FRA,Men,water polo,M,Bronze
+Aquatics,Water polo,"PADOU SR., Henri",FRA,Men,water polo,M,Bronze
+Aquatics,Water polo,"ROGER, Ernest",FRA,Men,water polo,M,Bronze
+Aquatics,Water polo,"TH?VENON, Albert",FRA,Men,water polo,M,Bronze
+Aquatics,Water polo,"TRIBOUILLET, Achille C. M.",FRA,Men,water polo,M,Bronze
+Aquatics,Water polo,"VAN DE PLANCKE, Albert D.",FRA,Men,water polo,M,Bronze
+Aquatics,Water polo,"AMANN, Max",GER,Men,water polo,M,Gold
+Aquatics,Water polo,"B?HRE, Karl",GER,Men,water polo,M,Gold
+Aquatics,Water polo,"BENECKE, Emil",GER,Men,water polo,M,Gold
+Aquatics,Water polo,"BLANK, Johann",GER,Men,water polo,M,Gold
+Aquatics,Water polo,"CORDES, Otto",GER,Men,water polo,M,Gold
+Aquatics,Water polo,"GUNST, Fritz",GER,Men,water polo,M,Gold
+Aquatics,Water polo,"RADEMACHER, Erich",GER,Men,water polo,M,Gold
+Aquatics,Water polo,"RADEMACHER, Joachim",GER,Men,water polo,M,Gold
+Aquatics,Water polo,"BARTA, Istv?n",HUN,Men,water polo,M,Silver
+Aquatics,Water polo,"HALASSY, Oliver",HUN,Men,water polo,M,Silver
+Aquatics,Water polo,"HOMONNAI, M?rton",HUN,Men,water polo,M,Silver
+Aquatics,Water polo,"IV?DY, S?ndor",HUN,Men,water polo,M,Silver
+Aquatics,Water polo,"KESERU, Alajos",HUN,Men,water polo,M,Silver
+Aquatics,Water polo,"KESERU, Ferenc",HUN,Men,water polo,M,Silver
+Aquatics,Water polo,"VRABELY, Jozsef",HUN,Men,water polo,M,Silver
+Athletics,Athletics,"WIDE, Edvin",SWE,Men,10000m,M,Bronze
+Athletics,Athletics,"NURMI, Paavo",FIN,Men,10000m,M,Gold
+Athletics,Athletics,"RITOLA, Ville",FIN,Men,10000m,M,Silver
+Athletics,Athletics,"LAMMERS, Georg",GER,Men,100m,M,Bronze
+Athletics,Athletics,"WILLIAMS, Percy",CAN,Men,100m,M,Gold
+Athletics,Athletics,"LONDON, John Edward",GBR,Men,100m,M,Silver
+Athletics,Athletics,"SMITH, Ethel M.",CAN,Women,100m,W,Bronze
+Athletics,Athletics,"ROBINSON, Elizabeth",USA,Women,100m,W,Gold
+Athletics,Athletics,"ROSENFELD, Fanny",CAN,Women,100m,W,Silver
+Athletics,Athletics,"COLLIER, John",USA,Men,110m hurdles,M,Bronze
+Athletics,Athletics,"ATKINSON, Sidney",RSA,Men,110m hurdles,M,Gold
+Athletics,Athletics,"ANDERSON, Stephen",USA,Men,110m hurdles,M,Silver
+Athletics,Athletics,"PURJE, Eino Alfred",FIN,Men,1500m,M,Bronze
+Athletics,Athletics,"LARVA, Harri Edvin",FIN,Men,1500m,M,Gold
+Athletics,Athletics,"LADOUMEGUE, Jules",FRA,Men,1500m,M,Silver
+Athletics,Athletics,"K?RNIG, Helmuth",GER,Men,200m,M,Bronze
+Athletics,Athletics,"WILLIAMS, Percy",CAN,Men,200m,M,Gold
+Athletics,Athletics,"RANGELEY, Walter",GBR,Men,200m,M,Silver
+Athletics,Athletics,"ANDERSEN, Ove",FIN,Men,3000m steeplechase,M,Bronze
+Athletics,Athletics,"LOUKOLA, Toivo Aarne",FIN,Men,3000m steeplechase,M,Gold
+Athletics,Athletics,"NURMI, Paavo",FIN,Men,3000m steeplechase,M,Silver
+Athletics,Athletics,"B?CHNER, Joachim",GER,Men,400m,M,Bronze
+Athletics,Athletics,"BARBUTI, Raymond James",USA,Men,400m,M,Gold
+Athletics,Athletics,"BALL, James A.",CAN,Men,400m,M,Silver
+Athletics,Athletics,"TAYLOR, Frederick Morgan",USA,Men,400m hurdles,M,Bronze
+Athletics,Athletics,"BURGHLEY, David George",GBR,Men,400m hurdles,M,Gold
+Athletics,Athletics,"CUHEL, Frank Josef",USA,Men,400m hurdles,M,Silver
+Athletics,Athletics,"GILL, Cyril William",GBR,Men,4x100m relay,M,Bronze
+Athletics,Athletics,"LONDON, John Edward",GBR,Men,4x100m relay,M,Bronze
+Athletics,Athletics,"RANGELEY, Walter",GBR,Men,4x100m relay,M,Bronze
+Athletics,Athletics,"SMOUHA, Edward Ralph",GBR,Men,4x100m relay,M,Bronze
+Athletics,Athletics,"BORAH, Charles Edward",USA,Men,4x100m relay,M,Gold
+Athletics,Athletics,"QUINN, James F.",USA,Men,4x100m relay,M,Gold
+Athletics,Athletics,"RUSSELL, Henry Argue",USA,Men,4x100m relay,M,Gold
+Athletics,Athletics,"WYKOFF, Frank Clifford",USA,Men,4x100m relay,M,Gold
+Athletics,Athletics,"CORTS, Richard",GER,Men,4x100m relay,M,Silver
+Athletics,Athletics,"HOUBEN, Hubert",GER,Men,4x100m relay,M,Silver
+Athletics,Athletics,"K?RNIG, Helmuth",GER,Men,4x100m relay,M,Silver
+Athletics,Athletics,"LAMMERS, Georg",GER,Men,4x100m relay,M,Silver
+Athletics,Athletics,"HOLDMANN, Anny",GER,Women,4x100m relay,W,Bronze
+Athletics,Athletics,"JUNKER, Helene",GER,Women,4x100m relay,W,Bronze
+Athletics,Athletics,"KELLNER, Rose",GER,Women,4x100m relay,W,Bronze
+Athletics,Athletics,"SCHMIDT, Helene ""Leni""",GER,Women,4x100m relay,W,Bronze
+Athletics,Athletics,"COOK, Myrtle Alice",CAN,Women,4x100m relay,W,Gold
+Athletics,Athletics,"ROSENFELD, Fanny",CAN,Women,4x100m relay,W,Gold
+Athletics,Athletics,"SMITH, Ethel M.",CAN,Women,4x100m relay,W,Gold
+Athletics,Athletics,"THOMPSON, Jean",CAN,Women,4x100m relay,W,Gold
+Athletics,Athletics,"CROSS, Jessica West",USA,Women,4x100m relay,W,Silver
+Athletics,Athletics,"MCNEIL, Loretta T.",USA,Women,4x100m relay,W,Silver
+Athletics,Athletics,"ROBINSON, Elizabeth",USA,Women,4x100m relay,W,Silver
+Athletics,Athletics,"WASHBURN, Mary T.",USA,Women,4x100m relay,W,Silver
+Athletics,Athletics,"BALL, James A.",CAN,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"EDWARDS, Philip",CAN,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"GLOVER, Stanley",CAN,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"WILSON, Alexander S.",CAN,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"ALDERMAN, Frederick Pitt",USA,Men,4x400m relay,M,Gold
+Athletics,Athletics,"BAIRD, George Hetzel",USA,Men,4x400m relay,M,Gold
+Athletics,Athletics,"BARBUTI, Raymond James",USA,Men,4x400m relay,M,Gold
+Athletics,Athletics,"SPENCER, Emerson Lane",USA,Men,4x400m relay,M,Gold
+Athletics,Athletics,"ENGELHARD, Hermann",GER,Men,4x400m relay,M,Silver
+Athletics,Athletics,"KREBS, Richard",GER,Men,4x400m relay,M,Silver
+Athletics,Athletics,"NEUMANN, Otto",GER,Men,4x400m relay,M,Silver
+Athletics,Athletics,"STORZ, Harry",GER,Men,4x400m relay,M,Silver
+Athletics,Athletics,"WIDE, Edvin",SWE,Men,5000m,M,Bronze
+Athletics,Athletics,"RITOLA, Ville",FIN,Men,5000m,M,Gold
+Athletics,Athletics,"NURMI, Paavo",FIN,Men,5000m,M,Silver
+Athletics,Athletics,"ENGELHARD, Hermann",GER,Men,800m,M,Bronze
+Athletics,Athletics,"LOWE, Douglas Gordon",GBR,Men,800m,M,Gold
+Athletics,Athletics,"BYLEHN, Erik",SWE,Men,800m,M,Silver
+Athletics,Athletics,"GENTZEL, Inga K.",SWE,Women,800m,W,Bronze
+Athletics,Athletics,"RADKE, Karoline ""Lina""",GER,Women,800m,W,Gold
+Athletics,Athletics,"HITOMI, Kinue",JPN,Women,800m,W,Silver
+Athletics,Athletics,"DOHERTY, John Kenneth",USA,Men,decathlon,M,Bronze
+Athletics,Athletics,"YRJ?L?, Paavo Ilmari",FIN,Men,decathlon,M,Gold
+Athletics,Athletics,"J?RVINEN, Akiles Eero Johannes",FIN,Men,decathlon,M,Silver
+Athletics,Athletics,"CORSON, James Hunt",USA,Men,discus throw,M,Bronze
+Athletics,Athletics,"HOUSER, Lemuel Clarence",USA,Men,discus throw,M,Gold
+Athletics,Athletics,"KIVI, Antero Lauro",FIN,Men,discus throw,M,Silver
+Athletics,Athletics,"SVEDBERG, Ruth A.",SWE,Women,discus throw,W,Bronze
+Athletics,Athletics,"KONOPACKA, Halina",POL,Women,discus throw,W,Gold
+Athletics,Athletics,"COPELAND, Lillian",USA,Women,discus throw,W,Silver
+Athletics,Athletics,"BLACK, Edmund Franklin",USA,Men,hammer throw,M,Bronze
+Athletics,Athletics,"O'CALLAGHAN, Patrick",IRL,Men,hammer throw,M,Gold
+Athletics,Athletics,"SKI?LD, Ossian E.",SWE,Men,hammer throw,M,Silver
+Athletics,Athletics,"MENARD, Claude Charles",FRA,Men,high jump,M,Bronze
+Athletics,Athletics,"KING, Robert Wade",USA,Men,high jump,M,Gold
+Athletics,Athletics,"HEDGES, Benjamen Van Doren",USA,Men,high jump,M,Silver
+Athletics,Athletics,"WILEY, Mildred Olive",USA,Women,high jump,W,Bronze
+Athletics,Athletics,"CATHERWOOD, Ethel",CAN,Women,high jump,W,Gold
+Athletics,Athletics,"GISOLF, Carolina Anna",NED,Women,high jump,W,Silver
+Athletics,Athletics,"SUNDE, Olav",NOR,Men,javelin throw,M,Bronze
+Athletics,Athletics,"LUNDQVIST, Erik H.",SWE,Men,javelin throw,M,Gold
+Athletics,Athletics,"SZEPES-STRAUCH, Bela",HUN,Men,javelin throw,M,Silver
+Athletics,Athletics,"BATES, Alfred Hilborn",USA,Men,long jump,M,Bronze
+Athletics,Athletics,"HAMM, Edward Barton",USA,Men,long jump,M,Gold
+Athletics,Athletics,"CATOR, Silvio M.",HAI,Men,long jump,M,Silver
+Athletics,Athletics,"MARTTELIN, Martti B.",FIN,Men,marathon,M,Bronze
+Athletics,Athletics,"EL OUAFI, Bough??ra Mohamed",FRA,Men,marathon,M,Gold
+Athletics,Athletics,"PLAZA REYES, Manuel",CHI,Men,marathon,M,Silver
+Athletics,Athletics,"MCGINNIS, Charles English",USA,Men,pole vault,M,Bronze
+Athletics,Athletics,"CARR, Sabin William",USA,Men,pole vault,M,Gold
+Athletics,Athletics,"DROEGEMUELLER, William Herbert",USA,Men,pole vault,M,Silver
+Athletics,Athletics,"HIRSCHFELD, Emil",GER,Men,shot put,M,Bronze
+Athletics,Athletics,"KUCK, John H.",USA,Men,shot put,M,Gold
+Athletics,Athletics,"BRIX, Herman Harold",USA,Men,shot put,M,Silver
+Athletics,Athletics,"TUULOS, Vilho Immanuel",FIN,Men,triple jump,M,Bronze
+Athletics,Athletics,"ODA, Mikio",JPN,Men,triple jump,M,Gold
+Athletics,Athletics,"CASEY, Levi B.",USA,Men,triple jump,M,Silver
+Boxing,Boxing,"CAVAGNOLI, Carlo",ITA,Men,- 50.8kg (flyweight),M,Bronze
+Boxing,Boxing,"KOCSIS, Antal",HUN,Men,- 50.8kg (flyweight),M,Gold
+Boxing,Boxing,"APELL, Armand",FRA,Men,- 50.8kg (flyweight),M,Silver
+Boxing,Boxing,"MICHAELSEN, Michael Jacob",DEN,Men,+ 79.38kg (heavyweight),M,Bronze
+Boxing,Boxing,"RODRIGUEZ JURADO, Arturo",ARG,Men,+ 79.38kg (heavyweight),M,Gold
+Boxing,Boxing,"RAMM, Nils Arvid",SWE,Men,+ 79.38kg (heavyweight),M,Silver
+Boxing,Boxing,"ISAACS, Harry",RSA,Men,50.8 - 53.52kg (bantamweight),M,Bronze
+Boxing,Boxing,"TAMAGNINI, Vittorio",ITA,Men,50.8 - 53.52kg (bantamweight),M,Gold
+Boxing,Boxing,"DALEY, John Lawrence",USA,Men,50.8 - 53.52kg (bantamweight),M,Silver
+Boxing,Boxing,"DEVINE, Harold George",USA,Men,53.52 - 57.15kg (featherweight),M,Bronze
+Boxing,Boxing,"VAN KLAVEREN, Lambertus",NED,Men,53.52 - 57.15kg (featherweight),M,Gold
+Boxing,Boxing,"PERALTA, Victor",ARG,Men,53.52 - 57.15kg (featherweight),M,Silver
+Boxing,Boxing,"BERGGREN, Gunnar A. E.",SWE,Men,57.15 - 61.24kg (lightweight),M,Bronze
+Boxing,Boxing,"ORLANDI, Carlo",ITA,Men,57.15 - 61.24kg (lightweight),M,Gold
+Boxing,Boxing,"HALAIKO, Stephen Michael",USA,Men,57.15 - 61.24kg (lightweight),M,Silver
+Boxing,Boxing,"SMILLIE, Raymond",CAN,Men,61.24 - 66.68kg (welterweight),M,Bronze
+Boxing,Boxing,"MORGAN, Edward",NZL,Men,61.24 - 66.68kg (welterweight),M,Gold
+Boxing,Boxing,"LANDINI, Raul",ARG,Men,61.24 - 66.68kg (welterweight),M,Silver
+Boxing,Boxing,"STEYAERT, L?onard",BEL,Men,66.68 - 72.57kg (middleweight),M,Bronze
+Boxing,Boxing,"TOSCANI, Piero",ITA,Men,66.68 - 72.57kg (middleweight),M,Gold
+Boxing,Boxing,"HERMANEK, Jan",TCH,Men,66.68 - 72.57kg (middleweight),M,Silver
+Boxing,Boxing,"MILJON, Karel Leendert",NED,Men,72.57 - 79.38kg (light-heavyweight),M,Bronze
+Boxing,Boxing,"AVENDANO, Victor",ARG,Men,72.57 - 79.38kg (light-heavyweight),M,Gold
+Boxing,Boxing,"PISTULLA, Ernst",GER,Men,72.57 - 79.38kg (light-heavyweight),M,Silver
+Cycling,Cycling Road,"CARLSSON, G?sta V.",SWE,Men,individual time trial,M,Bronze
+Cycling,Cycling Road,"HANSEN, Henry Peter Christian",DEN,Men,individual time trial,M,Gold
+Cycling,Cycling Road,"SOUTHALL, Frank William",GBR,Men,individual time trial,M,Silver
+Cycling,Cycling Road,"CARLSSON, G?sta V.",SWE,Men,team time trial,M,Bronze
+Cycling,Cycling Road,"JANSSON, Erik",SWE,Men,team time trial,M,Bronze
+Cycling,Cycling Road,"JOHNSSON, E. Georg",SWE,Men,team time trial,M,Bronze
+Cycling,Cycling Road,"HANSEN, Henry Peter Christian",DEN,Men,team time trial,M,Gold
+Cycling,Cycling Road,"J?RGENSEN, Oving Orla",DEN,Men,team time trial,M,Gold
+Cycling,Cycling Road,"NIELSEN, Leo",DEN,Men,team time trial,M,Gold
+Cycling,Cycling Road,"LAUTERWASSER, John Jacob",GBR,Men,team time trial,M,Silver
+Cycling,Cycling Road,"MIDDLETON, John Kenneth",GBR,Men,team time trial,M,Silver
+Cycling,Cycling Road,"SOUTHALL, Frank William",GBR,Men,team time trial,M,Silver
+Cycling,Cycling Track,"FALCK HANSEN, Willy",DEN,Men,1km Pursuit,M,Bronze
+Cycling,Cycling Track,"BEAUFRAND, Roger",FRA,Men,1km Pursuit,M,Gold
+Cycling,Cycling Track,"MAZAIRAC, Antonius Hendrikus",NED,Men,1km Pursuit,M,Silver
+Cycling,Cycling Track,"GRAY, Edgar Laurence",AUS,Men,1km time trial,M,Bronze
+Cycling,Cycling Track,"FALCK HANSEN, Willy",DEN,Men,1km time trial,M,Gold
+Cycling,Cycling Track,"BOSCH VAN DRAKESTEIN, Gerald Henri",NED,Men,1km time trial,M,Silver
+Cycling,Cycling Track,"BERNHARDT, Hans",GER,Men,2000m tandem,M,Bronze
+Cycling,Cycling Track,"K?THER, Karl",GER,Men,2000m tandem,M,Bronze
+Cycling,Cycling Track,"LEENE, Bernardus Petrus",NED,Men,2000m tandem,M,Gold
+Cycling,Cycling Track,"VAN DIJK, Daniel (Daan)",NED,Men,2000m tandem,M,Gold
+Cycling,Cycling Track,"CHAMBERS, Ernest Henry",GBR,Men,2000m tandem,M,Silver
+Cycling,Cycling Track,"SIBBIT, John Ephraim",GBR,Men,2000m tandem,M,Silver
+Cycling,Cycling Track,"FALCK HANSEN, Willy",DEN,Men,Sprint indivual,M,Bronze
+Cycling,Cycling Track,"BEAUFRAND, Roger",FRA,Men,Sprint indivual,M,Gold
+Cycling,Cycling Track,"MAZAIRAC, Antonius Hendrikus",NED,Men,Sprint indivual,M,Silver
+Cycling,Cycling Track,"SOUTHALL, Michael George",GBR,Men,Team Pursuit (4000m),M,Bronze
+Cycling,Cycling Track,"WYLD, Frederick Henry",GBR,Men,Team Pursuit (4000m),M,Bronze
+Cycling,Cycling Track,"WYLD, Leonard Arthur",GBR,Men,Team Pursuit (4000m),M,Bronze
+Cycling,Cycling Track,"WYLD, Percy",GBR,Men,Team Pursuit (4000m),M,Bronze
+Cycling,Cycling Track,"CATTANEO, Marco",ITA,Men,Team Pursuit (4000m),M,Gold
+Cycling,Cycling Track,"FACCIANI, Cesare",ITA,Men,Team Pursuit (4000m),M,Gold
+Cycling,Cycling Track,"LUSIANI, Mario",ITA,Men,Team Pursuit (4000m),M,Gold
+Cycling,Cycling Track,"TASSELLI, Luigi",ITA,Men,Team Pursuit (4000m),M,Gold
+Cycling,Cycling Track,"BRASPENNIN, Adriaan Jacobus",NED,Men,Team Pursuit (4000m),M,Silver
+Cycling,Cycling Track,"MAAS, Johannes Leonardus",NED,Men,Team Pursuit (4000m),M,Silver
+Cycling,Cycling Track,"PIJNENBURG, Johannes Baptist Norbertus",NED,Men,Team Pursuit (4000m),M,Silver
+Cycling,Cycling Track,"VAN DER HORST, Pieter M.",NED,Men,Team Pursuit (4000m),M,Silver
+Equestrian,Dressage,"OLSON, Ragnar",SWE,Men,individual,X,Bronze
+Equestrian,Dressage,"VON LANGEN, Carl-Friedrich",GER,Men,individual,X,Gold
+Equestrian,Dressage,"MARION, Charles Louis Pierre",FRA,Men,individual,X,Silver
+Equestrian,Dressage,"LE HEUX, Gerard Willem",NED,Men,team,X,Bronze
+Equestrian,Dressage,"VAN REEDE, Jan Hermannus",NED,Men,team,X,Bronze
+Equestrian,Dressage,"VERSTEEGH, Pierre Marie Robert",NED,Men,team,X,Bronze
+Equestrian,Dressage,"LINKENBACH, Hermann",GER,Men,team,X,Gold
+Equestrian,Dressage,"VON LANGEN, Carl-Friedrich",GER,Men,team,X,Gold
+Equestrian,Dressage,"VON LOTZBECK, Eugen",GER,Men,team,X,Gold
+Equestrian,Dressage,"BONDE, Carl",SWE,Men,team,X,Silver
+Equestrian,Dressage,"LUNDBLAD, Janne",SWE,Men,team,X,Silver
+Equestrian,Dressage,"OLSON, Ragnar",SWE,Men,team,X,Silver
+Equestrian,Eventing,"NEUMANN, Bruno",GER,Men,individual,X,Bronze
+Equestrian,Eventing,"PAHUD DE MORTANGES, Charles Ferdinand",NED,Men,individual,X,Gold
+Equestrian,Eventing,"DE KRUIJFF, Gerard Pieter",NED,Men,individual,X,Silver
+Equestrian,Eventing,"ANTONIEWICZ, Michal",POL,Men,team,X,Bronze
+Equestrian,Eventing,"DE ROMMEL (BARON), Karol",POL,Men,team,X,Bronze
+Equestrian,Eventing,"TRENKWALD, Jozef",POL,Men,team,X,Bronze
+Equestrian,Eventing,"DE KRUIJFF, Gerard Pieter",NED,Men,team,X,Gold
+Equestrian,Eventing,"PAHUD DE MORTANGES, Charles Ferdinand",NED,Men,team,X,Gold
+Equestrian,Eventing,"VAN DER VOORT VAN ZIJP, Adolf Dirk C.",NED,Men,team,X,Gold
+Equestrian,Eventing,"JOHANSEN, Wilhelm Eugen",NOR,Men,team,X,Silver
+Equestrian,Eventing,"ORDING, Bjart",NOR,Men,team,X,Silver
+Equestrian,Eventing,"QVIST, Arthur",NOR,Men,team,X,Silver
+Equestrian,Jumping,"KUHN, Charles-Gustave",SUI,Men,individual,X,Bronze
+Equestrian,Jumping,"VENTURA, Frantisek",TCH,Men,individual,X,Gold
+Equestrian,Jumping,"BERTRAN DE BALANDA, Pierre Louis",FRA,Men,individual,X,Silver
+Equestrian,Jumping,PEPITA,SUI,Women,individual,X,Bronze
+Equestrian,Jumping,"BJ?RNSTJERNA, Carl",SWE,Men,team,X,Bronze
+Equestrian,Jumping,"HALLBERG, Ernst",SWE,Men,team,X,Bronze
+Equestrian,Jumping,"HANSEN, Karl",SWE,Men,team,X,Bronze
+Equestrian,Jumping,DE LOS TRUJILLOS (MARQUIS),ESP,Men,team,X,Gold
+Equestrian,Jumping,"GARCIA FERNANDEZ, Julio",ESP,Men,team,X,Gold
+Equestrian,Jumping,"NAVARRO-MORENES, Jos?",ESP,Men,team,X,Gold
+Equestrian,Jumping,"ANTONIEWICZ, Michal",POL,Men,team,X,Silver
+Equestrian,Jumping,"GZOWSKI, Kazimierz",POL,Men,team,X,Silver
+Equestrian,Jumping,"SZOSLAND, Kazimierz",POL,Men,team,X,Silver
+Fencing,Fencing,"CALNAN, George Charles",USA,Men,?p?e individual,M,Bronze
+Fencing,Fencing,"GAUDIN, Lucien",FRA,Men,?p?e individual,M,Gold
+Fencing,Fencing,"BUCHARD, Georges",FRA,Men,?p?e individual,M,Silver
+Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,foil individual,M,Bronze
+Fencing,Fencing,"GAUDIN, Lucien",FRA,Men,foil individual,M,Gold
+Fencing,Fencing,"CASMIR, Erwin",GER,Men,foil individual,M,Silver
+Fencing,Fencing,"OELKERS, Olga",GER,Women,foil individual,W,Bronze
+Fencing,Fencing,"MAYER, Helene",GER,Women,foil individual,W,Gold
+Fencing,Fencing,"FREEMAN, Muriel B.",GBR,Women,foil individual,W,Silver
+Fencing,Fencing,"ANGANUZZI, Raul",ARG,Men,foil team,M,Bronze
+Fencing,Fencing,"CAMET, Carmelo F.",ARG,Men,foil team,M,Bronze
+Fencing,Fencing,"LARRAZ, Roberto",ARG,Men,foil team,M,Bronze
+Fencing,Fencing,"LUCCHETTI, Hector Pablo",ARG,Men,foil team,M,Bronze
+Fencing,Fencing,"LUCCHETTI, Luis J.",ARG,Men,foil team,M,Bronze
+Fencing,Fencing,"CHIAVACCI, Giorgio",ITA,Men,foil team,M,Gold
+Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,foil team,M,Gold
+Fencing,Fencing,"GUARAGNA, Gioachino",ITA,Men,foil team,M,Gold
+Fencing,Fencing,"PESSINA, Giorgio",ITA,Men,foil team,M,Gold
+Fencing,Fencing,"PIGNOTTI, Ugo",ITA,Men,foil team,M,Gold
+Fencing,Fencing,"PULITI, Oreste",ITA,Men,foil team,M,Gold
+Fencing,Fencing,"CATTIAU, Philippe",FRA,Men,foil team,M,Silver
+Fencing,Fencing,"DUCRET, Roger Fran?ois",FRA,Men,foil team,M,Silver
+Fencing,Fencing,"FLACHER, Raymond P.",FRA,Men,foil team,M,Silver
+Fencing,Fencing,"GABORIAUD, Andr?",FRA,Men,foil team,M,Silver
+Fencing,Fencing,"GAUDIN, Lucien",FRA,Men,foil team,M,Silver
+Fencing,Fencing,"LABATTUT, Andr?",FRA,Men,foil team,M,Silver
+Fencing,Fencing,"BINI, Bino",ITA,Men,sabre individual,M,Bronze
+Fencing,Fencing,"VITEZ TERSZTYANSZKY, Od?n",HUN,Men,sabre individual,M,Gold
+Fencing,Fencing,"PETSCHAUER, Attila",HUN,Men,sabre individual,M,Silver
+Fencing,Fencing,"FRIEDRICH, Tadeusz",POL,Men,sabre team,M,Bronze
+Fencing,Fencing,"LASKOWSKI, Kazimierz",POL,Men,sabre team,M,Bronze
+Fencing,Fencing,"MALECKI, Aleksander S.",POL,Men,sabre team,M,Bronze
+Fencing,Fencing,"PAP?E, Adam",POL,Men,sabre team,M,Bronze
+Fencing,Fencing,"SEGDA, Wladyslaw",POL,Men,sabre team,M,Bronze
+Fencing,Fencing,"ZABIELSKI, Jerzy",POL,Men,sabre team,M,Bronze
+Fencing,Fencing,"GARAY, Janos",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"GLYKAIS, Gyula",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"GOMBOS, Sandor",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"PETSCHAUER, Attila",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"RADY, Jozsef",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"TERSZTYANSZKY, ?d?n",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"ANSELMI, Renato",ITA,Men,sabre team,M,Silver
+Fencing,Fencing,"BINI, Bino",ITA,Men,sabre team,M,Silver
+Fencing,Fencing,"MARZI, Gustavo",ITA,Men,sabre team,M,Silver
+Fencing,Fencing,"PULITI, Oreste",ITA,Men,sabre team,M,Silver
+Fencing,Fencing,"SALAFIA, Emilio",ITA,Men,sabre team,M,Silver
+Fencing,Fencing,"SARROCCHI, Giulio",ITA,Men,sabre team,M,Silver
+Football,Football,"BALONCIERI, Adolfo",ITA,Men,football,M,Bronze
+Football,Football,"BANCHERO, Elvio",ITA,Men,football,M,Bronze
+Football,Football,"BELLINI, Delfo",ITA,Men,football,M,Bronze
+Football,Football,"BERNARDINI, Fulvio",ITA,Men,football,M,Bronze
+Football,Football,"CALIGARIS, Umberto",ITA,Men,football,M,Bronze
+Football,Football,"COMBI, Giampero",ITA,Men,football,M,Bronze
+Football,Football,"DEGANI, V.",ITA,Men,football,M,Bronze
+Football,Football,"DEPRA, Giovanni",ITA,Men,football,M,Bronze
+Football,Football,"FERRARIS, A.",ITA,Men,football,M,Bronze
+Football,Football,"GASPERI, F.",ITA,Men,football,M,Bronze
+Football,Football,"GENOVESI, Pietro",ITA,Men,football,M,Bronze
+Football,Football,"JANNI, Antonio",ITA,Men,football,M,Bronze
+Football,Football,"LEVRATTO, Virgilio Felice",ITA,Men,football,M,Bronze
+Football,Football,"MAGNOZZI, Mario",ITA,Men,football,M,Bronze
+Football,Football,"PASTORE, P.",ITA,Men,football,M,Bronze
+Football,Football,"PIETROBONI, Silvio",ITA,Men,football,M,Bronze
+Football,Football,"PITTO, Alfredo",ITA,Men,football,M,Bronze
+Football,Football,"RIVOLTA, Enrico",ITA,Men,football,M,Bronze
+Football,Football,"ROSETTA, Virginio",ITA,Men,football,M,Bronze
+Football,Football,"ROSSETTI, Gino",ITA,Men,football,M,Bronze
+Football,Football,"SCHIAVIO, Angelo",ITA,Men,football,M,Bronze
+Football,Football,"VIVIANO, A.",ITA,Men,football,M,Bronze
+Football,Football,"ANDRADE, Jos?",URU,Men,football,M,Gold
+Football,Football,"ANSELMO, P.",URU,Men,football,M,Gold
+Football,Football,"ARISPE, Pedro",URU,Men,football,M,Gold
+Football,Football,"ARREMON, Juan Pedro",URU,Men,football,M,Gold
+Football,Football,"BARTIBAS, V.",URU,Men,football,M,Gold
+Football,Football,"BATIGNANI, F.",URU,Men,football,M,Gold
+Football,Football,"BORJAS, Ren?",URU,Men,football,M,Gold
+Football,Football,"CAMPOLO, Antonio",URU,Men,football,M,Gold
+Football,Football,"CANAVESI, Adhemar",URU,Men,football,M,Gold
+Football,Football,"CASTRO, Hector",URU,Men,football,M,Gold
+Football,Football,"CEA, Pedro",URU,Men,football,M,Gold
+Football,Football,"FERNANDEZ, Lorenzo",URU,Men,football,M,Gold
+Football,Football,"FIGUEROA, Roberto",URU,Men,football,M,Gold
+Football,Football,"GESTIDO, Alvaro",URU,Men,football,M,Gold
+Football,Football,"MAZALI, Andr??s",URU,Men,football,M,Gold
+Football,Football,"MELOGNO, A.",URU,Men,football,M,Gold
+Football,Football,"NASAZZI, Jos?",URU,Men,football,M,Gold
+Football,Football,"PETRONE, Pedro",URU,Men,football,M,Gold
+Football,Football,"PIRIZ, Juan",URU,Men,football,M,Gold
+Football,Football,"SCARONE, Hector",URU,Men,football,M,Gold
+Football,Football,"TEJERA, D.",URU,Men,football,M,Gold
+Football,Football,"URDINARAN, Antonio",URU,Men,football,M,Gold
+Football,Football,"BIDOGLIO, Ludovico",ARG,Men,football,M,Silver
+Football,Football,"BOSIO, Angel",ARG,Men,football,M,Silver
+Football,Football,"CALANDRA, Saul H.",ARG,Men,football,M,Silver
+Football,Football,"CARRICABERRY, Alfredo D.",ARG,Men,football,M,Silver
+Football,Football,"CHERRO, Roberto",ARG,Men,football,M,Silver
+Football,Football,"DIAZ, Octavio J.",ARG,Men,football,M,Silver
+Football,Football,"EVARISTO, J.",ARG,Men,football,M,Silver
+Football,Football,"FERREIRA, Manuel",ARG,Men,football,M,Silver
+Football,Football,"GAINZARAIN, Enrique",ARG,Men,football,M,Silver
+Football,Football,"GOMEZ, S. N.",ARG,Men,football,M,Silver
+Football,Football,"HELMAN, A.",ARG,Men,football,M,Silver
+Football,Football,"MEDICI, Angel Segundo",ARG,Men,football,M,Silver
+Football,Football,"MONTI, Luis Felipe",ARG,Men,football,M,Silver
+Football,Football,"OCHOA, P.",ARG,Men,football,M,Silver
+Football,Football,"ORLANDINI, Rodolfo",ARG,Men,football,M,Silver
+Football,Football,"ORSI, Raimundo B.",ARG,Men,football,M,Silver
+Football,Football,"PATERNOSTER, Fernando",ARG,Men,football,M,Silver
+Football,Football,"PERDUCCA, Feliciano Angel",ARG,Men,football,M,Silver
+Football,Football,"PERINETTI, N.",ARG,Men,football,M,Silver
+Football,Football,"TARASCONI, Domingo Alberto",ARG,Men,football,M,Silver
+Football,Football,"WEIHMULLER, L. F.",ARG,Men,football,M,Silver
+Football,Football,"ZUMELZU, A. B.",ARG,Men,football,M,Silver
+Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,horizontal bar,M,Bronze
+Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,horizontal bar,M,Gold
+Gymnastics,Artistic G.,"NERI, Romeo",ITA,Men,horizontal bar,M,Silver
+Gymnastics,Artistic G.,"STUKELJ, Leon",YUG,Men,individual all-round,M,Bronze
+Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,individual all-round,M,Gold
+Gymnastics,Artistic G.,"H?NGGI, Hermann",SUI,Men,individual all-round,M,Silver
+Gymnastics,Artistic G.,"H?NGGI, Hermann",SUI,Men,parallel bars,M,Bronze
+Gymnastics,Artistic G.,"VACHA, Ladislav",TCH,Men,parallel bars,M,Gold
+Gymnastics,Artistic G.,"PRIMOZIC, Josip",YUG,Men,parallel bars,M,Silver
+Gymnastics,Artistic G.,"SAVOLAINEN, Heikki",FIN,Men,pommel horse,M,Bronze
+Gymnastics,Artistic G.,"H?NGGI, Hermann",SUI,Men,pommel horse,M,Gold
+Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,pommel horse,M,Silver
+Gymnastics,Artistic G.,"LOFFLER, Emanuel",TCH,Men,rings,M,Bronze
+Gymnastics,Artistic G.,"STUKELJ, Leon",YUG,Men,rings,M,Gold
+Gymnastics,Artistic G.,"VACHA, Ladislav",TCH,Men,rings,M,Silver
+Gymnastics,Artistic G.,"ANTOSIEWIC, Eduard",YUG,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"CIOTTI, Dragutin",YUG,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"DERGANC, Stane",YUG,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"GREGORKA, Boris",YUG,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"MALEJ, Anton",YUG,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"PORENTA, Ivan",YUG,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"PRIMOZIC, Josip",YUG,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"STUKELJ, Leon",YUG,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"GRIEDER, Hans",SUI,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"G?TTINGER, August",SUI,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"H?NGGI, Hermann",SUI,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"PFISTER, Otto",SUI,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"STEINEMANN, Eduard",SUI,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"WEZEL, Melchior",SUI,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"EFFENBERGER, Josef",TCH,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"GAJDOS, Jan",TCH,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"KOUTNY, Jan",TCH,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"LOFFLER, Emanuel",TCH,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"SUPCIK, Bedrich",TCH,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"TIKAL, Ladislav",TCH,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"VACHA, Ladislav",TCH,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"VESELY, Vaclav",TCH,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"BROADBENT, Annie",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"DESMOND, Lucy",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"HARTLEY, Margaret B.",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"JAGGER, Amy C.",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"JUDD, Isobel M. R.",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"KITE, Jessie T.",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"MOREMAN, Marjorie",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"PICKLES, Edith Carrie",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"SEYMOUR, Ethel",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"SMITH, Ada",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"SMITH, Hilda",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"WOODS, Doris",GBR,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"AGSTERIBBE, Estella",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"BURGERHOF, Petronella",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"DE LEVIE, Elka",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"NORDHEIM, Helena",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"POLAK, Ans",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"SIMONS, Jud",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"STELMA, Jacoba Cornelia",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"VAN DEN BERG, Jacomina",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"VAN DEN BOS, Alida Johanna",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"VAN DER VEGT, Anna Maria",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"VAN RANDWIJK, Petronella Phillemina Johanna",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"VAN RUMT, Hendrika Alida",NED,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"AMBROSETTI, Bianca",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"GIANONI, Lavinia",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"GIAVOTTI, Luigina",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"GIORGI, Virginia",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"MALABARBA, Germana",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"MARANGONI, Clara",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"PERVERSI, Luigina",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"PIZZAVINI, Diana",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"TANZINI, Luisa",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"TRONCONI, Carolina",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"VERCESI, Ines",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"VITTADINI, Rita",ITA,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"DERGANC, Stane",YUG,Men,vault,M,Bronze
+Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,vault,M,Gold
+Gymnastics,Artistic G.,"LOFFLER, Emanuel",TCH,Men,vault,M,Silver
+Hockey,Hockey,"BOCHE, Bruno",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"BRUNNER, Georg",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"F?RSTENDORF, Heinz",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"FRANZKOWIAK, Erwin",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"FREYBERG, Werner",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"HAAG, Theodor",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"HAUSSMANN, Hans Heinrich",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"HAVERBECK, Kurt",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"HEYMANN, Aribert",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"HOBEIN, Herbert",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"HORN, Fritz",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"IRMER, Karl-Heinz",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"KEMMER, Herbert",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"LINCKE, F.",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"M?LLER, Herbert",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"PROFT, Werner",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"SCH?FER, H.",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"STRANTZEN, Gerd",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"WEISS, Kurt",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"WOLLNER, Rolf",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"W?LTJE, Heinz",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"ZANDER, Erich",GER,Men,hockey,M,Bronze
+Hockey,Hockey,"ALLEN, Richard James",IND,Men,hockey,M,Gold
+Hockey,Hockey,"CHAND, Dyan",IND,Men,hockey,M,Gold
+Hockey,Hockey,"GATELEY, Maurice A.",IND,Men,hockey,M,Gold
+Hockey,Hockey,"GILL, K. S.",IND,Men,hockey,M,Gold
+Hockey,Hockey,"GOODSIR-CULLEN, William John",IND,Men,hockey,M,Gold
+Hockey,Hockey,"HAMMOND, Leslie Charles",IND,Men,hockey,M,Gold
+Hockey,Hockey,"KHAN, Feroze Uddin",IND,Men,hockey,M,Gold
+Hockey,Hockey,"MARTHINS, George E.",IND,Men,hockey,M,Gold
+Hockey,Hockey,"NORRIS, Rex A.",IND,Men,hockey,M,Gold
+Hockey,Hockey,"PINNIGER, Broome Eric",IND,Men,hockey,M,Gold
+Hockey,Hockey,"ROCQUE, Michael E.",IND,Men,hockey,M,Gold
+Hockey,Hockey,"SEAMAN, Frederic S.",IND,Men,hockey,M,Gold
+Hockey,Hockey,"SHAUKAT, Ali",IND,Men,hockey,M,Gold
+Hockey,Hockey,"SINGH, Jaipal",IND,Men,hockey,M,Gold
+Hockey,Hockey,"YUSUF, Sayed Mohamed",IND,Men,hockey,M,Gold
+Hockey,Hockey,"ANKERMAN, Jan Geert",NED,Men,hockey,M,Silver
+Hockey,Hockey,"BRAND, Johannes Willem",NED,Men,hockey,M,Silver
+Hockey,Hockey,"DE WAAL, Reindert Berend Jan",NED,Men,hockey,M,Silver
+Hockey,Hockey,"DUSON, Emiel Paulus Josef",NED,Men,hockey,M,Silver
+Hockey,Hockey,"HARDEBECK, C. J. J.",NED,Men,hockey,M,Silver
+Hockey,Hockey,"HUBRECHT, T. F.",NED,Men,hockey,M,Silver
+Hockey,Hockey,"JANNINK, Gerrit Jan Arnold",NED,Men,hockey,M,Silver
+Hockey,Hockey,"KATTE, Adriaan Johan Louis",NED,Men,hockey,M,Silver
+Hockey,Hockey,"KOP, August Johannes",NED,Men,hockey,M,Silver
+Hockey,Hockey,"LEEMBRUGGEN, G.",NED,Men,hockey,M,Silver
+Hockey,Hockey,"MANGELAAR MEERTENS, H. J. L.",NED,Men,hockey,M,Silver
+Hockey,Hockey,"MULLER V. CZERNICKI, O. F.",NED,Men,hockey,M,Silver
+Hockey,Hockey,"TRESLING, Albert Willem",NED,Men,hockey,M,Silver
+Hockey,Hockey,"VAN CITTERS, W. J.",NED,Men,hockey,M,Silver
+Hockey,Hockey,"VAN DE ROVAERT, Paulus",NED,Men,hockey,M,Silver
+Hockey,Hockey,"VAN DER HAGEN, C. J.",NED,Men,hockey,M,Silver
+Hockey,Hockey,"VAN DER VEEN, Robert",NED,Men,hockey,M,Silver
+Hockey,Hockey,"VAN LIEROP, Antoine Robert",NED,Men,hockey,M,Silver
+Hockey,Hockey,"VAN TIENHOVEN VAN DEN BOGAARD, J. J.",NED,Men,hockey,M,Silver
+Hockey,Hockey,"VAN VOORST VAN BEEST, J. M.",NED,Men,hockey,M,Silver
+Hockey,Hockey,"VISSER 'T HOOFT, Hendrik Philip",NED,Men,hockey,M,Silver
+Hockey,Hockey,"WENTHOLT, N.",NED,Men,hockey,M,Silver
+Modern Pentathlon,Modern Pentath.,"KAHL, Helmut",GER,Men,Individual competition,M,Bronze
+Modern Pentathlon,Modern Pentath.,"THOFELT, Sven",SWE,Men,Individual competition,M,Gold
+Modern Pentathlon,Modern Pentath.,"LINDMAN, Bo S. G.",SWE,Men,Individual competition,M,Silver
+Rowing,Rowing,"MCDOWELL, Paul L.",USA,Men,coxless pair (2-),M,Bronze
+Rowing,Rowing,"SCHMITT, John Victor",USA,Men,coxless pair (2-),M,Bronze
+Rowing,Rowing,"M?SCHTER, Kurt",GER,Men,coxless pair (2-),M,Gold
+Rowing,Rowing,"M?LLER, Bruno",GER,Men,coxless pair (2-),M,Gold
+Rowing,Rowing,"NISBET, Robert Archibald",GBR,Men,coxless pair (2-),M,Silver
+Rowing,Rowing,"O'BRIEN, Terence Noel",GBR,Men,coxless pair (2-),M,Silver
+Rowing,Rowing,"FLESSL, Viktor",AUT,Men,double sculls (2x),M,Bronze
+Rowing,Rowing,"LOSERT, Leo",AUT,Men,double sculls (2x),M,Bronze
+Rowing,Rowing,"COSTELLO, Paul Vincent",USA,Men,double sculls (2x),M,Gold
+Rowing,Rowing,"MCILVAINE, Charles Joseph",USA,Men,double sculls (2x),M,Gold
+Rowing,Rowing,"GUEST, John Schofield",CAN,Men,double sculls (2x),M,Silver
+Rowing,Rowing,"WRIGHT JR., Joseph William",CAN,Men,double sculls (2x),M,Silver
+Rowing,Rowing,"DONNELLY, John Henry",CAN,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"FIDDES, Frank James",CAN,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"HAND, John L.",CAN,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"HEDGES, Frederick Charles",CAN,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"MEECH, Athol Charles",CAN,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"MURDOCH, Jack L.",CAN,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"NORRIS, Charles Edgar",CAN,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"RICHARDSON, Herbert Trenchard",CAN,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"ROSS, William M.",CAN,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"BLESSING, Donald F.",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"BRINCK, John Manning",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"CALDWELL, Hubert Aspinwall",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"DALLY, William Morris",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"DONLON, Peter Dwight",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"FREDERICK, Francis Harland",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"STALDER, Marvin Frederick",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"THOMPSON, William G.",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"WORKMAN, James Theodore",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"BADCOCK, John Charles",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"BERESFORD, Jack",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"GOLLAN, Donald Herbert Louis",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"HAMILTON, James Hamish",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"KILLICK, G. Cecil",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"LANE, Harold Mansfield",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"NICKALLS, Guy Oliver Jr.",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"SULLEY, Arthur Lindsay",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"WEST, Harold E.",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"BONADE, Umberto",ITA,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"FRESCHI, Pietro",ITA,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"GENNARI, Paolo",ITA,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"ROSSI, Cesare",ITA,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"BEESLY, Richard",GBR,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"BEVAN, Edward Vaughan",GBR,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"LANDER, John Gerard Heath",GBR,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"WARRINER, Michael Henry",GBR,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"BAYER, Ernest Henry",USA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"HEALIS, George",USA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"KARLE, Charles G.",USA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"MILLER, William G.",USA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"BIRKHOLZ, Leszek Leon",POL,Men,four-oared shell with coxswain (4-),M,Bronze
+Rowing,Rowing,"BRONIKOWSKI, Franciszek",POL,Men,four-oared shell with coxswain (4-),M,Bronze
+Rowing,Rowing,"DREWEK, Boleslaw",POL,Men,four-oared shell with coxswain (4-),M,Bronze
+Rowing,Rowing,"JANKOWSKI, Edmund",POL,Men,four-oared shell with coxswain (4-),M,Bronze
+Rowing,Rowing,"ORMANOWSKI, Bernard",POL,Men,four-oared shell with coxswain (4-),M,Bronze
+Rowing,Rowing,"D, Giliante",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+Rowing,Rowing,"DELISE, Giovanni",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+Rowing,Rowing,"PERENTIN, Valerio",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+Rowing,Rowing,"PETRONIO, Renato",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+Rowing,Rowing,"VITTORI, Nicolo",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+Rowing,Rowing,"B?SCH, Fritz",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+Rowing,Rowing,"BUCHER, Otto",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+Rowing,Rowing,"HAAS, Ernst",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+Rowing,Rowing,"MEYER, Joseph",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+Rowing,Rowing,"SCHWEGLER, Karl",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+Rowing,Rowing,"ANTHONY, Georges",BEL,Men,pair-oared shell with coxswain (2+),M,Bronze
+Rowing,Rowing,"DE CONINCK, Fran?ois",BEL,Men,pair-oared shell with coxswain (2+),M,Bronze
+Rowing,Rowing,"FLAMENT, L?on",BEL,Men,pair-oared shell with coxswain (2+),M,Bronze
+Rowing,Rowing,"BOURQUIN, Hans",SUI,Men,pair-oared shell with coxswain (2+),M,Gold
+Rowing,Rowing,"SCH?CHLIN, Hans W.",SUI,Men,pair-oared shell with coxswain (2+),M,Gold
+Rowing,Rowing,"SCH?CHLIN, Karl F.",SUI,Men,pair-oared shell with coxswain (2+),M,Gold
+Rowing,Rowing,"MARCELLE, Armand",FRA,Men,pair-oared shell with coxswain (2+),M,Silver
+Rowing,Rowing,"MARCELLE, Edouard",FRA,Men,pair-oared shell with coxswain (2+),M,Silver
+Rowing,Rowing,"PR?AUX, Henri",FRA,Men,pair-oared shell with coxswain (2+),M,Silver
+Rowing,Rowing,"COLLET, Theodore David Anthony",GBR,Men,single sculls (1x),M,Bronze
+Rowing,Rowing,"PEARCE, Henry Robert",AUS,Men,single sculls (1x),M,Gold
+Rowing,Rowing,"MYERS, Kenneth",USA,Men,single sculls (1x),M,Silver
+Sailing,Sailing,"BROMAN, B.",FIN,Men,12 foot dinghy individual,X,Bronze
+Sailing,Sailing,"THORELL, Sven",SWE,Men,12 foot dinghy individual,X,Gold
+Sailing,Sailing,"ROBERT, Henrik",NOR,Men,12 foot dinghy individual,X,Silver
+Sailing,Sailing,"FAEHLMANN, A.",EST,Men,6m,X,Bronze
+Sailing,Sailing,"FAEHLMANN, G.",EST,Men,6m,X,Bronze
+Sailing,Sailing,"VOGDT, E.",EST,Men,6m,X,Bronze
+Sailing,Sailing,"VON WIREN, W.",EST,Men,6m,X,Bronze
+Sailing,Sailing,"WEKSCHIN, N.",EST,Men,6m,X,Bronze
+Sailing,Sailing,"ANKER, E.",NOR,Men,6m,X,Gold
+Sailing,Sailing,"ANKER, Johan August",NOR,Men,6m,X,Gold
+Sailing,Sailing,"BRYHN, H.P.",NOR,Men,6m,X,Gold
+Sailing,Sailing,"CROWN PRINCE OLAV, H.R.H.",NOR,Men,6m,X,Gold
+Sailing,Sailing,HOY-PETERSEN,DEN,Men,6m,X,Silver
+Sailing,Sailing,"LINCK, S.",DEN,Men,6m,X,Silver
+Sailing,Sailing,"MOELLER, Edmund Otto Jr.",DEN,Men,6m,X,Silver
+Sailing,Sailing,"SCHL?TTER, P.",DEN,Men,6m,X,Silver
+Sailing,Sailing,"VETT, Vilhelm",DEN,Men,6m,X,Silver
+Sailing,Sailing,"HAMMAR, Clarence",SWE,Men,8m,X,Bronze
+Sailing,Sailing,"HOLM, Tore",SWE,Men,8m,X,Bronze
+Sailing,Sailing,"SANDBLOM, C.G.",SWE,Men,8m,X,Bronze
+Sailing,Sailing,"SANDBLOM, J.N.",SWE,Men,8m,X,Bronze
+Sailing,Sailing,"SANDBLOM, J.P.",SWE,Men,8m,X,Bronze
+Sailing,Sailing,"TOERSLEFF, O.W.F.",SWE,Men,8m,X,Bronze
+Sailing,Sailing,"DE VRIES LENTSCH JR., Willem",NED,Men,8m,X,Silver
+Sailing,Sailing,"DE WIT, M.",NED,Men,8m,X,Silver
+Sailing,Sailing,"DOEDES, L.",NED,Men,8m,X,Silver
+Sailing,Sailing,"KERSKEN, H.",NED,Men,8m,X,Silver
+Sailing,Sailing,"VAN HOOLWERFF, J.C.",NED,Men,8m,X,Silver
+Sailing,Sailing,"VAN STAVEREN, C.",NED,Men,8m,X,Silver
+Sailing,Sailing,"HERIOT, Virginie",FRA,Women,8m,X,Gold
+Weightlifting,Weightlifting,"W?LPERT, Hans",GER,Men,"- 60kg, total (featherweight)",M,Bronze
+Weightlifting,Weightlifting,"ANDRYSEK, Franz Joseph",AUT,Men,"- 60kg, total (featherweight)",M,Gold
+Weightlifting,Weightlifting,"GABETTI, Pierino",ITA,Men,"- 60kg, total (featherweight)",M,Silver
+Weightlifting,Weightlifting,"SKOBLA, Jaroslav",TCH,Men,"+ 82.5kg, total (heavyweight)",M,Bronze
+Weightlifting,Weightlifting,"STRASSBERGER, Josef",GER,Men,"+ 82.5kg, total (heavyweight)",M,Gold
+Weightlifting,Weightlifting,"LUHA??R, Arnold",EST,Men,"+ 82.5kg, total (heavyweight)",M,Silver
+Weightlifting,Weightlifting,"ARNOUT, Fernand",FRA,Men,"60 - 67.5kg, total (lightweight)",M,Bronze
+Weightlifting,Weightlifting,"HAAS, Hans",AUT,Men,"60 - 67.5kg, total (lightweight)",M,Gold
+Weightlifting,Weightlifting,"HELBIG, Kurt",GER,Men,"60 - 67.5kg, total (lightweight)",M,Gold
+Weightlifting,Weightlifting,"SCHEFFER, August",NED,Men,"67.5 - 75kg, total (middleweight)",M,Bronze
+Weightlifting,Weightlifting,"FRAN?OIS, Roger",FRA,Men,"67.5 - 75kg, total (middleweight)",M,Gold
+Weightlifting,Weightlifting,"GALIMBERTI, Carlo",ITA,Men,"67.5 - 75kg, total (middleweight)",M,Silver
+Weightlifting,Weightlifting,"VERHEYEN, Johannes",NED,Men,"75 - 82.5kg, total (light-heavyweight)",M,Bronze
+Weightlifting,Weightlifting,"NOSSEIR, El Sayed Mohamed",EGY,Men,"75 - 82.5kg, total (light-heavyweight)",M,Gold
+Weightlifting,Weightlifting,"HOSTIN, Louis",FRA,Men,"75 - 82.5kg, total (light-heavyweight)",M,Silver
+Wrestling,Wrestling Free.,"TRIFUNOV, James",CAN,Men,- 56kg (bantamweight),M,Bronze
+Wrestling,Wrestling Free.,"M?KINEN, Kaarlo E.",FIN,Men,- 56kg (bantamweight),M,Gold
+Wrestling,Wrestling Free.,"SPAPEN, Edmond",BEL,Men,- 56kg (bantamweight),M,Silver
+Wrestling,Wrestling Free.,"DAME, Edmond",FRA,Men,+ 87kg (heavyweight),M,Bronze
+Wrestling,Wrestling Free.,"RICKTTOFF, Johan",SWE,Men,+ 87kg (heavyweight),M,Gold
+Wrestling,Wrestling Free.,"SIHVOLA, A.",FIN,Men,+ 87kg (heavyweight),M,Silver
+Wrestling,Wrestling Free.,"MINDER, Hans",SUI,Men,56 - 61kg (featherweight),M,Bronze
+Wrestling,Wrestling Free.,"MORRISON, Allie Roy",USA,Men,56 - 61kg (featherweight),M,Gold
+Wrestling,Wrestling Free.,"PIHLAJAM?KI, Kustaa",FIN,Men,56 - 61kg (featherweight),M,Silver
+Wrestling,Wrestling Free.,"LEINO, Eino Aukusti",FIN,Men,61 - 66kg (lightweight),M,Bronze
+Wrestling,Wrestling Free.,"KAPP, Osvald",EST,Men,61 - 66kg (lightweight),M,Gold
+Wrestling,Wrestling Free.,"PAC?ME, Charles",FRA,Men,61 - 66kg (lightweight),M,Silver
+Wrestling,Wrestling Free.,"LETCHFORD, Maurice E.",CAN,Men,66 - 72kg (welterweight),M,Bronze
+Wrestling,Wrestling Free.,"HAAVISTO, Arvo",FIN,Men,66 - 72kg (welterweight),M,Gold
+Wrestling,Wrestling Free.,"APPLETON, Lloyd Otto",USA,Men,66 - 72kg (welterweight),M,Silver
+Wrestling,Wrestling Free.,"RABIN, S.",GBR,Men,72 - 79kg (middleweight),M,Bronze
+Wrestling,Wrestling Free.,"KYBURZ, E.",SUI,Men,72 - 79kg (middleweight),M,Gold
+Wrestling,Wrestling Free.,"STOCKTON, Donald Parker",CAN,Men,72 - 79kg (middleweight),M,Silver
+Wrestling,Wrestling Free.,"LEFEBVRE, H.",FRA,Men,79 - 87kg (light-heavyweight),M,Bronze
+Wrestling,Wrestling Free.,"SJ?STEDT, Thure",SWE,Men,79 - 87kg (light-heavyweight),M,Gold
+Wrestling,Wrestling Free.,"B?GLI, A.",SUI,Men,79 - 87kg (light-heavyweight),M,Silver
+Wrestling,Wrestling Gre-R,"GOZZI, Giovanni",ITA,Men,- 58kg (bantamweight),M,Bronze
+Wrestling,Wrestling Gre-R,"LEUCHT, K.",GER,Men,- 58kg (bantamweight),M,Gold
+Wrestling,Wrestling Gre-R,"MAUDR, Jindrich",TCH,Men,- 58kg (bantamweight),M,Silver
+Wrestling,Wrestling Gre-R,"GEHRING, Georg",GER,Men,+ 82.5kg (super heavyweight),M,Bronze
+Wrestling,Wrestling Gre-R,"SVENSSON, Rudolf",SWE,Men,+ 82.5kg (super heavyweight),M,Gold
+Wrestling,Wrestling Gre-R,"NYSTR?M, Hjalmar Eemil",FIN,Men,+ 82.5kg (super heavyweight),M,Silver
+Wrestling,Wrestling Gre-R,"QUAGLIA, Gerolamo",ITA,Men,58 - 60kg (featherweight),M,Bronze
+Wrestling,Wrestling Gre-R,"WALI, W.",EST,Men,58 - 60kg (featherweight),M,Gold
+Wrestling,Wrestling Gre-R,"MALMBERG, Eric",SWE,Men,58 - 60kg (featherweight),M,Silver
+Wrestling,Wrestling Gre-R,"VESTERLUND, E.V.",FIN,Men,60 - 67.5kg (lightweight),M,Bronze
+Wrestling,Wrestling Gre-R,"KERESZTES, Lajos",HUN,Men,60 - 67.5kg (lightweight),M,Gold
+Wrestling,Wrestling Gre-R,"SPERLING, Eduard",GER,Men,60 - 67.5kg (lightweight),M,Silver
+Wrestling,Wrestling Gre-R,"KUSNETS, Albert",EST,Men,67.5 - 75kg (middleweight),M,Bronze
+Wrestling,Wrestling Gre-R,"KOKKINEN, V?in? Anselmi",FIN,Men,67.5 - 75kg (middleweight),M,Gold
+Wrestling,Wrestling Gre-R,"PAPP, L.",HUN,Men,67.5 - 75kg (middleweight),M,Silver
+Wrestling,Wrestling Gre-R,"PELLINEN, Onni",FIN,Men,75 - 82.5kg (light-heavyweight),M,Bronze
+Wrestling,Wrestling Gre-R,"MOUSTAPHA, Ibrahim",EGY,Men,75 - 82.5kg (light-heavyweight),M,Gold
+Wrestling,Wrestling Gre-R,"RIEGER, A.",GER,Men,75 - 82.5kg (light-heavyweight),M,Silver

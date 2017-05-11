@@ -1,0 +1,471 @@
+Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+Aquatics,Diving,"BRAUNSCHWEIGER, Alfred",GER,Men,10m platform,M,Bronze
+Aquatics,Diving,"KEHOE, Frank",USA,Men,10m platform,M,Bronze
+Aquatics,Diving,"SHELDON, George",USA,Men,10m platform,M,Gold
+Aquatics,Diving,"HOFFMANN, Georg",GER,Men,10m platform,M,Silver
+Aquatics,Diving,"GOODWIN, Leo Budd",USA,Men,plunge for distance,M,Bronze
+Aquatics,Diving,"DICKEY, William Paul",USA,Men,plunge for distance,M,Gold
+Aquatics,Diving,"ADAMS, Edgar H.",USA,Men,plunge for distance,M,Silver
+Aquatics,Swimming,"ZACHARIAS, Georg",GER,Men,100m backstroke,M,Bronze
+Aquatics,Swimming,"BRACK, Walter",GER,Men,100m backstroke,M,Gold
+Aquatics,Swimming,"HOFFMANN, Georg",GER,Men,100m backstroke,M,Silver
+Aquatics,Swimming,"LEARY, J. Scott",USA,Men,100m freestyle,M,Bronze
+Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,100m freestyle,M,Gold
+Aquatics,Swimming,"DANIELS, Charles",USA,Men,100m freestyle,M,Silver
+Aquatics,Swimming,"GAILEY, Francis",USA,Men,1500m freestyle,M,Bronze
+Aquatics,Swimming,"RAUSCH, Emil",GER,Men,1500m freestyle,M,Gold
+Aquatics,Swimming,"KISS, Geza",HUN,Men,1500m freestyle,M,Silver
+Aquatics,Swimming,"RAUSCH, Emil",GER,Men,200m freestyle,M,Bronze
+Aquatics,Swimming,"DANIELS, Charles",USA,Men,200m freestyle,M,Gold
+Aquatics,Swimming,"GAILEY, Francis",USA,Men,200m freestyle,M,Silver
+Aquatics,Swimming,"HANDY, Hehry Jamison",USA,Men,400m breaststroke,M,Bronze
+Aquatics,Swimming,"ZACHARIAS, Georg",GER,Men,400m breaststroke,M,Gold
+Aquatics,Swimming,"BRACK, Walter",GER,Men,400m breaststroke,M,Silver
+Aquatics,Swimming,"WAHLE, Otto",AUT,Men,400m freestyle,M,Bronze
+Aquatics,Swimming,"DANIELS, Charles",USA,Men,400m freestyle,M,Gold
+Aquatics,Swimming,"GAILEY, Francis",USA,Men,400m freestyle,M,Silver
+Aquatics,Swimming,"EVANS, Gwynne",USA,Men,4x50y freestyle relay,M,Bronze
+Aquatics,Swimming,"ORTHWEIN, William Robert",USA,Men,4x50y freestyle relay,M,Bronze
+Aquatics,Swimming,"REYBURN, Amadee",USA,Men,4x50y freestyle relay,M,Bronze
+Aquatics,Swimming,"SCHWARTZ, Marquard",USA,Men,4x50y freestyle relay,M,Bronze
+Aquatics,Swimming,"DANIELS, Charles",USA,Men,4x50y freestyle relay,M,Gold
+Aquatics,Swimming,"GOODWIN, Leo Budd",USA,Men,4x50y freestyle relay,M,Gold
+Aquatics,Swimming,"HANDLEY, Louis De Breda",USA,Men,4x50y freestyle relay,M,Gold
+Aquatics,Swimming,"RUDDY, Joseph A.",USA,Men,4x50y freestyle relay,M,Gold
+Aquatics,Swimming,"GOETZ, Hugo",USA,Men,4x50y freestyle relay,M,Silver
+Aquatics,Swimming,"HAMMOND, David",USA,Men,4x50y freestyle relay,M,Silver
+Aquatics,Swimming,"THORNE, Raymond",USA,Men,4x50y freestyle relay,M,Silver
+Aquatics,Swimming,"TUTTLE, William",USA,Men,4x50y freestyle relay,M,Silver
+Aquatics,Swimming,"DANIELS, Charles",USA,Men,50y freestyle (45.72m),M,Bronze
+Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,50y freestyle (45.72m),M,Gold
+Aquatics,Swimming,"LEARY, J. Scott",USA,Men,50y freestyle (45.72m),M,Silver
+Aquatics,Swimming,"KISS, Geza",HUN,Men,880y freestyle (804.66m),M,Bronze
+Aquatics,Swimming,"RAUSCH, Emil",GER,Men,880y freestyle (804.66m),M,Gold
+Aquatics,Swimming,"GAILEY, Francis",USA,Men,880y freestyle (804.66m),M,Silver
+Archery,Archery,"THOMPSON, William Henry",USA,Men,double american round (60y - 50y - 40y),M,Bronze
+Archery,Archery,"BRYANT, George Philipp",USA,Men,double american round (60y - 50y - 40y),M,Gold
+Archery,Archery,"WILLIAMS, Robert",USA,Men,double american round (60y - 50y - 40y),M,Silver
+Archery,Archery,"POLLOCK, Jessie",USA,Women,double columbia round (50y - 40y - 30y),W,Bronze
+Archery,Archery,"HOWELL, Matilda Scott",USA,Women,double columbia round (50y - 40y - 30y),W,Gold
+Archery,Archery,"COOKE, Emma C.",USA,Women,double columbia round (50y - 40y - 30y),W,Silver
+Archery,Archery,"POLLOCK, Jessie",USA,Women,double national round (60y - 50y),W,Bronze
+Archery,Archery,"HOWELL, Matilda Scott",USA,Women,double national round (60y - 50y),W,Gold
+Archery,Archery,"COOKE, Emma C.",USA,Women,double national round (60y - 50y),W,Silver
+Archery,Archery,"THOMPSON, William Henry",USA,Men,double york round (100y - 80y - 60y),M,Bronze
+Archery,Archery,"BRYANT, George Philipp",USA,Men,double york round (100y - 80y - 60y),M,Gold
+Archery,Archery,"WILLIAMS, Robert",USA,Men,double york round (100y - 80y - 60y),M,Silver
+Archery,Archery,"BRYANT, George Philipp",USA,Men,team round 60y,M,Bronze
+Archery,Archery,"BRYANT, Wallace",USA,Men,team round 60y,M,Bronze
+Archery,Archery,"DALLIN, Cyrus Edwin",USA,Men,team round 60y,M,Bronze
+Archery,Archery,"RICHARDSON, Henry Barber",USA,Men,team round 60y,M,Bronze
+Archery,Archery,"MAXSON, Louis W.",USA,Men,team round 60y,M,Gold
+Archery,Archery,"SPENCER, Galen Carter",USA,Men,team round 60y,M,Gold
+Archery,Archery,"THOMPSON, William Henry",USA,Men,team round 60y,M,Gold
+Archery,Archery,"WILLIAMS, Robert",USA,Men,team round 60y,M,Gold
+Archery,Archery,"CLARK, William A.",USA,Men,team round 60y,M,Silver
+Archery,Archery,"DUVALL, Samuel Harding",USA,Men,team round 60y,M,Silver
+Archery,Archery,"HUBBARD, Charles R.",USA,Men,team round 60y,M,Silver
+Archery,Archery,"WOODRUFF, Charles S.",USA,Men,team round 60y,M,Silver
+Archery,Archery,"HOWELL, Matilda Scott",USA,Women,teams FITA round,W,Gold
+Archery,Archery,"POLLOCK, Jessie",USA,Women,teams FITA round,W,Gold
+Archery,Archery,"TAYLOR, Louise",USA,Women,teams FITA round,W,Gold
+Archery,Archery,"WOODRUFF, Laura",USA,Women,teams FITA round,W,Gold
+Archery,Archery,"COOKE, Emma C.",USA,Women,teams FITA round,W,Silver
+Archery,Archery,"TAYLOR, Mabel",USA,Women,teams FITA round,W,Silver
+Athletics,Athletics,"HOGENSON, William",USA,Men,100m,M,Bronze
+Athletics,Athletics,"HAHN, Archie",USA,Men,100m,M,Gold
+Athletics,Athletics,"CARTMELL, John Nathaniel",USA,Men,100m,M,Silver
+Athletics,Athletics,"ASHBURNER, Lesley",USA,Men,110m hurdles,M,Bronze
+Athletics,Athletics,"SCHULE, Frederick",USA,Men,110m hurdles,M,Gold
+Athletics,Athletics,"SHIDELER, Thaddeus",USA,Men,110m hurdles,M,Silver
+Athletics,Athletics,"HEARN, Lacey",USA,Men,1500m,M,Bronze
+Athletics,Athletics,"LIGHTBODY, James",USA,Men,1500m,M,Gold
+Athletics,Athletics,"VERNER, William Frank",USA,Men,1500m,M,Silver
+Athletics,Athletics,"HOGENSON, William",USA,Men,200m,M,Bronze
+Athletics,Athletics,"HAHN, Archie",USA,Men,200m,M,Gold
+Athletics,Athletics,"CARTMELL, John Nathaniel",USA,Men,200m,M,Silver
+Athletics,Athletics,"POAGE, George",USA,Men,200m hurdles,M,Bronze
+Athletics,Athletics,"HILLMAN, Harry",USA,Men,200m hurdles,M,Gold
+Athletics,Athletics,"CASTLEMAN, Frank",USA,Men,200m hurdles,M,Silver
+Athletics,Athletics,"NEWTON, Arthur",USA,Men,3000m steeplechase,M,Bronze
+Athletics,Athletics,"LIGHTBODY, James",USA,Men,3000m steeplechase,M,Gold
+Athletics,Athletics,"DALY, John",GBR,Men,3000m steeplechase,M,Silver
+Athletics,Athletics,"GROMAN, Herman",USA,Men,400m,M,Bronze
+Athletics,Athletics,"HILLMAN, Harry",USA,Men,400m,M,Gold
+Athletics,Athletics,"WALLER, Frank",USA,Men,400m,M,Silver
+Athletics,Athletics,"POAGE, George",USA,Men,400m hurdles,M,Bronze
+Athletics,Athletics,"HILLMAN, Harry",USA,Men,400m hurdles,M,Gold
+Athletics,Athletics,"WALLER, Frank",USA,Men,400m hurdles,M,Silver
+Athletics,Athletics,"MUNSON, David Curtis",USA,Men,4miles team,M,Gold
+Athletics,Athletics,"NEWTON, Arthur",USA,Men,4miles team,M,Gold
+Athletics,Athletics,"PILGRIM, Paul Harry",USA,Men,4miles team,M,Gold
+Athletics,Athletics,"UNDERWOOD, George",USA,Men,4miles team,M,Gold
+Athletics,Athletics,"VALENTINE, Howard",USA,Men,4miles team,M,Gold
+Athletics,Athletics,"CORAY, Albert",ZZX,Men,4miles team,M,Silver
+Athletics,Athletics,"HATCH, Sidney",ZZX,Men,4miles team,M,Silver
+Athletics,Athletics,"HEARN, Lacey",ZZX,Men,4miles team,M,Silver
+Athletics,Athletics,"LIGHTBODY, James",ZZX,Men,4miles team,M,Silver
+Athletics,Athletics,"VERNER, William Frank",ZZX,Men,4miles team,M,Silver
+Athletics,Athletics,"MITCHELL, James",USA,Men,56lb weight throw (25.4kg),M,Bronze
+Athletics,Athletics,"DESMARTEAU, Etienne",CAN,Men,56lb weight throw (25.4kg),M,Gold
+Athletics,Athletics,"FLANAGAN, John Jesus",USA,Men,56lb weight throw (25.4kg),M,Silver
+Athletics,Athletics,"MOULTON, Fay",USA,Men,60m,M,Bronze
+Athletics,Athletics,"HAHN, Archie",USA,Men,60m,M,Gold
+Athletics,Athletics,"HOGENSON, William",USA,Men,60m,M,Silver
+Athletics,Athletics,"BREITKREUTZ, Emil",USA,Men,800m,M,Bronze
+Athletics,Athletics,"LIGHTBODY, James",USA,Men,800m,M,Gold
+Athletics,Athletics,"VALENTINE, Howard",USA,Men,800m,M,Silver
+Athletics,Athletics,"HARE, Thomas Truxton",USA,Men,decathlon,M,Bronze
+Athletics,Athletics,"KIELY, Thomas Francis",GBR,Men,decathlon,M,Gold
+Athletics,Athletics,"GUNN, Adam",USA,Men,decathlon,M,Silver
+Athletics,Athletics,"GEORGANDAS, Nicolaos",GRE,Men,discus throw,M,Bronze
+Athletics,Athletics,"SHERIDAN, Martin",USA,Men,discus throw,M,Gold
+Athletics,Athletics,"ROSE, Ralph",USA,Men,discus throw,M,Silver
+Athletics,Athletics,"ROSE, Ralph",USA,Men,hammer throw,M,Bronze
+Athletics,Athletics,"FLANAGAN, John Jesus",USA,Men,hammer throw,M,Gold
+Athletics,Athletics,"DEWITT, John",USA,Men,hammer throw,M,Silver
+Athletics,Athletics,"WEINSTEIN, Paul",GER,Men,high jump,M,Bronze
+Athletics,Athletics,"JONES, Samuel",USA,Men,high jump,M,Gold
+Athletics,Athletics,"SERVISS, Garrett",USA,Men,high jump,M,Silver
+Athletics,Athletics,"ROBERTSON, Lawson N.",USA,Men,"high jump, standing",M,Bronze
+Athletics,Athletics,"EWRY, Ray",USA,Men,"high jump, standing",M,Gold
+Athletics,Athletics,"STADLER, Joseph F.",USA,Men,"high jump, standing",M,Silver
+Athletics,Athletics,"STANGLAND, Robert",USA,Men,long jump,M,Bronze
+Athletics,Athletics,"PRINSTEIN, Meyer",USA,Men,long jump,M,Gold
+Athletics,Athletics,"FRANK, Daniel",USA,Men,long jump,M,Silver
+Athletics,Athletics,"BILLER, John",USA,Men,"long jump, standing",M,Bronze
+Athletics,Athletics,"EWRY, Ray",USA,Men,"long jump, standing",M,Gold
+Athletics,Athletics,"KING, Charles",USA,Men,"long jump, standing",M,Silver
+Athletics,Athletics,"NEWTON, Arthur",USA,Men,marathon,M,Bronze
+Athletics,Athletics,"HICKS, Thomas",USA,Men,marathon,M,Gold
+Athletics,Athletics,"CORAY, Albert",USA,Men,marathon,M,Silver
+Athletics,Athletics,"WILKINS, Louis",USA,Men,pole vault,M,Bronze
+Athletics,Athletics,"DVORAK, Charles",USA,Men,pole vault,M,Gold
+Athletics,Athletics,"SAMSE, Leroy",USA,Men,pole vault,M,Silver
+Athletics,Athletics,"FEUERBACH, Lawrence E. Joseph",USA,Men,shot put,M,Bronze
+Athletics,Athletics,"ROSE, Ralph",USA,Men,shot put,M,Gold
+Athletics,Athletics,"COE, William Wesley",USA,Men,shot put,M,Silver
+Athletics,Athletics,"MERZ, William",USA,Men,triathlon (long jump / shot put / 100 yards),M,Bronze
+Athletics,Athletics,"EMMERICH, Max",USA,Men,triathlon (long jump / shot put / 100 yards),M,Gold
+Athletics,Athletics,"GRIEB, John",USA,Men,triathlon (long jump / shot put / 100 yards),M,Silver
+Athletics,Athletics,"STANGLAND, Robert",USA,Men,triple jump,M,Bronze
+Athletics,Athletics,"PRINSTEIN, Meyer",USA,Men,triple jump,M,Gold
+Athletics,Athletics,"ENGLEHARDT, Frederick",USA,Men,triple jump,M,Silver
+Athletics,Athletics,"STADLER, Joseph F.",USA,Men,"triple jump, standing",M,Bronze
+Athletics,Athletics,"EWRY, Ray",USA,Men,"triple jump, standing",M,Gold
+Athletics,Athletics,"KING, Charles",USA,Men,"triple jump, standing",M,Silver
+Boxing,Boxing,"FINNEGAN, George",USA,Men,- 47.63kg (flyweight),M,Gold
+Boxing,Boxing,"BURKE, Miles",USA,Men,- 47.63kg (flyweight),M,Silver
+Boxing,Boxing,"MICHAELS, William",USA,Men,+ 71.67kg (heavyweight),M,Bronze
+Boxing,Boxing,"BERGER, Samuel",USA,Men,+ 71.67kg (heavyweight),M,Gold
+Boxing,Boxing,"MAYER, Charles",USA,Men,+ 71.67kg (heavyweight),M,Silver
+Boxing,Boxing,"KIRK, Oliver L.",USA,Men,47.63 - 52.16kg (bantamweight),M,Gold
+Boxing,Boxing,"FINNEGAN, George",USA,Men,47.63 - 52.16kg (bantamweight),M,Silver
+Boxing,Boxing,"GILMORE, Frederick",USA,Men,52.16 - 56.7kg (featherweight),M,Bronze
+Boxing,Boxing,"KIRK, Oliver L.",USA,Men,52.16 - 56.7kg (featherweight),M,Gold
+Boxing,Boxing,"HALLER, Frank",USA,Men,52.16 - 56.7kg (featherweight),M,Silver
+Boxing,Boxing,"VAN HORN, Russell",USA,Men,56.7 - 61.24kg (lightweight),M,Bronze
+Boxing,Boxing,"SPANGER, Harry J.",USA,Men,56.7 - 61.24kg (lightweight),M,Gold
+Boxing,Boxing,"EAGAN, James Jack",USA,Men,56.7 - 61.24kg (lightweight),M,Silver
+Boxing,Boxing,"EAGAN, James Jack",USA,Men,61.24 - 65.77kg (welterweight),M,Bronze
+Boxing,Boxing,"LYDON, Joseph",USA,Men,61.24 - 65.77kg (welterweight),M,Bronze
+Boxing,Boxing,"YOUNG, Albert",USA,Men,61.24 - 65.77kg (welterweight),M,Gold
+Boxing,Boxing,"SPANGER, Harry J.",USA,Men,61.24 - 65.77kg (welterweight),M,Silver
+Boxing,Boxing,"MAYER, Charles",USA,Men,65.77 - 71.67kg (middleweight),M,Gold
+Boxing,Boxing,"SPRADLEY, Benjamin",USA,Men,65.77 - 71.67kg (middleweight),M,Silver
+Cycling,Cycling Track,"BILLINGTON, Edward",USA,Men,1 mile (1609.3m),M,Bronze
+Cycling,Cycling Track,"HURLEY, Marcus",USA,Men,1 mile (1609.3m),M,Gold
+Cycling,Cycling Track,"DOWNING, Burton",USA,Men,1 mile (1609.3m),M,Silver
+Cycling,Cycling Track,"DOWNING, Burton",USA,Men,1/2 mile (804.7m),M,Bronze
+Cycling,Cycling Track,"HURLEY, Marcus",USA,Men,1/2 mile (804.7m),M,Gold
+Cycling,Cycling Track,"BILLINGTON, Edward",USA,Men,1/2 mile (804.7m),M,Silver
+Cycling,Cycling Track,"BILLINGTON, Edward",USA,Men,1/3 mile (536.5m),M,Bronze
+Cycling,Cycling Track,"HURLEY, Marcus",USA,Men,1/3 mile (536.5m),M,Gold
+Cycling,Cycling Track,"DOWNING, Burton",USA,Men,1/3 mile (536.5m),M,Silver
+Cycling,Cycling Track,"BILLINGTON, Edward",USA,Men,1/4 mile (402.3m),M,Bronze
+Cycling,Cycling Track,"HURLEY, Marcus",USA,Men,1/4 mile (402.3m),M,Gold
+Cycling,Cycling Track,"DOWNING, Burton",USA,Men,1/4 mile (402.3m),M,Silver
+Cycling,Cycling Track,"HURLEY, Marcus",USA,Men,2 miles (3.218km),M,Bronze
+Cycling,Cycling Track,"DOWNING, Burton",USA,Men,2 miles (3.218km),M,Gold
+Cycling,Cycling Track,"GOERKE, Oscar",USA,Men,2 miles (3.218km),M,Silver
+Cycling,Cycling Track,"WILEY, George",USA,Men,25 miles (40.232km),M,Bronze
+Cycling,Cycling Track,"DOWNING, Burton",USA,Men,25 miles (40.232km),M,Gold
+Cycling,Cycling Track,"ANDREWS, Arthur F.",USA,Men,25 miles (40.232km),M,Silver
+Cycling,Cycling Track,"ANDREWS, Arthur F.",USA,Men,5 miles (8.046km),M,Bronze
+Cycling,Cycling Track,"SCHLEE, Charles",USA,Men,5 miles (8.046km),M,Gold
+Cycling,Cycling Track,"WILEY, George",USA,Men,5 miles (8.046km),M,Silver
+Fencing,Fencing,"VAN ZO POST, Albertson",CUB,Men,?p?e individual,M,Bronze
+Fencing,Fencing,"FONST, Ramon",CUB,Men,?p?e individual,M,Gold
+Fencing,Fencing,"TATHAM, Charles",CUB,Men,?p?e individual,M,Silver
+Fencing,Fencing,"TATHAM, Charles",CUB,Men,foil individual,M,Bronze
+Fencing,Fencing,"FONST, Ramon",CUB,Men,foil individual,M,Gold
+Fencing,Fencing,"VAN ZO POST, Albertson",CUB,Men,foil individual,M,Silver
+Fencing,Fencing,"DIAZ, Manuel",ZZX,Men,foil team,M,Gold
+Fencing,Fencing,"FONST, Ramon",ZZX,Men,foil team,M,Gold
+Fencing,Fencing,"VAN ZO POST, Albertson",ZZX,Men,foil team,M,Gold
+Fencing,Fencing,"FOX, Arthur",USA,Men,foil team,M,Silver
+Fencing,Fencing,"TATHAM, Charles",USA,Men,foil team,M,Silver
+Fencing,Fencing,"TOWNSEND, Charles Fitzhugh",USA,Men,foil team,M,Silver
+Fencing,Fencing,"VAN ZO POST, Albertson",CUB,Men,sabre individual,M,Bronze
+Fencing,Fencing,"DIAZ, Manuel",CUB,Men,sabre individual,M,Gold
+Fencing,Fencing,"GREBE, William",USA,Men,sabre individual,M,Silver
+Fencing,Fencing,"GREBE, William",USA,Men,"stick, single",M,Bronze
+Fencing,Fencing,"VAN ZO POST, Albertson",CUB,Men,"stick, single",M,Gold
+Fencing,Fencing,"O'CONNOR, William Scott",USA,Men,"stick, single",M,Silver
+Football,Football,"BRADY, Joseph J.",USA,Men,football,M,Bronze
+Football,Football,"COOKE, George Edwin",USA,Men,football,M,Bronze
+Football,Football,"COOKE, Thomas J.",USA,Men,football,M,Bronze
+Football,Football,"COSTGROVE, Cormic F.",USA,Men,football,M,Bronze
+Football,Football,DIERKES,USA,Men,football,M,Bronze
+Football,Football,"DOOLING, Martin T.",USA,Men,football,M,Bronze
+Football,Football,"FROST, Frank",USA,Men,football,M,Bronze
+Football,Football,"JAMESON, Claude Stanley",USA,Men,football,M,Bronze
+Football,Football,"JAMESON, Henry Wood",USA,Men,football,M,Bronze
+Football,Football,"JOHNSON, -",USA,Men,football,M,Bronze
+Football,Football,O'CONNELL,USA,Men,football,M,Bronze
+Football,Football,"TATE, Harry",USA,Men,football,M,Bronze
+Football,Football,"BARTLIFF, Charles Albert",USA,Men,football,M,Gold
+Football,Football,"BRADY, Joseph J.",USA,Men,football,M,Gold
+Football,Football,"BRITTINGHAM, Warren G.",USA,Men,football,M,Gold
+Football,Football,"BROCKMEYER, Oscar B.",USA,Men,football,M,Gold
+Football,Football,"COOKE, George Edwin",USA,Men,football,M,Gold
+Football,Football,"COOKE, Thomas J.",USA,Men,football,M,Gold
+Football,Football,"COSTGROVE, Cormic F.",USA,Men,football,M,Gold
+Football,Football,"CUDMORE, Alexander",USA,Men,football,M,Gold
+Football,Football,DIERKES,USA,Men,football,M,Gold
+Football,Football,"DOOLING, Martin T.",USA,Men,football,M,Gold
+Football,Football,"DUCKER, George",CAN,Men,football,M,Gold
+Football,Football,"FRASER, John Alexander",CAN,Men,football,M,Gold
+Football,Football,"FROST, Frank",USA,Men,football,M,Gold
+Football,Football,"GOURLEY, John",CAN,Men,football,M,Gold
+Football,Football,"HALL, Alexander",CAN,Men,football,M,Gold
+Football,Football,"JAMESON, Claude Stanley",USA,Men,football,M,Gold
+Football,Football,"JAMESON, Henry Wood",USA,Men,football,M,Gold
+Football,Football,"JANUARY, Charles James",USA,Men,football,M,Gold
+Football,Football,"JANUARY, John Hartnett",USA,Men,football,M,Gold
+Football,Football,"JANUARY, Thomas Thurston",USA,Men,football,M,Gold
+Football,Football,"JOHNSON, -",USA,Men,football,M,Gold
+Football,Football,"JOHNSON, Albert",CAN,Men,football,M,Gold
+Football,Football,"LANE, Robert",CAN,Men,football,M,Gold
+Football,Football,"LAWLER, Raymond E.",USA,Men,football,M,Gold
+Football,Football,"LINTON, Ernest",CAN,Men,football,M,Gold
+Football,Football,"LYDON, Joseph",USA,Men,football,M,Gold
+Football,Football,"MACDONALD, Gordon",CAN,Men,football,M,Gold
+Football,Football,"MENGES, Louis John",USA,Men,football,M,Gold
+Football,Football,O'CONNELL,USA,Men,football,M,Gold
+Football,Football,"RATICAN, Peter Joseph",USA,Men,football,M,Gold
+Football,Football,"STEEP, Frederick",CAN,Men,football,M,Gold
+Football,Football,"TATE, Harry",USA,Men,football,M,Gold
+Football,Football,"TAYLOR, Thomas",CAN,Men,football,M,Gold
+Football,Football,"TWAITS, William",CAN,Men,football,M,Gold
+Football,Football,"BARTLIFF, Charles Albert",USA,Men,football,M,Silver
+Football,Football,"BRITTINGHAM, Warren G.",USA,Men,football,M,Silver
+Football,Football,"BROCKMEYER, Oscar B.",USA,Men,football,M,Silver
+Football,Football,"CUDMORE, Alexander",USA,Men,football,M,Silver
+Football,Football,"JANUARY, Charles James",USA,Men,football,M,Silver
+Football,Football,"JANUARY, John Hartnett",USA,Men,football,M,Silver
+Football,Football,"JANUARY, Thomas Thurston",USA,Men,football,M,Silver
+Football,Football,"LAWLER, Raymond E.",USA,Men,football,M,Silver
+Football,Football,"LYDON, Joseph",USA,Men,football,M,Silver
+Football,Football,"MENGES, Louis John",USA,Men,football,M,Silver
+Football,Football,"RATICAN, Peter Joseph",USA,Men,football,M,Silver
+Golf,Golf,"MCKINNIE, Burt P.",USA,Men,individual,M,Bronze
+Golf,Golf,"NEWTON, Francis Clement",USA,Men,individual,M,Bronze
+Golf,Golf,"LYON, George Seymour",CAN,Men,individual,M,Gold
+Golf,Golf,"EGAN, Henri Chandler",USA,Men,individual,M,Silver
+Golf,Golf,"CUMMINS, Edward M.",USA,Men,team,M,Gold
+Golf,Golf,"EDWARDS, Kenneth Paine",USA,Men,team,M,Gold
+Golf,Golf,"EGAN, Henri Chandler",USA,Men,team,M,Gold
+Golf,Golf,"EGAN, Walter Eugene",USA,Men,team,M,Gold
+Golf,Golf,"HUNTER, Robert Edward",USA,Men,team,M,Gold
+Golf,Golf,"MOORE, Nathaniel Fish",USA,Men,team,M,Gold
+Golf,Golf,"PHELPS, Mason Elliot",USA,Men,team,M,Gold
+Golf,Golf,"SAWYER, Danieledward",USA,Men,team,M,Gold
+Golf,Golf,"SMOOT, Clement E.",USA,Men,team,M,Gold
+Golf,Golf,"WOOD, Warren K.",USA,Men,team,M,Gold
+Golf,Golf,"CADY, John Deere",USA,Men,team,M,Silver
+Golf,Golf,"LAMBERT, Albert Bond",USA,Men,team,M,Silver
+Golf,Golf,"MAXWELL, John R.",USA,Men,team,M,Silver
+Golf,Golf,"MCKINNIE, Burt P.",USA,Men,team,M,Silver
+Golf,Golf,"MCKITTRICK, Ralph",USA,Men,team,M,Silver
+Golf,Golf,"NEWTON, Francis Clement",USA,Men,team,M,Silver
+Golf,Golf,"POTTER, Henry",USA,Men,team,M,Silver
+Golf,Golf,"SEMPLE, Frederick",USA,Men,team,M,Silver
+Golf,Golf,"STICKNEY, Arthur William",USA,Men,team,M,Silver
+Golf,Golf,"STICKNEY, Stuart Grosvenor",USA,Men,team,M,Silver
+Gymnastics,Artistic G.,"WILSON, Ralph",USA,Men,club swinging,M,Bronze
+Gymnastics,Artistic G.,"HENNIG, Edward",USA,Men,club swinging,M,Gold
+Gymnastics,Artistic G.,"VOIGT, Emil",USA,Men,club swinging,M,Silver
+Gymnastics,Artistic G.,"WEBER, Wilhelm",GER,Men,combined 3 events,M,Bronze
+Gymnastics,Artistic G.,"SPINNLER, Adolf",SUI,Men,combined 3 events,M,Gold
+Gymnastics,Artistic G.,"LENHART, Julius",USA,Men,combined 3 events,M,Silver
+Gymnastics,Artistic G.,"MERZ, William",USA,Men,combined 4 events,M,Bronze
+Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,combined 4 events,M,Gold
+Gymnastics,Artistic G.,"EYSER, George",USA,Men,combined 4 events,M,Silver
+Gymnastics,Artistic G.,"EYSER, George",USA,Men,horizontal bar,M,Bronze
+Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,horizontal bar,M,Gold
+Gymnastics,Artistic G.,"HENNIG, Edward",USA,Men,horizontal bar,M,Gold
+Gymnastics,Artistic G.,"SPINNLER, Adolf",SUI,Men,individual all-round,M,Bronze
+Gymnastics,Artistic G.,"LENHART, Julius",USA,Men,individual all-round,M,Gold
+Gymnastics,Artistic G.,"WEBER, Wilhelm",GER,Men,individual all-round,M,Silver
+Gymnastics,Artistic G.,"DUHA, John",USA,Men,parallel bars,M,Bronze
+Gymnastics,Artistic G.,"EYSER, George",USA,Men,parallel bars,M,Gold
+Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,parallel bars,M,Silver
+Gymnastics,Artistic G.,"MERZ, William",USA,Men,pommel horse,M,Bronze
+Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,pommel horse,M,Gold
+Gymnastics,Artistic G.,"EYSER, George",USA,Men,pommel horse,M,Silver
+Gymnastics,Artistic G.,"VOIGT, Emil",USA,Men,rings,M,Bronze
+Gymnastics,Artistic G.,"GLASS, Hermann",USA,Men,rings,M,Gold
+Gymnastics,Artistic G.,"MERZ, William",USA,Men,rings,M,Silver
+Gymnastics,Artistic G.,"VOIGT, Emil",USA,Men,rope climbing,M,Bronze
+Gymnastics,Artistic G.,"EYSER, George",USA,Men,rope climbing,M,Gold
+Gymnastics,Artistic G.,"KRAUSE, Charles",USA,Men,rope climbing,M,Silver
+Gymnastics,Artistic G.,"DUHA, John",USA,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"KRAUSE, Charles",USA,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"MAYACK, Robert",USA,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"MEYER, George",USA,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"SCHUSTER, Philipp",USA,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"SIEGLER, Edward",USA,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"GRIEB, John",USA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"HESS, Max",USA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"KASSEL, Philipp",USA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"LENHART, Julius",USA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"RECKEWEG, Ernst",USA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"BEYER, Emil",USA,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"BISSINGER, John",USA,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"ROSENKAMPF, Arthur",USA,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"SCHMITZ, Julian",USA,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"STEFFEN, Otto",USA,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"WOLF, Max",USA,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"MERZ, William",USA,Men,vault,M,Bronze
+Gymnastics,Artistic G.,"EYSER, George",USA,Men,vault,M,Gold
+Gymnastics,Artistic G.,"HEIDA, Anton",USA,Men,vault,M,Gold
+Lacrosse,Lacrosse,"BLANCHARD, Elie",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"BRENNAUGH, W.",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"BRETZ, George",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"BURNS, William Laurie",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"CATTANACH, George",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"CLOUTIER, George",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"COWAN, Sandy",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"FLETT, Jack",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"JAMIESON, Benjamin",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"LAIDLAW, Hilliard",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"LYLE, H.",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"ORRIS, William F.L.",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"PENTLAND, L.H.",CAN,Men,lacrosse,M,Gold
+Lacrosse,Lacrosse,"CROGAN, Patrick",USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,"DOWLING, J.W.",USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,GIBSON,USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,HESS,USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,"HUNTER, Robert Edward",USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,LEHMAN,USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,MURPHY,USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,PARTRIDGE,USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,"PASSMORE, George",USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,SULLIVAN,USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,"VENN, A.H.",USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,WOODS,USA,Men,lacrosse,M,Silver
+Lacrosse,Lacrosse,YOUNG,USA,Men,lacrosse,M,Silver
+Roque,Roque,"BROWN, Charles",USA,Men,individual,M,Bronze
+Roque,Roque,"JACOBUS, Charles",USA,Men,individual,M,Gold
+Roque,Roque,"STREETER, Smith O.",USA,Men,individual,M,Silver
+Rowing,Rowing,"BUERGER, Joseph",USA,Men,coxless pair (2-),M,Bronze
+Rowing,Rowing,"JOACHIM, John",USA,Men,coxless pair (2-),M,Bronze
+Rowing,Rowing,"FARNAM, Robert",USA,Men,coxless pair (2-),M,Gold
+Rowing,Rowing,"RYAN, Joseph",USA,Men,coxless pair (2-),M,Gold
+Rowing,Rowing,"MULCAHY, John J.F.",USA,Men,coxless pair (2-),M,Silver
+Rowing,Rowing,"VARLEY, William",USA,Men,coxless pair (2-),M,Silver
+Rowing,Rowing,"RAVANACK, Joseph",USA,Men,double sculls (2x),M,Bronze
+Rowing,Rowing,"WELLS, John",USA,Men,double sculls (2x),M,Bronze
+Rowing,Rowing,"MULCAHY, John J.F.",USA,Men,double sculls (2x),M,Gold
+Rowing,Rowing,"VARLEY, William",USA,Men,double sculls (2x),M,Gold
+Rowing,Rowing,"HOBEN, John Grey",USA,Men,double sculls (2x),M,Silver
+Rowing,Rowing,"MCLOUGHLIN, James",USA,Men,double sculls (2x),M,Silver
+Rowing,Rowing,"ABELL, Louis",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"ARMSTRONG, Charles E.",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"CRESSER, Frederick",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"DEMPSEY, Joseph F.",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"EXLEY, John",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"FLANIGAN, James",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"GLEASON, Michael D.",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"LOTT, Harry Hunter",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"SCHELL, Frank Reaner",USA,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"BAILEY, Arthur B.",CAN,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"BOYD, Philip Ewing",CAN,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"LOUDON, Thomas Richardson",CAN,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"MACKENZIE, Donald",CAN,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"REIFFENSTEIN, George Patrick",CAN,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"RICE, William",CAN,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"STRANGE, George  M.",CAN,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"WADSWORTH, William",CAN,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"WRIGHT, Joseph George",CAN,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"DUNIMERTH, Frank",USA,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"FREITAG, John",USA,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"HELM, Louis G.",USA,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"VOERG, Gustav",USA,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"DIETZ, George",USA,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"ERKER, August",USA,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"NASSE, Albert",USA,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"STOCKHOFF, Arthur",USA,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"AMAN, Charles",USA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"BEGLEY, Michael",USA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"FROMANACK, Martin",USA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"SUERIG, Frederick",USA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"TITUS, Constance",USA,Men,single sculls (1x),M,Bronze
+Rowing,Rowing,"GREER, Frank",USA,Men,single sculls (1x),M,Gold
+Rowing,Rowing,"JUVENAL, James",USA,Men,single sculls (1x),M,Silver
+Tennis,Tennis,"GAMBLE, Clarence Olivier",USA,Men,doubles,M,Bronze
+Tennis,Tennis,"WEAR, Arthur Yancey",USA,Men,doubles,M,Bronze
+Tennis,Tennis,"WEAR, Joseph Walker",USA,Men,doubles,M,Bronze
+Tennis,Tennis,"WEST, Allen Tarwater",USA,Men,doubles,M,Bronze
+Tennis,Tennis,"LEONARD, Edgar Welch",USA,Men,doubles,M,Gold
+Tennis,Tennis,"WRIGHT, Beals Coleman",USA,Men,doubles,M,Gold
+Tennis,Tennis,"BELL, Alphonzo Edward",USA,Men,doubles,M,Silver
+Tennis,Tennis,"LEROY, Robert",USA,Men,doubles,M,Silver
+Tennis,Tennis,"BELL, Alphonzo Edward",USA,Men,singles,M,Bronze
+Tennis,Tennis,"LEONARD, Edgar Welch",USA,Men,singles,M,Bronze
+Tennis,Tennis,"WRIGHT, Beals Coleman",USA,Men,singles,M,Gold
+Tennis,Tennis,"LEROY, Robert",USA,Men,singles,M,Silver
+Tug of War,Tug of War,"FRIDE, H.",USA,Men,tug of war,M,Bronze
+Tug of War,Tug of War,"HABERCORN, Charles",USA,Men,tug of war,M,Bronze
+Tug of War,Tug of War,"JACOBS, H.",USA,Men,tug of war,M,Bronze
+Tug of War,Tug of War,"KUNGLER, Frank",USA,Men,tug of war,M,Bronze
+Tug of War,Tug of War,"THEAS, Charles",USA,Men,tug of war,M,Bronze
+Tug of War,Tug of War,"FLANAGAN, Patrick",USA,Men,tug of war,M,Gold
+Tug of War,Tug of War,"JOHNSON, Sydney B.",USA,Men,tug of war,M,Gold
+Tug of War,Tug of War,"MAGNUSSEN, Conrad",USA,Men,tug of war,M,Gold
+Tug of War,Tug of War,"OLSON, Oscar G.",USA,Men,tug of war,M,Gold
+Tug of War,Tug of War,"SICLING, H.",USA,Men,tug of war,M,Gold
+Tug of War,Tug of War,"BRAUN, Max",USA,Men,tug of war,M,Silver
+Tug of War,Tug of War,"RODENBERGER, August",USA,Men,tug of war,M,Silver
+Tug of War,Tug of War,"ROSE, Charles",USA,Men,tug of war,M,Silver
+Tug of War,Tug of War,"SEILING, William",USA,Men,tug of war,M,Silver
+Tug of War,Tug of War,"UPSHAW, Orrin Thomas",USA,Men,tug of war,M,Silver
+Weightlifting,Weightlifting,"KUNGLER, Frank",USA,Men,all-around Dumbbell contest,M,Bronze
+Weightlifting,Weightlifting,"OSTHOFF, Oscar Paul",USA,Men,all-around Dumbbell contest,M,Gold
+Weightlifting,Weightlifting,"WINTERS, Frederick",USA,Men,all-around Dumbbell contest,M,Silver
+Weightlifting,Weightlifting,"KUNGLER, Frank",USA,Men,heavyweight - two hand lift,M,Bronze
+Weightlifting,Weightlifting,"KAKOUSIS, Perikles",GRE,Men,heavyweight - two hand lift,M,Gold
+Weightlifting,Weightlifting,"OSTHOFF, Oscar Paul",USA,Men,heavyweight - two hand lift,M,Silver
+Wrestling,Wrestling Free.,"THIEFENTHALER, Gustav",USA,Men,- 47.6kg (light-flyweight),M,Bronze
+Wrestling,Wrestling Free.,"CURRY, Robert",USA,Men,- 47.6kg (light-flyweight),M,Gold
+Wrestling,Wrestling Free.,"HEIN, John",USA,Men,- 47.6kg (light-flyweight),M,Silver
+Wrestling,Wrestling Free.,"WARMBOLD, Frederick Charles",USA,Men,+ 71.67kg (heavyweight),M,Bronze
+Wrestling,Wrestling Free.,"HANSEN, Bernhuff",USA,Men,+ 71.67kg (heavyweight),M,Gold
+Wrestling,Wrestling Free.,"KUNGLER, Frank",USA,Men,+ 71.67kg (heavyweight),M,Silver
+Wrestling,Wrestling Free.,"NELSON, William",USA,Men,47.6 - 52.16kg (flyweight),M,Bronze
+Wrestling,Wrestling Free.,"MEHNERT, George Nicholas",USA,Men,47.6 - 52.16kg (flyweight),M,Gold
+Wrestling,Wrestling Free.,"BAUER, Gustav",USA,Men,47.6 - 52.16kg (flyweight),M,Silver
+Wrestling,Wrestling Free.,"STREBLER, Zenon B.",USA,Men,52.16 - 56.7kg (bantamweight),M,Bronze
+Wrestling,Wrestling Free.,"NIFLOT, Isidor",USA,Men,52.16 - 56.7kg (bantamweight),M,Gold
+Wrestling,Wrestling Free.,"WESTER, August",USA,Men,52.16 - 56.7kg (bantamweight),M,Silver
+Wrestling,Wrestling Free.,"CLAPPER, Charles E.",USA,Men,56.7 - 61.23kg (featherweight),M,Bronze
+Wrestling,Wrestling Free.,"BRADSHAW, Benjamin Joseph",USA,Men,56.7 - 61.23kg (featherweight),M,Gold
+Wrestling,Wrestling Free.,"MCLEAR, Theodore",USA,Men,56.7 - 61.23kg (featherweight),M,Silver
+Wrestling,Wrestling Free.,"ZIRKEL, Albert",USA,Men,61.23 - 65.77kg (lightweight),M,Bronze
+Wrestling,Wrestling Free.,"ROEHM, Otto F.",USA,Men,61.23 - 65.77kg (lightweight),M,Gold
+Wrestling,Wrestling Free.,"TESING, Rudolph",USA,Men,61.23 - 65.77kg (lightweight),M,Silver
+Wrestling,Wrestling Free.,"WINHOLTZ, Jerry",USA,Men,65.77 - 71.67kg (welterweight),M,Bronze
+Wrestling,Wrestling Free.,"ERICKSEN, Charles",USA,Men,65.77 - 71.67kg (welterweight),M,Gold
+Wrestling,Wrestling Free.,"BECKMANN, William",USA,Men,65.77 - 71.67kg (welterweight),M,Silver

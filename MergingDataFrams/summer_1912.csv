@@ -1,0 +1,886 @@
+Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+Aquatics,Diving,"BLOMGREN, Gustaf",SWE,Men,10m platform,M,Bronze
+Aquatics,Diving,"ADLERZ, Erik",SWE,Men,10m platform,M,Gold
+Aquatics,Diving,"Z?RNER, Albert",GER,Men,10m platform,M,Silver
+Aquatics,Diving,"WHITE, Isabella Mary",GBR,Women,10m platform,W,Bronze
+Aquatics,Diving,"JOHANSSON, Greta",SWE,Women,10m platform,W,Gold
+Aquatics,Diving,"REGNELL, Lisa",SWE,Women,10m platform,W,Silver
+Aquatics,Diving,"BEHRENS, Kurt",GER,Men,3m springboard,M,Bronze
+Aquatics,Diving,"G?NTHER, Paul",GER,Men,3m springboard,M,Gold
+Aquatics,Diving,"LUBER, Hans",GER,Men,3m springboard,M,Silver
+Aquatics,Diving,"JANSSON, John",SWE,Men,plain high diving,M,Bronze
+Aquatics,Diving,"ADLERZ, Erik",SWE,Men,plain high diving,M,Gold
+Aquatics,Diving,"JOHANSSON, Hjalmar",SWE,Men,plain high diving,M,Silver
+Aquatics,Swimming,"KELLNER, Paul",GER,Men,100m backstroke,M,Bronze
+Aquatics,Swimming,"HEBNER, Harry J.",USA,Men,100m backstroke,M,Gold
+Aquatics,Swimming,"FAHR, Otto",GER,Men,100m backstroke,M,Silver
+Aquatics,Swimming,"HUSZAGH, Kenneth",USA,Men,100m freestyle,M,Bronze
+Aquatics,Swimming,"KAHANAMOKU, Duke Paoa",USA,Men,100m freestyle,M,Gold
+Aquatics,Swimming,"HEALY, Cecil",ANZ,Men,100m freestyle,M,Silver
+Aquatics,Swimming,"FLETCHER, Jennie",GBR,Women,100m freestyle,W,Bronze
+Aquatics,Swimming,"DURACK, Fanny",ANZ,Women,100m freestyle,W,Gold
+Aquatics,Swimming,"WYLIE, Wilhelmina",ANZ,Women,100m freestyle,W,Silver
+Aquatics,Swimming,"HARDWICK, Harold H.",ANZ,Men,1500m freestyle,M,Bronze
+Aquatics,Swimming,"HODGSON, George Ritchie",CAN,Men,1500m freestyle,M,Gold
+Aquatics,Swimming,"HATFIELD, John Gatenby",GBR,Men,1500m freestyle,M,Silver
+Aquatics,Swimming,"MALISCH, Kurt Paul",GER,Men,200m breaststroke,M,Bronze
+Aquatics,Swimming,"BATHE, Walter",GER,Men,200m breaststroke,M,Gold
+Aquatics,Swimming,"L?TZOW, Willy",GER,Men,200m breaststroke,M,Silver
+Aquatics,Swimming,"COURTMAN, Percy",GBR,Men,400m breaststroke,M,Bronze
+Aquatics,Swimming,"BATHE, Walter",GER,Men,400m breaststroke,M,Gold
+Aquatics,Swimming,"HENNING, Tor",SWE,Men,400m breaststroke,M,Silver
+Aquatics,Swimming,"HARDWICK, Harold H.",ANZ,Men,400m freestyle,M,Bronze
+Aquatics,Swimming,"HODGSON, George Ritchie",CAN,Men,400m freestyle,M,Gold
+Aquatics,Swimming,"HATFIELD, John Gatenby",GBR,Men,400m freestyle,M,Silver
+Aquatics,Swimming,"ADLER, Margarete",AUT,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"MILCH, Klara",AUT,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"STICKER, Josephine",AUT,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"ZAHOUREK, Bertha",AUT,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"FLETCHER, Jennie",GBR,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"MOORE, Isabella Mary",GBR,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"SPEIRS, Annie",GBR,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"STEER, Irene",GBR,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"DRESSEL, Wally",GER,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"OTTO, Louise",GER,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"ROSENBERG, Grete",GER,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"STINDT, Hermine",GER,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"BATTERSBY, Thomas Sidney",GBR,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"FOSTER, William",GBR,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"HATFIELD, John Gatenby",GBR,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"TAYLOR, Henry",GBR,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"BOARDMAN, Leslie",ANZ,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"CHAMPION, Malcolm",ANZ,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"HARDWICK, Harold H.",ANZ,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"HEALY, Cecil",ANZ,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"HEBNER, Harry J.",USA,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"HUSZAGH, Kenneth",USA,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"KAHANAMOKU, Duke Paoa",USA,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"MCGILLIVRAY, Perry",USA,Men,4x200m freestyle relay,M,Silver
+Aquatics,Water polo,"BOIN, Victor",BEL,Men,water polo,M,Bronze
+Aquatics,Water polo,"COURBET, F?licien",BEL,Men,water polo,M,Bronze
+Aquatics,Water polo,"DONNERS, Hermann",BEL,Men,water polo,M,Bronze
+Aquatics,Water polo,"DURANT, Albert",BEL,Men,water polo,M,Bronze
+Aquatics,Water polo,"GREGOIRE, Oscar",BEL,Men,water polo,M,Bronze
+Aquatics,Water polo,"MEYBOOM, Herman",BEL,Men,water polo,M,Bronze
+Aquatics,Water polo,"PLETINCX, Joseph",BEL,Men,water polo,M,Bronze
+Aquatics,Water polo,"BENTHAM, Isaac",GBR,Men,water polo,M,Gold
+Aquatics,Water polo,"BUGBEE, Charles",GBR,Men,water polo,M,Gold
+Aquatics,Water polo,"CORNET, George Thomson",GBR,Men,water polo,M,Gold
+Aquatics,Water polo,"HILL, Arthur Edwin",GBR,Men,water polo,M,Gold
+Aquatics,Water polo,"RADMILOVIC, Paul",GBR,Men,water polo,M,Gold
+Aquatics,Water polo,"SMITH, Charles Sydney",GBR,Men,water polo,M,Gold
+Aquatics,Water polo,"WILKINSON, George",GBR,Men,water polo,M,Gold
+Aquatics,Water polo,"ANDERSSON, Robert T.",SWE,Men,water polo,M,Silver
+Aquatics,Water polo,"ANDERSSON, Vilhelm",SWE,Men,water polo,M,Silver
+Aquatics,Water polo,"BERGQVIST, Erik",SWE,Men,water polo,M,Silver
+Aquatics,Water polo,"GUMPEL, Max",SWE,Men,water polo,M,Silver
+Aquatics,Water polo,"HANSSON, Pontus",SWE,Men,water polo,M,Silver
+Aquatics,Water polo,"JULIN, Harald S.A.",SWE,Men,water polo,M,Silver
+Aquatics,Water polo,"KUMFELDT, K. Torsten",SWE,Men,water polo,M,Silver
+Athletics,Athletics,"STENROOS, Albin Oskar",FIN,Men,10000m,M,Bronze
+Athletics,Athletics,"KOLEHMAINEN, Hannes",FIN,Men,10000m,M,Gold
+Athletics,Athletics,"TEWANINA, Lewis",USA,Men,10000m,M,Silver
+Athletics,Athletics,"ALTIMANI, Fernando",ITA,Men,10000m walk,M,Bronze
+Athletics,Athletics,"GOULDING, George",CAN,Men,10000m walk,M,Gold
+Athletics,Athletics,"WEBB, Ernest",GBR,Men,10000m walk,M,Silver
+Athletics,Athletics,"LIPPINCOTT, Donald",USA,Men,100m,M,Bronze
+Athletics,Athletics,"CRAIG, Ralph",USA,Men,100m,M,Gold
+Athletics,Athletics,"MEYER, I. Alvah",USA,Men,100m,M,Silver
+Athletics,Athletics,"HAWKINS, Martin",USA,Men,110m hurdles,M,Bronze
+Athletics,Athletics,"KELLY, Frederick",USA,Men,110m hurdles,M,Gold
+Athletics,Athletics,"WENDELL, James",USA,Men,110m hurdles,M,Silver
+Athletics,Athletics,"TABER, Norman",USA,Men,1500m,M,Bronze
+Athletics,Athletics,"JACKSON, Arnold",GBR,Men,1500m,M,Gold
+Athletics,Athletics,"KIVIAT, Abel",USA,Men,1500m,M,Silver
+Athletics,Athletics,"APPLEGARTH, William",GBR,Men,200m,M,Bronze
+Athletics,Athletics,"CRAIG, Ralph",USA,Men,200m,M,Gold
+Athletics,Athletics,"LIPPINCOTT, Donald",USA,Men,200m,M,Silver
+Athletics,Athletics,"COTTRILL, William",GBR,Men,3000m team,M,Bronze
+Athletics,Athletics,"HUTSON, George William",GBR,Men,3000m team,M,Bronze
+Athletics,Athletics,"MOORE, Frank W.",GBR,Men,3000m team,M,Bronze
+Athletics,Athletics,"OWEN, Edward",GBR,Men,3000m team,M,Bronze
+Athletics,Athletics,"PORTER, Cyril Henry Atwell",GBR,Men,3000m team,M,Bronze
+Athletics,Athletics,"BERNA, Tell Schirnding",USA,Men,3000m team,M,Gold
+Athletics,Athletics,"BONHAG, George V.",USA,Men,3000m team,M,Gold
+Athletics,Athletics,"KIVIAT, Abel",USA,Men,3000m team,M,Gold
+Athletics,Athletics,"SCOTT, Henry Louis",USA,Men,3000m team,M,Gold
+Athletics,Athletics,"TABER, Norman",USA,Men,3000m team,M,Gold
+Athletics,Athletics,"FOCK, Bror",SWE,Men,3000m team,M,Silver
+Athletics,Athletics,"FRYKBERG, Nils",SWE,Men,3000m team,M,Silver
+Athletics,Athletics,"OHLSSON, Thorild",SWE,Men,3000m team,M,Silver
+Athletics,Athletics,"WIDE, Ernest",SWE,Men,3000m team,M,Silver
+Athletics,Athletics,"ZANDER, John",SWE,Men,3000m team,M,Silver
+Athletics,Athletics,"LINDBERG, Edward F.",USA,Men,400m,M,Bronze
+Athletics,Athletics,"REIDPATH, Charles Decker",USA,Men,400m,M,Gold
+Athletics,Athletics,"BRAUN, Hans",GER,Men,400m,M,Silver
+Athletics,Athletics,"APPLEGARTH, William",GBR,Men,4x100m relay,M,Gold
+Athletics,Athletics,"D'ARCY, Victor Henry Augustus",GBR,Men,4x100m relay,M,Gold
+Athletics,Athletics,"JACOBS, David Henry",GBR,Men,4x100m relay,M,Gold
+Athletics,Athletics,"MACKINTOSH, Henry Maitland",GBR,Men,4x100m relay,M,Gold
+Athletics,Athletics,"LINDBERG, Knut",SWE,Men,4x100m relay,M,Silver
+Athletics,Athletics,"LUTHER, Karl August",SWE,Men,4x100m relay,M,Silver
+Athletics,Athletics,"M?LLER, Ivan",SWE,Men,4x100m relay,M,Silver
+Athletics,Athletics,"PERSSON, Ture",SWE,Men,4x100m relay,M,Silver
+Athletics,Athletics,"HENLEY, Ernest John",GBR,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"NICOL, George",GBR,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"SEEDHOUSE, Cyril Norman",GBR,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"SOUTTER, James Tindal",GBR,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"LINDBERG, Edward F.",USA,Men,4x400m relay,M,Gold
+Athletics,Athletics,"MEREDITH, James Edwin",USA,Men,4x400m relay,M,Gold
+Athletics,Athletics,"REIDPATH, Charles Decker",USA,Men,4x400m relay,M,Gold
+Athletics,Athletics,"SHEPPARD, Melvin",USA,Men,4x400m relay,M,Gold
+Athletics,Athletics,"FAILLIOT, Pierre",FRA,Men,4x400m relay,M,Silver
+Athletics,Athletics,"LELONG, Charles Louis",FRA,Men,4x400m relay,M,Silver
+Athletics,Athletics,"POULENARD, Charles Alexandre Casimir",FRA,Men,4x400m relay,M,Silver
+Athletics,Athletics,"SCHURRER, Robert",FRA,Men,4x400m relay,M,Silver
+Athletics,Athletics,"HUTSON, George William",GBR,Men,5000m,M,Bronze
+Athletics,Athletics,"KOLEHMAINEN, Hannes",FIN,Men,5000m,M,Gold
+Athletics,Athletics,"BOUIN, Jean",FRA,Men,5000m,M,Silver
+Athletics,Athletics,"DAVENPORT, Ira Nelson",USA,Men,800m,M,Bronze
+Athletics,Athletics,"MEREDITH, James Edwin",USA,Men,800m,M,Gold
+Athletics,Athletics,"SHEPPARD, Melvin",USA,Men,800m,M,Silver
+Athletics,Athletics,"EKE, John",SWE,Men,cross country individual,M,Bronze
+Athletics,Athletics,"KOLEHMAINEN, Hannes",FIN,Men,cross country individual,M,Gold
+Athletics,Athletics,"ANDERSSON, Hjalmar",SWE,Men,cross country individual,M,Silver
+Athletics,Athletics,"GLOVER, Ernest",GBR,Men,cross country team,M,Bronze
+Athletics,Athletics,"HIBBINS, Frederick Newton",GBR,Men,cross country team,M,Bronze
+Athletics,Athletics,"HUMPHREYS, Frederick Harkness",GBR,Men,cross country team,M,Bronze
+Athletics,Athletics,"ANDERSSON, Hjalmar",SWE,Men,cross country team,M,Gold
+Athletics,Athletics,"EKE, John",SWE,Men,cross country team,M,Gold
+Athletics,Athletics,"TERNSTR?M, Josef",SWE,Men,cross country team,M,Gold
+Athletics,Athletics,"ESKOLA, Jalmari",FIN,Men,cross country team,M,Silver
+Athletics,Athletics,"KOLEHMAINEN, Hannes",FIN,Men,cross country team,M,Silver
+Athletics,Athletics,"STENROOS, Albin Oskar",FIN,Men,cross country team,M,Silver
+Athletics,Athletics,"HOLMER, G?sta",SWE,Men,decathlon,M,Bronze
+Athletics,Athletics,"THORPE, Jim",USA,Men,decathlon,M,Gold
+Athletics,Athletics,"WIESLANDER, Hugo K.",SWE,Men,decathlon,M,Gold
+Athletics,Athletics,"LOMBERG, Charles",SWE,Men,decathlon,M,Silver
+Athletics,Athletics,"DUNCAN, James Henry",USA,Men,discus throw,M,Bronze
+Athletics,Athletics,"TAIPALE, Armas Rudolf",FIN,Men,discus throw,M,Gold
+Athletics,Athletics,"BYRD, Richard Leslie",USA,Men,discus throw,M,Silver
+Athletics,Athletics,"MAGNUSSON, Emil",SWE,Men,"discus throw, both hands",M,Bronze
+Athletics,Athletics,"TAIPALE, Armas Rudolf",FIN,Men,"discus throw, both hands",M,Gold
+Athletics,Athletics,"NIKLANDER, Elmer Konstantin",FIN,Men,"discus throw, both hands",M,Silver
+Athletics,Athletics,"CHILDS, Clarence Chester",USA,Men,hammer throw,M,Bronze
+Athletics,Athletics,"MCGRATH, Matthew J.",USA,Men,hammer throw,M,Gold
+Athletics,Athletics,"GILLIS, Duncan",CAN,Men,hammer throw,M,Silver
+Athletics,Athletics,"HORINE, George Leslie",USA,Men,high jump,M,Bronze
+Athletics,Athletics,"RICHARDS, Alma Wilfred",USA,Men,high jump,M,Gold
+Athletics,Athletics,"LIESCHE, Hans",GER,Men,high jump,M,Silver
+Athletics,Athletics,"TSICLITIRAS, Konstantinos",GRE,Men,"high jump, standing",M,Bronze
+Athletics,Athletics,"ADAMS, Platt",USA,Men,"high jump, standing",M,Gold
+Athletics,Athletics,"ADAMS, Benjamin W.",USA,Men,"high jump, standing",M,Silver
+Athletics,Athletics,"KOVACS, Mor",HUN,Men,javelin throw,M,Bronze
+Athletics,Athletics,"LEMMING, Eric",SWE,Men,javelin throw,M,Gold
+Athletics,Athletics,"SAARISTO, Juho Julius",FIN,Men,javelin throw,M,Silver
+Athletics,Athletics,"PELTONEN, Urho Pellervo",FIN,Men,"javelin throw, both hands",M,Bronze
+Athletics,Athletics,"SAARISTO, Juho Julius",FIN,Men,"javelin throw, both hands",M,Gold
+Athletics,Athletics,"SIIKANIEMI, V?in?",FIN,Men,"javelin throw, both hands",M,Silver
+Athletics,Athletics,"ABERG, Georg",SWE,Men,long jump,M,Bronze
+Athletics,Athletics,"GUTTERSON, Albert Lovejoy",USA,Men,long jump,M,Gold
+Athletics,Athletics,"BRICKER, Calvin David",CAN,Men,long jump,M,Silver
+Athletics,Athletics,"ADAMS, Benjamin W.",USA,Men,"long jump, standing",M,Bronze
+Athletics,Athletics,"TSICLITIRAS, Konstantinos",GRE,Men,"long jump, standing",M,Gold
+Athletics,Athletics,"ADAMS, Platt",USA,Men,"long jump, standing",M,Silver
+Athletics,Athletics,"STROBINO, Gaston",USA,Men,marathon,M,Bronze
+Athletics,Athletics,"MCARTHUR, Kennedy Kane",RSA,Men,marathon,M,Gold
+Athletics,Athletics,"GITSHAM, Christian W.",RSA,Men,marathon,M,Silver
+Athletics,Athletics,"LUKEMAN, Frank",CAN,Men,pentathlon,M,Bronze
+Athletics,Athletics,"BIE, Ferdinand Reinhardt",NOR,Men,pentathlon,M,Gold
+Athletics,Athletics,"THORPE, Jim",USA,Men,pentathlon,M,Gold
+Athletics,Athletics,"DONAHUE, James Joseph",USA,Men,pentathlon,M,Silver
+Athletics,Athletics,"HAPPENNY, William",CAN,Men,pole vault,M,Bronze
+Athletics,Athletics,"MURPHY, Frank Dwyer",USA,Men,pole vault,M,Bronze
+Athletics,Athletics,"UGGLA, Bertil",SWE,Men,pole vault,M,Bronze
+Athletics,Athletics,"BABCOCK, Harry Stoddard",USA,Men,pole vault,M,Gold
+Athletics,Athletics,"NELSON, Frank Thayer",USA,Men,pole vault,M,Silver
+Athletics,Athletics,"WRIGHT, Marc Snowell",USA,Men,pole vault,M,Silver
+Athletics,Athletics,"WHITNEY, Laurence Atwood",USA,Men,shot put,M,Bronze
+Athletics,Athletics,"MCDONALD, Patrick",USA,Men,shot put,M,Gold
+Athletics,Athletics,"ROSE, Ralph",USA,Men,shot put,M,Silver
+Athletics,Athletics,"NIKLANDER, Elmer Konstantin",FIN,Men,"shot put, both hands",M,Bronze
+Athletics,Athletics,"ROSE, Ralph",USA,Men,"shot put, both hands",M,Gold
+Athletics,Athletics,"MCDONALD, Patrick",USA,Men,"shot put, both hands",M,Silver
+Athletics,Athletics,"ALML?F, Erik",SWE,Men,triple jump,M,Bronze
+Athletics,Athletics,"LINDBLOM, Gustav",SWE,Men,triple jump,M,Gold
+Athletics,Athletics,"ABERG, Georg",SWE,Men,triple jump,M,Silver
+Cycling,Cycling Road,"SCHUTTE, Carl Otto",USA,Men,individual time trial,M,Bronze
+Cycling,Cycling Road,"LEWIS, Rudolph",RSA,Men,individual time trial,M,Gold
+Cycling,Cycling Road,"GRUBB, Frederick Henry",GBR,Men,individual time trial,M,Silver
+Cycling,Cycling Road,"KRUSHEL, Albert",USA,Men,team time trial,M,Bronze
+Cycling,Cycling Road,"LOFTES, Alvin Hjalmar",USA,Men,team time trial,M,Bronze
+Cycling,Cycling Road,"MARTIN, Walter C.",USA,Men,team time trial,M,Bronze
+Cycling,Cycling Road,"SCHUTTE, Carl Otto",USA,Men,team time trial,M,Bronze
+Cycling,Cycling Road,"FRIBORG, Erik",SWE,Men,team time trial,M,Gold
+Cycling,Cycling Road,"L?NN, Algot",SWE,Men,team time trial,M,Gold
+Cycling,Cycling Road,"MALM, Ragnar",SWE,Men,team time trial,M,Gold
+Cycling,Cycling Road,"PERSSON, Axel Wilhelm",SWE,Men,team time trial,M,Gold
+Cycling,Cycling Road,"GRUBB, Frederick Henry",GBR,Men,team time trial,M,Silver
+Cycling,Cycling Road,"HAMMOND, William Robert",GBR,Men,team time trial,M,Silver
+Cycling,Cycling Road,"MEREDITH, Leonard Lewis",GBR,Men,team time trial,M,Silver
+Cycling,Cycling Road,"MOSS, Charles",GBR,Men,team time trial,M,Silver
+Equestrian,Dressage,"VON BLIXEN-FINECKE, Hans",SWE,Men,individual,X,Bronze
+Equestrian,Dressage,"BONDE, Carl",SWE,Men,individual,X,Gold
+Equestrian,Dressage,"BOLTENSTERN, Gustaf-Adolf",SWE,Men,individual,X,Silver
+Equestrian,Eventing,"CARIOU, J",FRA,Men,individual,X,Bronze
+Equestrian,Eventing,"NORDLANDER, Axel",SWE,Men,individual,X,Gold
+Equestrian,Eventing,"VON ROCHOW, Friedrich Leopold Harry",GER,Men,individual,X,Silver
+Equestrian,Eventing,"GRAHAM, Ephraim Foster",USA,Men,team,X,Bronze
+Equestrian,Eventing,"HENRY, Guy Verner",USA,Men,team,X,Bronze
+Equestrian,Eventing,"LEAR, Benjamin",USA,Men,team,X,Bronze
+Equestrian,Eventing,"MONTGOMERY, John Carter",USA,Men,team,X,Bronze
+Equestrian,Eventing,"ADLERCREUTZ, Nils",SWE,Men,team,X,Gold
+Equestrian,Eventing,"CASPARSSON, Ernst",SWE,Men,team,X,Gold
+Equestrian,Eventing,"HORN AF AMINNE, Henric",SWE,Men,team,X,Gold
+Equestrian,Eventing,"NORDLANDER, Axel",SWE,Men,team,X,Gold
+Equestrian,Eventing,"VON L?TSCKEN, Eduard",GER,Men,team,X,Silver
+Equestrian,Eventing,"VON MOERS, Henrich",GER,Men,team,X,Silver
+Equestrian,Eventing,"VON ROCHOW, Friedrich Leopold Harry",GER,Men,team,X,Silver
+Equestrian,Eventing,"VON SCHAESBERG-TANNHEIM, Rudolf Graf",GER,Men,team,X,Silver
+Equestrian,Jumping,"DE BLOMMAERT DE SOYE, Emmanuel",BEL,Men,individual,X,Bronze
+Equestrian,Jumping,"CARIOU, J",FRA,Men,individual,X,Gold
+Equestrian,Jumping,"VON KR?CHER, Rabod Wilhelm",GER,Men,individual,X,Silver
+Equestrian,Jumping,"DELOCH, Ernst Hubertus",GER,Men,team,X,Bronze
+Equestrian,Jumping,"FREYER, Sigismund",GER,Men,team,X,Bronze
+Equestrian,Jumping,"VON HOHENAU, Wilhelm",GER,Men,team,X,Bronze
+Equestrian,Jumping,"VON PREUSSEN, Friedrich Karl",GER,Men,team,X,Bronze
+Equestrian,Jumping,"KILMAN, Gustaf",SWE,Men,team,X,Gold
+Equestrian,Jumping,"LEWENHAUPT, Carl Gustaf",SWE,Men,team,X,Gold
+Equestrian,Jumping,"ROSENCRANTZ, Frederik",SWE,Men,team,X,Gold
+Equestrian,Jumping,"VON ROSEN, Hans",SWE,Men,team,X,Gold
+Equestrian,Jumping,"CARIOU, J",FRA,Men,team,X,Silver
+Equestrian,Jumping,"DUFOURT D'ASTAFORT, Michel",FRA,Men,team,X,Silver
+Equestrian,Jumping,"MEYER, Bernard",FRA,Men,team,X,Silver
+Equestrian,Jumping,"SEIGNER, Albert",FRA,Men,team,X,Silver
+Fencing,Fencing,"LE HARDY DE BEAULIEU, Philippe",BEL,Men,?p?e individual,M,Bronze
+Fencing,Fencing,"ANSPACH, Paul",BEL,Men,?p?e individual,M,Gold
+Fencing,Fencing,"OSIIER, Ivan Joseph Martin",DEN,Men,?p?e individual,M,Silver
+Fencing,Fencing,"DE JONG, Adrianus Egbertus Willem",NED,Men,?p?e team,M,Bronze
+Fencing,Fencing,"DOORMAN, Jetze",NED,Men,?p?e team,M,Bronze
+Fencing,Fencing,"SALOMONSON, Leonardus",NED,Men,?p?e team,M,Bronze
+Fencing,Fencing,"VAN BLIJENBURGH, Willem Peter Hubert",NED,Men,?p?e team,M,Bronze
+Fencing,Fencing,"VAN ROSSEM, George",NED,Men,?p?e team,M,Bronze
+Fencing,Fencing,"ANSPACH, Henri",BEL,Men,?p?e team,M,Gold
+Fencing,Fencing,"ANSPACH, Paul",BEL,Men,?p?e team,M,Gold
+Fencing,Fencing,"DE MONTIGNY, Fernand",BEL,Men,?p?e team,M,Gold
+Fencing,Fencing,"HENNET, Robert",BEL,Men,?p?e team,M,Gold
+Fencing,Fencing,"OCHS, Jacques",BEL,Men,?p?e team,M,Gold
+Fencing,Fencing,"ROM, Fran?ois",BEL,Men,?p?e team,M,Gold
+Fencing,Fencing,"SALMON, Gaston C.J.M.",BEL,Men,?p?e team,M,Gold
+Fencing,Fencing,"WILLEMS, Victor",BEL,Men,?p?e team,M,Gold
+Fencing,Fencing,"AMPHLETT, Edgar Montague",GBR,Men,?p?e team,M,Silver
+Fencing,Fencing,"BLAKE, John Percy",GBR,Men,?p?e team,M,Silver
+Fencing,Fencing,"DAWSON, Percival May",GBR,Men,?p?e team,M,Silver
+Fencing,Fencing,"EVERITT, Arthur Francis G.",GBR,Men,?p?e team,M,Silver
+Fencing,Fencing,"HOLT, Martin Drummond",GBR,Men,?p?e team,M,Silver
+Fencing,Fencing,"MARTINEAU, Sydney",GBR,Men,?p?e team,M,Silver
+Fencing,Fencing,"MONTGOMERIE, Robert Cecil",GBR,Men,?p?e team,M,Silver
+Fencing,Fencing,"SELIGMAN, Edgar Isaac",GBR,Men,?p?e team,M,Silver
+Fencing,Fencing,"VERDERBER, Richard",AUT,Men,foil individual,M,Bronze
+Fencing,Fencing,"NADI, Nedo",ITA,Men,foil individual,M,Gold
+Fencing,Fencing,"SPECIALE, Pietro",ITA,Men,foil individual,M,Silver
+Fencing,Fencing,"MESZAROS, Ervin",HUN,Men,sabre individual,M,Bronze
+Fencing,Fencing,"FUCHS, Jen?",HUN,Men,sabre individual,M,Gold
+Fencing,Fencing,"BEKESSY, B?la",HUN,Men,sabre individual,M,Silver
+Fencing,Fencing,"DE JONG, Adrianus Egbertus Willem",NED,Men,sabre team,M,Bronze
+Fencing,Fencing,"DE JONGH, Hendrik Egb. Willem",NED,Men,sabre team,M,Bronze
+Fencing,Fencing,"DOORMAN, Jetze",NED,Men,sabre team,M,Bronze
+Fencing,Fencing,"SCALONGNE, Dirk",NED,Men,sabre team,M,Bronze
+Fencing,Fencing,"VAN BLIJENBURGH, Willem Peter Hubert",NED,Men,sabre team,M,Bronze
+Fencing,Fencing,"VAN ROSSEM, George",NED,Men,sabre team,M,Bronze
+Fencing,Fencing,"BERTI, Laszlo",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"F?LDES, Desz?",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"FUCHS, Jen?",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"GERDE, Oskar",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"MESZAROS, Ervin",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"SCHENKER, Zoltan",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"TOTH, Peter",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"WERKNER, Lajos",HUN,Men,sabre team,M,Gold
+Fencing,Fencing,"BOGEN, Albert",AUT,Men,sabre team,M,Silver
+Fencing,Fencing,"CVETKO, Rudolf",AUT,Men,sabre team,M,Silver
+Fencing,Fencing,"GOLLING, Friedrich",AUT,Men,sabre team,M,Silver
+Fencing,Fencing,"HERSCHMANN, Otto",AUT,Men,sabre team,M,Silver
+Fencing,Fencing,"SUTTNER, Andreas",AUT,Men,sabre team,M,Silver
+Fencing,Fencing,"TRAMPLER, Reinhold",AUT,Men,sabre team,M,Silver
+Fencing,Fencing,"VERDERBER, Richard",AUT,Men,sabre team,M,Silver
+Football,Football,"BOUVY, Nicolaas Jan Jerome",NED,Men,football,M,Bronze
+Football,Football,"DE GROOT, Henri Franciscus",NED,Men,football,M,Bronze
+Football,Football,"DE KORVER, Johannes Marius",NED,Men,football,M,Bronze
+Football,Football,"DE WOLF, Nicolaas",NED,Men,football,M,Bronze
+Football,Football,"FEITH, Constant Willem",NED,Men,football,M,Bronze
+Football,Football,"G?BEL, Marius Just",NED,Men,football,M,Bronze
+Football,Football,"LOTSY, Dirk Nicolaas",NED,Men,football,M,Bronze
+Football,Football,"TEN CATE, Caesar Herman",NED,Men,football,M,Bronze
+Football,Football,"VAN BREDA KOLFF, Jan Gualtherus",NED,Men,football,M,Bronze
+Football,Football,"VOS, Jan",NED,Men,football,M,Bronze
+Football,Football,"WIJNVELDT, David",NED,Men,football,M,Bronze
+Football,Football,"BERRY, Arthur",GBR,Men,football,M,Gold
+Football,Football,"BREBNER, Ronald Gilchrist",GBR,Men,football,M,Gold
+Football,Football,"BURN, Thomas Christopher",GBR,Men,football,M,Gold
+Football,Football,"DINES, James",GBR,Men,football,M,Gold
+Football,Football,"HANNEY, Edward T.",GBR,Men,football,M,Gold
+Football,Football,"HOARE, Gordon Rahere",GBR,Men,football,M,Gold
+Football,Football,"KNIGHT, Arthur Egerton",GBR,Men,football,M,Gold
+Football,Football,"LITTLEWORT, Henry Charles",GBR,Men,football,M,Gold
+Football,Football,"SHARPE, Ivor Gordon",GBR,Men,football,M,Gold
+Football,Football,"WALDEN, Harold Adrian",GBR,Men,football,M,Gold
+Football,Football,"WOODWARD, Vivian John",GBR,Men,football,M,Gold
+Football,Football,"BERTH, Paul Ludvig Laurits",DEN,Men,football,M,Silver
+Football,Football,"BUCHWALD, Charles",DEN,Men,football,M,Silver
+Football,Football,"CHRISTOFFERSEN, Hjalmar Johan",DEN,Men,football,M,Silver
+Football,Football,"HANSEN, Harald",DEN,Men,football,M,Silver
+Football,Football,"HANSEN, Sophus",DEN,Men,football,M,Silver
+Football,Football,"MIDDELBOE, Niels",DEN,Men,football,M,Silver
+Football,Football,"NIELSEN, Sofus Erhard",DEN,Men,football,M,Silver
+Football,Football,"OLSEN, Anton",DEN,Men,football,M,Silver
+Football,Football,"PETERSEN, Axel Karl",DEN,Men,football,M,Silver
+Football,Football,"SEIDELIN-NIELSEN, Ivar Likke",DEN,Men,football,M,Silver
+Football,Football,"WOLFHAGEN, Vilhelm",DEN,Men,football,M,Silver
+Gymnastics,Artistic G.,"TUNESI, Adolfo",ITA,Men,individual all-round,M,Bronze
+Gymnastics,Artistic G.,"BRAGLIA, G. Alberto",ITA,Men,individual all-round,M,Gold
+Gymnastics,Artistic G.,"SEGURA, B. Louis",FRA,Men,individual all-round,M,Silver
+Gymnastics,Artistic G.,"BETTS, Albert Edward",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"COWHIG, William",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"CROSS, Sidney",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"DICKASON, Harry",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"DRURY, Herbert James",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"FRANKLIN, Bernard Wallis",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"HANSON, Leonard",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"HODGETTS, Samuel",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"LUCK, Charles James",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"MAC KUNE, William",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"MCLEAN, Ronald Gordon",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"MESSENGER, Alfred William",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"OBERHOLZER, Henry Arthur",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"PEPPER, Edward Ernest",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"POTTS, Edward William",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"POTTS, Reginald Hubert",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"ROSS, George James",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"SIMMONS, Charles",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"SOUTHERN, Arthur George Heron",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"TITT, William",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"VIGURS, Charles Alfred",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"WALKER, Samuel John",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"WEST, Charles Joseph",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"WHITAKER, John T.",GBR,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"BIANCHI, Pietro",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"BONI, Guido",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"BRAGLIA, G. Alberto",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"DOMENICHELLI, Guiseppe",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"FREGOSI, Carlo",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"GOLLINI, Alfredo",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"LOI, Francesco",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"MANGIANTE, Giovanni",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"MANGIANTE, Lorenzo",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"MAZZAROCHI, Serafino",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"ROMANO, Guido",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"SALVI, Paolo",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"SAVORINI, Luciano",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"TUNESI, Adolfo",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"ZAMPORI, Giorgio",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"ZORZI, Angelo",ITA,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"ARADI, Lajos",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"BERKES, Jozsef",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"ERD?DY, Imre",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"FOTI, Samu",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"GELLERT, Imre",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"HALMOS, Gy?z?",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"HELLMICH, Otto",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"HERCZEG, Istvan",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"KERESZTESSY, Jozsef",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"KORPONAI, Janos",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"PASZTY, Elemer",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"PEDERY, Arpad",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"RETI, Jen?",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"SZ?TS, Ferenc",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"TERY, ?d?n",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"TULI, G?za",HUN,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"ANDERSEN, Axel Sigurd",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"ANDERSEN, Hjalmart N?rregaard",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"BIRCH, Halvor",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"GRIMMELMANN, Hermann Johan",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"HANSEN, Aage Marius",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"HANSEN, Arvor",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"HANSEN, Christian Marius",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"JENSEN, Charles Christopher",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"JOHANSEN, Hjalmar Peter Martin",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"J?RGENSEN, Poul Preben",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"JUUL-PETERSEN, Carl Julius",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"KREBS, Carl Immanuel",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"MADSEN, Svend Meulengracht",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"M?LGAARD, Thomas Fredrik Hannibal",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"NIELSEN, Lukas Frederick Christian",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"NORDSTR?M, Rikard Hannibal Wilhelm",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"OLSEN, Oluf",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"OLSEN, Steen Lerche",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"PETERSEN, Christian Edvin Oluf",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"PETERSEN, Niels Knudsen",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"SVENDSEN, Christian Valdemar",DEN,Men,"team, free system",M,Bronze
+Gymnastics,Artistic G.,"ABRAHAMSEN, Isak",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"BEYER, Hans",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"BJ?RNSSON, Hartmann",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"DAHL, John",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"ENGELSEN, Alfred",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"JOHNSEN, Bjarne",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"J?RGENSEN, Sigurd",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"KNUDSEN, Knud Leonard",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"LIE, Alf",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"LIE, Rolf",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"LUND, Tor",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"MARTINSEN, Petter",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"MATHIESEN, Per Anton",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"OPDAHL, Jacob",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"OPDAHL, Nils",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"PETTERSEN, Bjarne Viktor",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"SAELEN, Frithjof",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"SCHIRMER, ?istein",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"SELENIUS, Georg",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"SIVERTSEN, Sigvard",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"SJURSEN, Robert",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"STR?M, Einar",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"THORSTENSEN, Gabriel",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"THORSTENSEN, Thomas",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"VOSS, Nils",NOR,Men,"team, free system",M,Gold
+Gymnastics,Artistic G.,"EKHOLM, Kaarlo V?in?",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"FORSSTR?M, Eino Vilho",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"HYV?RINEN, Eero",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"HYV?RINEN, Mikko",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"ILMONIEMI, Tauno",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"KEIN?NEN, Ilmari",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"KIVENHEIMO, Hjalmari",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"LUND, Karl Fredrik",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"PELKONEN, Aarne",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"PERNAJA, Ilmari",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"RYDMAN, Arvid",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"SAASTAMOINEN, Eino",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"SALOVAARA, Aarne",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"SAMMALLAHTI, Heikki",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"SIROLA, Hannes",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"SUOMELA, Klaus Unno",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"TANNER, Lauri Arvo",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"TIIRI, V?in? Edvard",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"V?H?M?KI, Kaarlo",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"VARTIA, Arvo",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"VASAMA, Kaarlo Jalmari",FIN,Men,"team, free system",M,Silver
+Gymnastics,Artistic G.,"AMUNDSEN, Arthur M.",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"ANDERSEN, J?rgen Marius",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"BOYESEN, Trygve Carlsen",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"BRUSTAD, Georg",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"CHRISTENSEN, Conrad",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"ENGEBRETSEN, Eugene",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"ENGELSTAD, Oscar",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"ERIKSEN, Marius",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"HANSEN, Axel Henry",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"HOL, Peter",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"INGEBRETSEN, Olaf",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"JACOBSEN, Olof",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"JENSEN, Erling",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"JENSEN, Thor",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"OLSEN, Fritjof",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"OLSTAD, Oscar",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"PAULSEN, Edvin",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"PEDERSEN, Carl Alfred",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"PEDERSEN, Paul",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"ROBACK, Rolf",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"SMEBYE, Sigurd",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"THORKILDSEN, Thorleif",NOR,Men,"team, Swedish system",M,Bronze
+Gymnastics,Artistic G.,"BERTILSSON, Per Daniel",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"CARLBERG, Carl-Ehrenfried",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"GRANFELDT, Nils Daniel",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"HARTZELL, Curt",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"HOLMBERG, Osvald",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"HYLLANDER, Anders",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"JANSE, Axel Johan",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"KULLBERG, Anders Boo",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"LANDBERG, Sven",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"NILSSON, Per Einar",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"NORELIUS, Bengt Rudolf",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"NORLING, Axel",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"NORLING, Lars Daniel",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"ROSEN, Sven",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"SILFVERSKI?LD, Nils",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"SILFVERSTRAND, Carl",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"S?RENSON, John Emil",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"STIERNSPETZ, Yngve",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"SVENSSON, Carl-Erik",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"SVENSSON, Karl Johan",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"TORELL, Knut E.",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"WENNERHOLM, O. Edward",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"WERS?LL, Cla?s A.",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"WIMAN, David",SWE,Men,"team, Swedish system",M,Gold
+Gymnastics,Artistic G.,"CHRISTENSEN, S?ren Peter",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"ERIKSEN, Ingvald",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"FALCHE, George",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"GARP, Torkild",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"HANSEN, G. Rasmus E.",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"HANSEN, Hans Trier",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"HANSEN, Johannes",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"JENSEN, Jens Kristian",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"JENSEN, S?ren Alfred",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"JENSEN, Valdemar",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"KIRK, Karl",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"KIRKEGAARD, Jens",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"KJEMS, Olaf Nielsen",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"LARSEN, Carl Otto Lauritz",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"LAURSEN, Jens Peter Martinus",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"LEFEVRE, Marius Ludvig",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"MARK, Poul S?rensen",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"OLSEN, Ejnar",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"PEDERSEN, Hans",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"PEDERSEN, Hans Ejler",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"PEDERSEN, Olaf",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"PEDERSEN, Peder Larsen",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"S?RENSEN, Aksel",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"THAU, Martin Hansen",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"THORBORG, S?ren Frederik",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"VADGAARD, Kristen M?ller",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"VILLEMOES, Peder",DEN,Men,"team, Swedish system",M,Silver
+Gymnastics,Artistic G.,"VINTHER, Johannes Larsen",DEN,Men,"team, Swedish system",M,Silver
+Modern Pentathlon,Modern Pentath.,"DE LAVAL, Georg",SWE,Men,Individual competition,M,Bronze
+Modern Pentathlon,Modern Pentath.,"LILLIEHOOK, Gosta",SWE,Men,Individual competition,M,Gold
+Modern Pentathlon,Modern Pentath.,"ASBRINK, Gosta",SWE,Men,Individual competition,M,Silver
+Rowing,Rowing,"BJ?RNSTAD, Olaf",NOR,Men,coxed fours Jugriggers,M,Bronze
+Rowing,Rowing,"HERSETH, Magnus",NOR,Men,coxed fours Jugriggers,M,Bronze
+Rowing,Rowing,"HOLTER, Reidar Durie",NOR,Men,coxed fours Jugriggers,M,Bronze
+Rowing,Rowing,"H?YER, Claus",NOR,Men,coxed fours Jugriggers,M,Bronze
+Rowing,Rowing,"OLSTAD, Frithiof",NOR,Men,coxed fours Jugriggers,M,Bronze
+Rowing,Rowing,"ALLERT, Ejlert Arild Emil",DEN,Men,coxed fours Jugriggers,M,Gold
+Rowing,Rowing,"HANSEN, J?rgen Christian",DEN,Men,coxed fours Jugriggers,M,Gold
+Rowing,Rowing,"HARTMAN, Poul Richard",DEN,Men,coxed fours Jugriggers,M,Gold
+Rowing,Rowing,"M?LLER, Carl Martin August",DEN,Men,coxed fours Jugriggers,M,Gold
+Rowing,Rowing,"PETERSEN, Carl Frederik",DEN,Men,coxed fours Jugriggers,M,Gold
+Rowing,Rowing,"BRUHN-M?LLER, William",SWE,Men,coxed fours Jugriggers,M,Silver
+Rowing,Rowing,"BRUNKMAN, Conrad",SWE,Men,coxed fours Jugriggers,M,Silver
+Rowing,Rowing,"DAHLB?CK, Herman",SWE,Men,coxed fours Jugriggers,M,Silver
+Rowing,Rowing,"ROSVALL, Ture",SWE,Men,coxed fours Jugriggers,M,Silver
+Rowing,Rowing,"WILKENS, Wilhelm",SWE,Men,coxed fours Jugriggers,M,Silver
+Rowing,Rowing,"BARTHOLOMAE, Fritz",GER,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"BARTHOLOMAE, Willi",GER,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"BROESKE, Max",GER,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"DEHN, Werner",GER,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"LIEBING, Otto",GER,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"MATHIAE, Hans",GER,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"REICHELT, Rudolf",GER,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"RUNGE, Kurt",GER,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"VETTER, Max",GER,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"BURGESS, Edgar Richard",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"FLEMING, Philip",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"GARTON, Arthur Stanley",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"GILLAN, James Angus",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"HORSFALL, Ewart Douglas",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"KIRBY, Alister Graham",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"SWANN, Sidney Ernest",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"WELLS, Henry Bensley",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"WORMALD, Leslie Graham",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"BOURNE, Robert Croft",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"BURDEKIN, Beaufort",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"FISON, William Guy",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"GILLESPIE, Thomas Cunningham",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"LITTLEJOHN, Charles William Berry",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"PARKER, William Lorenzo",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"PITMAN, Frederick Archibald Hugo",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"WALKER, John Drummond",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"WIGGINS, Arthur Frederick Reginald",GBR,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"BISGAARD, Erik",DEN,Men,four-oared shell with coxswain (4-),M,Bronze
+Rowing,Rowing,"CLEMMENSEN, Eigil",DEN,Men,four-oared shell with coxswain (4-),M,Bronze
+Rowing,Rowing,"FRANDSEN, Rasmus Peter",DEN,Men,four-oared shell with coxswain (4-),M,Bronze
+Rowing,Rowing,"SIMONSEN, Mikael",DEN,Men,four-oared shell with coxswain (4-),M,Bronze
+Rowing,Rowing,"THYMANN, Poul",DEN,Men,four-oared shell with coxswain (4-),M,Bronze
+Rowing,Rowing,"ARNHEITER, Albert",GER,Men,four-oared shell with coxswain (4-),M,Gold
+Rowing,Rowing,"FICKEISEN, Otto",GER,Men,four-oared shell with coxswain (4-),M,Gold
+Rowing,Rowing,"FICKEISEN, Rudolf",GER,Men,four-oared shell with coxswain (4-),M,Gold
+Rowing,Rowing,"LEISTER, Karl",GER,Men,four-oared shell with coxswain (4-),M,Gold
+Rowing,Rowing,"WILKER, Hermann",GER,Men,four-oared shell with coxswain (4-),M,Gold
+Rowing,Rowing,"BERESFORD, Julius",GBR,Men,four-oared shell with coxswain (4-),M,Silver
+Rowing,Rowing,"CARR, Geoffrey",GBR,Men,four-oared shell with coxswain (4-),M,Silver
+Rowing,Rowing,"LOGAN, Herbert Bruce",GBR,Men,four-oared shell with coxswain (4-),M,Silver
+Rowing,Rowing,"ROUGHT, Charles Gardner",GBR,Men,four-oared shell with coxswain (4-),M,Silver
+Rowing,Rowing,"VERNON, Karl",GBR,Men,four-oared shell with coxswain (4-),M,Silver
+Rowing,Rowing,"BUTLER, Everard Burnside",CAN,Men,single sculls (1x),M,Bronze
+Rowing,Rowing,"KUSIK, Mikha?l Maksimilian",RU1,Men,single sculls (1x),M,Bronze
+Rowing,Rowing,"KINNEAR, William Duthie",GBR,Men,single sculls (1x),M,Gold
+Rowing,Rowing,"VEIRMAN, Polydore",BEL,Men,single sculls (1x),M,Silver
+Sailing,Sailing,"Beloselsky-Belozersky, Esper Konstantinovich",RU1,Men,10m,X,Bronze
+Sailing,Sailing,"BRASCHE, Ernest",RU1,Men,10m,X,Bronze
+Sailing,Sailing,"LINDBLOM, Karl",RU1,Men,10m,X,Bronze
+Sailing,Sailing,"PUSCHNITSKY, Nikola?",RU1,Men,10m,X,Bronze
+Sailing,Sailing,"RODIONOV, Aleksandr",RU1,Men,10m,X,Bronze
+Sailing,Sailing,"SCHOMAKER, Iossif",RU1,Men,10m,X,Bronze
+Sailing,Sailing,"STRAUCH, Filip",RU1,Men,10m,X,Bronze
+Sailing,Sailing,"ERICSSON, Filip",SWE,Men,10m,X,Gold
+Sailing,Sailing,"HELLSTR?M, Carl Ludwig",SWE,Men,10m,X,Gold
+Sailing,Sailing,"ISBERG, Paul",SWE,Men,10m,X,Gold
+Sailing,Sailing,"LUNDEN, Humbert",SWE,Men,10m,X,Gold
+Sailing,Sailing,"NYBERG, Herman",SWE,Men,10m,X,Gold
+Sailing,Sailing,"ROSENW?RD, Harry",SWE,Men,10m,X,Gold
+Sailing,Sailing,"WALLERIUS, Eric G.",SWE,Men,10m,X,Gold
+Sailing,Sailing,"WALLIN, Harald",SWE,Men,10m,X,Gold
+Sailing,Sailing,"BJ?RKSTEN, Waldemar",FIN,Men,10m,X,Silver
+Sailing,Sailing,"BJ?RNSTR?M, Jacob Karl",FIN,Men,10m,X,Silver
+Sailing,Sailing,"BRENNER, Bror Benedikt",FIN,Men,10m,X,Silver
+Sailing,Sailing,"FRANCK, Allan",FIN,Men,10m,X,Silver
+Sailing,Sailing,"LINDH, Erik",FIN,Men,10m,X,Silver
+Sailing,Sailing,"PEKKALAINEN, Adolf Aarne",FIN,Men,10m,X,Silver
+Sailing,Sailing,"WAHL, Harry",FIN,Men,10m,X,Silver
+Sailing,Sailing,"ALFTHAN, Max",FIN,Men,12m,X,Bronze
+Sailing,Sailing,"HARTVALL, Erik",FIN,Men,12m,X,Bronze
+Sailing,Sailing,"HULLDEN, Jarl",FIN,Men,12m,X,Bronze
+Sailing,Sailing,"JUSLEN, Sigurd",FIN,Men,12m,X,Bronze
+Sailing,Sailing,"KROGIUS, Ernest Edvard",FIN,Men,12m,X,Bronze
+Sailing,Sailing,"SANDELIN, Eino",FIN,Men,12m,X,Bronze
+Sailing,Sailing,"SILEN, John",FIN,Men,12m,X,Bronze
+Sailing,Sailing,"ANKER, Johan August",NOR,Men,12m,X,Gold
+Sailing,Sailing,"BERTELSEN, Nils",NOR,Men,12m,X,Gold
+Sailing,Sailing,"FALCH-LUND, Eilert",NOR,Men,12m,X,Gold
+Sailing,Sailing,"HANSEN, Halfdan",NOR,Men,12m,X,Gold
+Sailing,Sailing,"HEJE, Arnfinn Kolbj?rn",NOR,Men,12m,X,Gold
+Sailing,Sailing,"KONOW, Magnus",NOR,Men,12m,X,Gold
+Sailing,Sailing,"LARSEN, Alfred",NOR,Men,12m,X,Gold
+Sailing,Sailing,"LARSEN, Petter Andreas",NOR,Men,12m,X,Gold
+Sailing,Sailing,"STAIB, Christian Frederik",NOR,Men,12m,X,Gold
+Sailing,Sailing,"THAULOW, Carl Gustav",NOR,Men,12m,X,Gold
+Sailing,Sailing,"BERGMAN, Per",SWE,Men,12m,X,Silver
+Sailing,Sailing,"BERGSTR?M, Dick",SWE,Men,12m,X,Silver
+Sailing,Sailing,"BERGSTR?M, Kurt",SWE,Men,12m,X,Silver
+Sailing,Sailing,"CLASON, Hugo",SWE,Men,12m,X,Silver
+Sailing,Sailing,"JOHNSON, Folke",SWE,Men,12m,X,Silver
+Sailing,Sailing,"KANDER, Sigurd",SWE,Men,12m,X,Silver
+Sailing,Sailing,"LAMBY, Nils",SWE,Men,12m,X,Silver
+Sailing,Sailing,"LINDQVIST, Erik",SWE,Men,12m,X,Silver
+Sailing,Sailing,"PERSSON, Nils",SWE,Men,12m,X,Silver
+Sailing,Sailing,"S?LLSTR?M, Richard",SWE,Men,12m,X,Silver
+Sailing,Sailing,"AUST, Otto",SWE,Men,6m,X,Bronze
+Sailing,Sailing,"SANDBERG, Erik",SWE,Men,6m,X,Bronze
+Sailing,Sailing,"SANDBERG, Harald",SWE,Men,6m,X,Bronze
+Sailing,Sailing,"THUBE, Am?d?",FRA,Men,6m,X,Gold
+Sailing,Sailing,"THUBE, Gaston",FRA,Men,6m,X,Gold
+Sailing,Sailing,"THUBE, Jacques",FRA,Men,6m,X,Gold
+Sailing,Sailing,"HERSCHEND, Steen",DEN,Men,6m,X,Silver
+Sailing,Sailing,"MEULENGRACHT-MADSEN, Hans",DEN,Men,6m,X,Silver
+Sailing,Sailing,"THOMSEN, Sven Bernth",DEN,Men,6m,X,Silver
+Sailing,Sailing,"AHNGER, Arthur",FIN,Men,8m,X,Bronze
+Sailing,Sailing,"LINDH, Emil",FIN,Men,8m,X,Bronze
+Sailing,Sailing,"TALLBERG, Bertil",FIN,Men,8m,X,Bronze
+Sailing,Sailing,"TALLBERG, Gunnar",FIN,Men,8m,X,Bronze
+Sailing,Sailing,"WESTLING, Georg",FIN,Men,8m,X,Bronze
+Sailing,Sailing,"AAS, Thomas Valentin",NOR,Men,8m,X,Gold
+Sailing,Sailing,"BRECKE, Andreas Bang",NOR,Men,8m,X,Gold
+Sailing,Sailing,"CORNELIUS, Torleiv Schibsted",NOR,Men,8m,X,Gold
+Sailing,Sailing,"GLAD, Thoralf",NOR,Men,8m,X,Gold
+Sailing,Sailing,"JEBE, Christian Fredrik",NOR,Men,8m,X,Gold
+Sailing,Sailing,"HENRIQUES, Emil",SWE,Men,8m,X,Silver
+Sailing,Sailing,"HEYMAN, Bengt",SWE,Men,8m,X,Silver
+Sailing,Sailing,"THIEL, Alvar",SWE,Men,8m,X,Silver
+Sailing,Sailing,"WESTERMARK, Herbert",SWE,Men,8m,X,Silver
+Sailing,Sailing,"WESTERMARK, Nils",SWE,Men,8m,X,Silver
+Shooting,Shooting,"SWAHN, Oscar",SWE,Men,"100m running deer, double shots",M,Bronze
+Shooting,Shooting,"LUNDEBERG, Ake",SWE,Men,"100m running deer, double shots",M,Gold
+Shooting,Shooting,"BENEDICKS, Edward",SWE,Men,"100m running deer, double shots",M,Silver
+Shooting,Shooting,"TOIVONEN, Nestori",FIN,Men,"100m running deer, single shots",M,Bronze
+Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"100m running deer, single shots",M,Gold
+Shooting,Shooting,"LUNDEBERG, Ake",SWE,Men,"100m running deer, single shots",M,Silver
+Shooting,Shooting,"LONDEN, Axel Fredrik",FIN,Men,"100m running deer, single shots, team",M,Bronze
+Shooting,Shooting,"ROSENQUIST, Ernst Edvard",FIN,Men,"100m running deer, single shots, team",M,Bronze
+Shooting,Shooting,"TOIVONEN, Nestori",FIN,Men,"100m running deer, single shots, team",M,Bronze
+Shooting,Shooting,"W??N?NEN, Tivo",FIN,Men,"100m running deer, single shots, team",M,Bronze
+Shooting,Shooting,"ARVIDSSON, Per Olof",SWE,Men,"100m running deer, single shots, team",M,Gold
+Shooting,Shooting,"LUNDEBERG, Ake",SWE,Men,"100m running deer, single shots, team",M,Gold
+Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"100m running deer, single shots, team",M,Gold
+Shooting,Shooting,"SWAHN, Oscar",SWE,Men,"100m running deer, single shots, team",M,Gold
+Shooting,Shooting,"LEUSHNER, William F.",USA,Men,"100m running deer, single shots, team",M,Silver
+Shooting,Shooting,"LIBBEY, William",USA,Men,"100m running deer, single shots, team",M,Silver
+Shooting,Shooting,"MCDONNELL, William Neil",USA,Men,"100m running deer, single shots, team",M,Silver
+Shooting,Shooting,"WINANS, Walter",USA,Men,"100m running deer, single shots, team",M,Silver
+Shooting,Shooting,"VON HOLST, Johan H?bner",SWE,Men,25m rapid fire pistol (60 shots),M,Bronze
+Shooting,Shooting,"LANE, Alfred P.",USA,Men,25m rapid fire pistol (60 shots),M,Gold
+Shooting,Shooting,"PALEN, Paul",SWE,Men,25m rapid fire pistol (60 shots),M,Silver
+Shooting,Shooting,"HIRD, Frederick S.",USA,Men,"25m small bore rifle, team",M,Bronze
+Shooting,Shooting,"LEUSHNER, William F.",USA,Men,"25m small bore rifle, team",M,Bronze
+Shooting,Shooting,"MCDONNELL, William Neil",USA,Men,"25m small bore rifle, team",M,Bronze
+Shooting,Shooting,"SPROUT, Warren A.",USA,Men,"25m small bore rifle, team",M,Bronze
+Shooting,Shooting,"BOIVIE, Gustav",SWE,Men,"25m small bore rifle, team",M,Gold
+Shooting,Shooting,"CARLBERG, Eric",SWE,Men,"25m small bore rifle, team",M,Gold
+Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,"25m small bore rifle, team",M,Gold
+Shooting,Shooting,"VON HOLST, Johan H?bner",SWE,Men,"25m small bore rifle, team",M,Gold
+Shooting,Shooting,"MILNE, William",GBR,Men,"25m small bore rifle, team",M,Silver
+Shooting,Shooting,"PEPE, Joseph",GBR,Men,"25m small bore rifle, team",M,Silver
+Shooting,Shooting,"PIMM, William Edwin",GBR,Men,"25m small bore rifle, team",M,Silver
+Shooting,Shooting,"STYLES, William Kensett",GBR,Men,"25m small bore rifle, team",M,Silver
+Shooting,Shooting,"ERICSSON, Gideon",SWE,Men,25m small rifle,M,Bronze
+Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,25m small rifle,M,Gold
+Shooting,Shooting,"VON HOLST, Johan H?bner",SWE,Men,25m small rifle,M,Silver
+Shooting,Shooting,"LARSEN, Niels Hansen Ditlev",DEN,Men,300m free rifle 3 positions (3x40 shots),M,Bronze
+Shooting,Shooting,"COLAS, Paul Ren?",FRA,Men,300m free rifle 3 positions (3x40 shots),M,Gold
+Shooting,Shooting,"MADSEN, Lars J?rgen",DEN,Men,300m free rifle 3 positions (3x40 shots),M,Silver
+Shooting,Shooting,"DURANT, Hugh",GBR,Men,"30m army pistol, team",M,Bronze
+Shooting,Shooting,"KEMPSTER, Albert Joseph",GBR,Men,"30m army pistol, team",M,Bronze
+Shooting,Shooting,"POULTER, Horatio Orlando",GBR,Men,"30m army pistol, team",M,Bronze
+Shooting,Shooting,"STEWART, Charles Edward",GBR,Men,"30m army pistol, team",M,Bronze
+Shooting,Shooting,"CARLBERG, Eric",SWE,Men,"30m army pistol, team",M,Gold
+Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,"30m army pistol, team",M,Gold
+Shooting,Shooting,"PALEN, Paul",SWE,Men,"30m army pistol, team",M,Gold
+Shooting,Shooting,"VON HOLST, Johan H?bner",SWE,Men,"30m army pistol, team",M,Gold
+Shooting,Shooting,"DE KACHE, Amos",RU1,Men,"30m army pistol, team",M,Silver
+Shooting,Shooting,"DE MELNITSKY, Nikola?",RU1,Men,"30m army pistol, team",M,Silver
+Shooting,Shooting,"DE PANTELEYMONOFF, Georgi",RU1,Men,"30m army pistol, team",M,Silver
+Shooting,Shooting,"DE WEYLOCHNIKOFF, Pavel",RU1,Men,"30m army pistol, team",M,Silver
+Shooting,Shooting,"DURANT, Hugh",GBR,Men,"50m army pistol, team",M,Bronze
+Shooting,Shooting,"KEMPSTER, Albert Joseph",GBR,Men,"50m army pistol, team",M,Bronze
+Shooting,Shooting,"POULTER, Horatio Orlando",GBR,Men,"50m army pistol, team",M,Bronze
+Shooting,Shooting,"STEWART, Charles Edward",GBR,Men,"50m army pistol, team",M,Bronze
+Shooting,Shooting,"DIETZ, John A.",USA,Men,"50m army pistol, team",M,Gold
+Shooting,Shooting,"DOLFEN, Peter J.",USA,Men,"50m army pistol, team",M,Gold
+Shooting,Shooting,"LANE, Alfred P.",USA,Men,"50m army pistol, team",M,Gold
+Shooting,Shooting,"SEARS, Henry Francis",USA,Men,"50m army pistol, team",M,Gold
+Shooting,Shooting,"BOSTR?M, Erik",SWE,Men,"50m army pistol, team",M,Silver
+Shooting,Shooting,"CARLBERG, Eric",SWE,Men,"50m army pistol, team",M,Silver
+Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,"50m army pistol, team",M,Silver
+Shooting,Shooting,"DE LAVAL, Georg",SWE,Men,"50m army pistol, team",M,Silver
+Shooting,Shooting,"STEWART, Charles Edward",GBR,Men,50m pistol (60 shots),M,Bronze
+Shooting,Shooting,"LANE, Alfred P.",USA,Men,50m pistol (60 shots),M,Gold
+Shooting,Shooting,"DOLFEN, Peter J.",USA,Men,50m pistol (60 shots),M,Silver
+Shooting,Shooting,"BURT, Harold",GBR,Men,50m rifle prone (60 shots),M,Bronze
+Shooting,Shooting,"HIRD, Frederick S.",USA,Men,50m rifle prone (60 shots),M,Gold
+Shooting,Shooting,"MILNE, William",GBR,Men,50m rifle prone (60 shots),M,Silver
+Shooting,Shooting,"HIRD, Frederick S.",USA,Men,"50m small bore rifle, team",M,Bronze
+Shooting,Shooting,"LEUSHNER, William F.",USA,Men,"50m small bore rifle, team",M,Bronze
+Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"50m small bore rifle, team",M,Bronze
+Shooting,Shooting,"SPROUT, Warren A.",USA,Men,"50m small bore rifle, team",M,Bronze
+Shooting,Shooting,"LESSIMORE, Edward John",GBR,Men,"50m small bore rifle, team",M,Gold
+Shooting,Shooting,"MURRAY, Robert Cook",GBR,Men,"50m small bore rifle, team",M,Gold
+Shooting,Shooting,"PEPE, Joseph",GBR,Men,"50m small bore rifle, team",M,Gold
+Shooting,Shooting,"PIMM, William Edwin",GBR,Men,"50m small bore rifle, team",M,Gold
+Shooting,Shooting,"CARLBERG, Eric",SWE,Men,"50m small bore rifle, team",M,Silver
+Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,"50m small bore rifle, team",M,Silver
+Shooting,Shooting,"NORDENSWAN, Arthur",SWE,Men,"50m small bore rifle, team",M,Silver
+Shooting,Shooting,"?RTEGREN, Ruben",SWE,Men,"50m small bore rifle, team",M,Silver
+Shooting,Shooting,"JACKSON, John E.",USA,Men,600m free rifle,M,Bronze
+Shooting,Shooting,"COLAS, Paul Ren?",FRA,Men,600m free rifle,M,Gold
+Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,600m free rifle,M,Silver
+Shooting,Shooting,"SKOGEN, Engebret",NOR,Men,"army rifle, 300m, 3 positions",M,Bronze
+Shooting,Shooting,"PROKOPP, Sandor",HUN,Men,"army rifle, 300m, 3 positions",M,Gold
+Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"army rifle, 300m, 3 positions",M,Silver
+Shooting,Shooting,"GOELDEL, Alfred",GER,Men,"clay pigeons, team",M,Bronze
+Shooting,Shooting,"GOELDEL, Horst",GER,Men,"clay pigeons, team",M,Bronze
+Shooting,Shooting,"GRAF VON BERNSTORFF, Erich",GER,Men,"clay pigeons, team",M,Bronze
+Shooting,Shooting,"KOCH, Erland",GER,Men,"clay pigeons, team",M,Bronze
+Shooting,Shooting,"PREUSS, Albert",GER,Men,"clay pigeons, team",M,Bronze
+Shooting,Shooting,"VON ZEIDLITZ UND LEIPE, Franz Freiherr",GER,Men,"clay pigeons, team",M,Bronze
+Shooting,Shooting,"BILLINGS, Charles W.",USA,Men,"clay pigeons, team",M,Gold
+Shooting,Shooting,"GLEASON, Edward Francis",USA,Men,"clay pigeons, team",M,Gold
+Shooting,Shooting,"GRAHAM, James R.",USA,Men,"clay pigeons, team",M,Gold
+Shooting,Shooting,"HALL, Frank",USA,Men,"clay pigeons, team",M,Gold
+Shooting,Shooting,"HENDRICKSON, John H.",USA,Men,"clay pigeons, team",M,Gold
+Shooting,Shooting,"SPOTTS, Ralph Lewis",USA,Men,"clay pigeons, team",M,Gold
+Shooting,Shooting,"BUTT, John Hurst",GBR,Men,"clay pigeons, team",M,Silver
+Shooting,Shooting,"GROSVENOR, William Percy",GBR,Men,"clay pigeons, team",M,Silver
+Shooting,Shooting,"HUMBY, Harry Robinson",GBR,Men,"clay pigeons, team",M,Silver
+Shooting,Shooting,"MAUNDER, Alexander",GBR,Men,"clay pigeons, team",M,Silver
+Shooting,Shooting,"PALMER, Charles",GBR,Men,"clay pigeons, team",M,Silver
+Shooting,Shooting,"WHITAKER, George",GBR,Men,"clay pigeons, team",M,Silver
+Shooting,Shooting,"ANDERSEN, Niels",DEN,Men,"free rifle, team",M,Bronze
+Shooting,Shooting,"HAJSLUND, Jens Madsen",DEN,Men,"free rifle, team",M,Bronze
+Shooting,Shooting,"LARSEN, Laurits Teodor Christian",DEN,Men,"free rifle, team",M,Bronze
+Shooting,Shooting,"LARSEN, Niels Hansen Ditlev",DEN,Men,"free rifle, team",M,Bronze
+Shooting,Shooting,"MADSEN, Lars J?rgen",DEN,Men,"free rifle, team",M,Bronze
+Shooting,Shooting,"OLSEN, Ole",DEN,Men,"free rifle, team",M,Bronze
+Shooting,Shooting,"BJ?RKMAN, Carl",SWE,Men,"free rifle, team",M,Gold
+Shooting,Shooting,"BLOMQVIST, Erik",SWE,Men,"free rifle, team",M,Gold
+Shooting,Shooting,"ERIKSSON, Mauritz",SWE,Men,"free rifle, team",M,Gold
+Shooting,Shooting,"JOHANSSON, Carl Hugo",SWE,Men,"free rifle, team",M,Gold
+Shooting,Shooting,"JONSSON, Gustaf Adolf",SWE,Men,"free rifle, team",M,Gold
+Shooting,Shooting,"LARSSON, Bernhard",SWE,Men,"free rifle, team",M,Gold
+Shooting,Shooting,"HELGERUD, Albert",NOR,Men,"free rifle, team",M,Silver
+Shooting,Shooting,"LIBERG, Einar",NOR,Men,"free rifle, team",M,Silver
+Shooting,Shooting,"?STENSEN, ?sten",NOR,Men,"free rifle, team",M,Silver
+Shooting,Shooting,"SAETHER, Olaf",NOR,Men,"free rifle, team",M,Silver
+Shooting,Shooting,"SAETHER, Ole Andreas",NOR,Men,"free rifle, team",M,Silver
+Shooting,Shooting,"SKATTEBOE, Gudbrand Gudbrandsen",NOR,Men,"free rifle, team",M,Silver
+Shooting,Shooting,"BJ?RKMAN, Carl",SWE,Men,"rifle, team",M,Bronze
+Shooting,Shooting,"BJ?RKMAN, T?nnes",SWE,Men,"rifle, team",M,Bronze
+Shooting,Shooting,"ERIKSSON, Mauritz",SWE,Men,"rifle, team",M,Bronze
+Shooting,Shooting,"JERNSTR?M, Verner",SWE,Men,"rifle, team",M,Bronze
+Shooting,Shooting,"JOHANSSON, Carl Hugo",SWE,Men,"rifle, team",M,Bronze
+Shooting,Shooting,"LARSSON, Bernhard",SWE,Men,"rifle, team",M,Bronze
+Shooting,Shooting,"ADAMS, Harry Loren",USA,Men,"rifle, team",M,Gold
+Shooting,Shooting,"BRIGGS, Allan Lindsay",USA,Men,"rifle, team",M,Gold
+Shooting,Shooting,"BURDETTE, Cornelius L.",USA,Men,"rifle, team",M,Gold
+Shooting,Shooting,"JACKSON, John E.",USA,Men,"rifle, team",M,Gold
+Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"rifle, team",M,Gold
+Shooting,Shooting,"SPROUT, Warren A.",USA,Men,"rifle, team",M,Gold
+Shooting,Shooting,"BURR, Henry Goerge",GBR,Men,"rifle, team",M,Silver
+Shooting,Shooting,"FULTON, Arthur George",GBR,Men,"rifle, team",M,Silver
+Shooting,Shooting,"OMMUNDSEN, Harcourt",GBR,Men,"rifle, team",M,Silver
+Shooting,Shooting,"PARNELL, Edward Louis",GBR,Men,"rifle, team",M,Silver
+Shooting,Shooting,"REID, James",GBR,Men,"rifle, team",M,Silver
+Shooting,Shooting,"SKILTON, Edward",GBR,Men,"rifle, team",M,Silver
+Shooting,Shooting,"BLAU, Harry",RU1,Men,trap (125 targets),M,Bronze
+Shooting,Shooting,"GRAHAM, James R.",USA,Men,trap (125 targets),M,Gold
+Shooting,Shooting,"GOELDEL, Alfred",GER,Men,trap (125 targets),M,Silver
+Tennis,Tennis,"CANET, Albert Henri",FRA,Men,doubles,M,Bronze
+Tennis,Tennis,"MENY DE MARANGUE, Edouard Marie Marc",FRA,Men,doubles,M,Bronze
+Tennis,Tennis,"KITSON, Harry Austin",RSA,Men,doubles,M,Gold
+Tennis,Tennis,"WINSLOW, Charles Lyndhurst",RSA,Men,doubles,M,Gold
+Tennis,Tennis,"PIPES, Fritz Felix",AUT,Men,doubles,M,Silver
+Tennis,Tennis,"ZBORZIL, Arthur",AUT,Men,doubles,M,Silver
+Tennis,Tennis,"BEAMISH, Alfred Ernest",GBR,Men,doubles indoor,M,Bronze
+Tennis,Tennis,"DIXON, Charles Percy",GBR,Men,doubles indoor,M,Bronze
+Tennis,Tennis,"GERMOT, Maurice",FRA,Men,doubles indoor,M,Gold
+Tennis,Tennis,"GOBERT, Andr? Henri",FRA,Men,doubles indoor,M,Gold
+Tennis,Tennis,"KEMPE, Carl",SWE,Men,doubles indoor,M,Silver
+Tennis,Tennis,"SETTERWALL, Gunnar",SWE,Men,doubles indoor,M,Silver
+Tennis,Tennis,"CANET, Albert Henri",FRA,Men,mixed doubles,X,Bronze
+Tennis,Tennis,"SCHOMBURGK, Heinrich",GER,Men,mixed doubles,X,Gold
+Tennis,Tennis,"SETTERWALL, Gunnar",SWE,Men,mixed doubles,X,Silver
+Tennis,Tennis,"BROQUEDIS, Marguerite",FRA,Women,mixed doubles,X,Bronze
+Tennis,Tennis,"K?RING, Dora",GER,Women,mixed doubles,X,Gold
+Tennis,Tennis,"FICK, Sigrid",SWE,Women,mixed doubles,X,Silver
+Tennis,Tennis,"SETTERWALL, Gunnar",SWE,Men,mixed doubles indoor,X,Bronze
+Tennis,Tennis,"DIXON, Charles Percy",GBR,Men,mixed doubles indoor,X,Gold
+Tennis,Tennis,"BARRETT, Herbert Roper",GBR,Men,mixed doubles indoor,X,Silver
+Tennis,Tennis,"FICK, Sigrid",SWE,Women,mixed doubles indoor,X,Bronze
+Tennis,Tennis,"HANNAM, Edith Margaret",GBR,Women,mixed doubles indoor,X,Gold
+Tennis,Tennis,"AITCHISON, Francis Helen",GBR,Women,mixed doubles indoor,X,Silver
+Tennis,Tennis,"KREUZER, Oscar",GER,Men,singles,M,Bronze
+Tennis,Tennis,"WINSLOW, Charles Lyndhurst",RSA,Men,singles,M,Gold
+Tennis,Tennis,"KITSON, Harry Austin",RSA,Men,singles,M,Silver
+Tennis,Tennis,"BJURSTEDT, Anne Margrethe",NOR,Women,singles,W,Bronze
+Tennis,Tennis,"BROQUEDIS, Marguerite",FRA,Women,singles,W,Gold
+Tennis,Tennis,"K?RING, Dora",GER,Women,singles,W,Silver
+Tennis,Tennis,"WILDING, Anthony Frederick",ANZ,Men,singles indoor,M,Bronze
+Tennis,Tennis,"GOBERT, Andr? Henri",FRA,Men,singles indoor,M,Gold
+Tennis,Tennis,"DIXON, Charles Percy",GBR,Men,singles indoor,M,Silver
+Tennis,Tennis,"PARTON, Mabel Branwell",GBR,Women,singles indoor,W,Bronze
+Tennis,Tennis,"HANNAM, Edith Margaret",GBR,Women,singles indoor,W,Gold
+Tennis,Tennis,"CASTENSCHIOLD, Thora Gerda Sophie",DEN,Women,singles indoor,W,Silver
+Tug of War,Tug of War,"ANDERSSON, Arvid Leander",SWE,Men,tug of war,M,Gold
+Tug of War,Tug of War,"BERGMAN, Adolf",SWE,Men,tug of war,M,Gold
+Tug of War,Tug of War,"EDMAN, Johan Victor",SWE,Men,tug of war,M,Gold
+Tug of War,Tug of War,"FREDRIKSSON, Erik Algot",SWE,Men,tug of war,M,Gold
+Tug of War,Tug of War,"GUSTAFSSON, August",SWE,Men,tug of war,M,Gold
+Tug of War,Tug of War,"JONSSON, Carl",SWE,Men,tug of war,M,Gold
+Tug of War,Tug of War,"LARSSON, Eric Victor",SWE,Men,tug of war,M,Gold
+Tug of War,Tug of War,"LINDSTR?M, Carl Herbert",SWE,Men,tug of war,M,Gold
+Tug of War,Tug of War,"CHAFFE, Walter",GBR,Men,tug of war,M,Silver
+Tug of War,Tug of War,"DOWLER, Joseph",GBR,Men,tug of war,M,Silver
+Tug of War,Tug of War,"HUMPHREYS, Frederick Harkness",GBR,Men,tug of war,M,Silver
+Tug of War,Tug of War,"HYNES, Mathias",GBR,Men,tug of war,M,Silver
+Tug of War,Tug of War,"MILLS, Edwin Archer",GBR,Men,tug of war,M,Silver
+Tug of War,Tug of War,"MUNRO, Alexander",GBR,Men,tug of war,M,Silver
+Tug of War,Tug of War,"SEWELL, John",GBR,Men,tug of war,M,Silver
+Tug of War,Tug of War,"SHEPHERD, James",GBR,Men,tug of war,M,Silver
+Wrestling,Wrestling Gre-R,"LASANEN, Otto",FIN,Men,- 60kg (featherweight),M,Bronze
+Wrestling,Wrestling Gre-R,"KOSKELO, Kaarlo",FIN,Men,- 60kg (featherweight),M,Gold
+Wrestling,Wrestling Gre-R,"GERST?CKER, Georg",GER,Men,- 60kg (featherweight),M,Silver
+Wrestling,Wrestling Gre-R,"JENSEN, S?ren Marius",DEN,Men,+ 82.5kg (super heavyweight),M,Bronze
+Wrestling,Wrestling Gre-R,"SAARELA, Urj? Erik Mikael",FIN,Men,+ 82.5kg (super heavyweight),M,Gold
+Wrestling,Wrestling Gre-R,"OLIN, Johan Fredrik",FIN,Men,+ 82.5kg (super heavyweight),M,Silver
+Wrestling,Wrestling Gre-R,"MATIASSON, Edvin",SWE,Men,60 - 67.5kg (lightweight),M,Bronze
+Wrestling,Wrestling Gre-R,"V?RE, Eemil Ernesti",FIN,Men,60 - 67.5kg (lightweight),M,Gold
+Wrestling,Wrestling Gre-R,"MALMSTR?M, Gustaf H.",SWE,Men,60 - 67.5kg (lightweight),M,Silver
+Wrestling,Wrestling Gre-R,"ASIKAINEN, Alfred",FIN,Men,67.5 - 75kg (middleweight),M,Bronze
+Wrestling,Wrestling Gre-R,"JOHANSSON, Claes",SWE,Men,67.5 - 75kg (middleweight),M,Gold
+Wrestling,Wrestling Gre-R,"KLEIN, Martin",RU1,Men,67.5 - 75kg (middleweight),M,Silver
+Wrestling,Wrestling Gre-R,"VARGA, B?la",HUN,Men,75 - 82.5kg (light-heavyweight),M,Bronze
+Wrestling,Wrestling Gre-R,"AHLGREN, Anders",SWE,Men,75 - 82.5kg (light-heavyweight),M,Silver
+Wrestling,Wrestling Gre-R,"B?HLING, Ivar Theodor",FIN,Men,75 - 82.5kg (light-heavyweight),M,Silver

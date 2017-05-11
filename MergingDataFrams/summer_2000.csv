@@ -1,0 +1,2016 @@
+Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+Aquatics,Diving,"SAUTIN, Dmitry",RUS,Men,10m platform,M,Bronze
+Aquatics,Diving,"TIAN, Liang",CHN,Men,10m platform,M,Gold
+Aquatics,Diving,"HU, Jia",CHN,Men,10m platform,M,Silver
+Aquatics,Diving,"MONTMINY, Anne Katherine",CAN,Women,10m platform,W,Bronze
+Aquatics,Diving,"WILKINSON, Laura",USA,Women,10m platform,W,Gold
+Aquatics,Diving,"LI, Na",CHN,Women,10m platform,W,Silver
+Aquatics,Diving,"SAUTIN, Dmitry",RUS,Men,3m springboard,M,Bronze
+Aquatics,Diving,"XIONG, Ni",CHN,Men,3m springboard,M,Gold
+Aquatics,Diving,"PLATAS, Fernando",MEX,Men,3m springboard,M,Silver
+Aquatics,Diving,"LINDNER, Doerte",GER,Women,3m springboard,W,Bronze
+Aquatics,Diving,"FU, Mingxia",CHN,Women,3m springboard,W,Gold
+Aquatics,Diving,"GUO, Jingjing",CHN,Women,3m springboard,W,Silver
+Aquatics,Diving,"HEMPEL, Jan",GER,Men,synchronized diving 10m platform,M,Bronze
+Aquatics,Diving,"MEYER, Heiko",GER,Men,synchronized diving 10m platform,M,Bronze
+Aquatics,Diving,"LOUKACHINE, Igor",RUS,Men,synchronized diving 10m platform,M,Gold
+Aquatics,Diving,"SAUTIN, Dmitry",RUS,Men,synchronized diving 10m platform,M,Gold
+Aquatics,Diving,"HU, Jia",CHN,Men,synchronized diving 10m platform,M,Silver
+Aquatics,Diving,"TIAN, Liang",CHN,Men,synchronized diving 10m platform,M,Silver
+Aquatics,Diving,"GILMORE, Rebecca",AUS,Women,synchronized diving 10m platform,W,Bronze
+Aquatics,Diving,"TOURKY, Loudy",AUS,Women,synchronized diving 10m platform,W,Bronze
+Aquatics,Diving,"LI, Na",CHN,Women,synchronized diving 10m platform,W,Gold
+Aquatics,Diving,"SANG, Xue",CHN,Women,synchronized diving 10m platform,W,Gold
+Aquatics,Diving,"HEYMANS, Emilie",CAN,Women,synchronized diving 10m platform,W,Silver
+Aquatics,Diving,"MONTMINY, Anne Katherine",CAN,Women,synchronized diving 10m platform,W,Silver
+Aquatics,Diving,"NEWBERY, Robert",AUS,Men,synchronized diving 3m springboard,M,Bronze
+Aquatics,Diving,"PULLAR, Dean",AUS,Men,synchronized diving 3m springboard,M,Bronze
+Aquatics,Diving,"XIAO, Hailiang",CHN,Men,synchronized diving 3m springboard,M,Gold
+Aquatics,Diving,"XIONG, Ni",CHN,Men,synchronized diving 3m springboard,M,Gold
+Aquatics,Diving,"DOBROSKOK, Alexandre",RUS,Men,synchronized diving 3m springboard,M,Silver
+Aquatics,Diving,"SAUTIN, Dmitry",RUS,Men,synchronized diving 3m springboard,M,Silver
+Aquatics,Diving,"SOROKINA, Ganna",UKR,Women,synchronized diving 3m springboard,W,Bronze
+Aquatics,Diving,"ZHUPINA, Olena",UKR,Women,synchronized diving 3m springboard,W,Bronze
+Aquatics,Diving,"ILYINA, Vera",RUS,Women,synchronized diving 3m springboard,W,Gold
+Aquatics,Diving,"PAKHALINA, Ioulia",RUS,Women,synchronized diving 3m springboard,W,Gold
+Aquatics,Diving,"FU, Mingxia",CHN,Women,synchronized diving 3m springboard,W,Silver
+Aquatics,Diving,"GUO, Jingjing",CHN,Women,synchronized diving 3m springboard,W,Silver
+Aquatics,Swimming,"THELOKE, Stev",GER,Men,100m backstroke,M,Bronze
+Aquatics,Swimming,"KRAYZELBURG, Lenny",USA,Men,100m backstroke,M,Gold
+Aquatics,Swimming,"WELSH, Matthew",AUS,Men,100m backstroke,M,Silver
+Aquatics,Swimming,"ZHIVANEVSKAYA, Nina Alexandrovna",ESP,Women,100m backstroke,W,Bronze
+Aquatics,Swimming,"MOCANU, Diana",ROU,Women,100m backstroke,W,Gold
+Aquatics,Swimming,"NAKAMURA, Mai",JPN,Women,100m backstroke,W,Silver
+Aquatics,Swimming,"SLUDNOV, Roman",RUS,Men,100m breaststroke,M,Bronze
+Aquatics,Swimming,"FIORAVANTI, Domenico",ITA,Men,100m breaststroke,M,Gold
+Aquatics,Swimming,"MOSES, Ed",USA,Men,100m breaststroke,M,Silver
+Aquatics,Swimming,"HEYNS, Penelope",RSA,Women,100m breaststroke,W,Bronze
+Aquatics,Swimming,"QUANN, Megan",USA,Women,100m breaststroke,W,Gold
+Aquatics,Swimming,"JONES, Leisel",AUS,Women,100m breaststroke,W,Silver
+Aquatics,Swimming,"HUEGILL, Geoff",AUS,Men,100m butterfly,M,Bronze
+Aquatics,Swimming,"FROLANDER, Lars",SWE,Men,100m butterfly,M,Gold
+Aquatics,Swimming,"KLIM, Michael",AUS,Men,100m butterfly,M,Silver
+Aquatics,Swimming,"TORRES, Dara",USA,Women,100m butterfly,W,Bronze
+Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,100m butterfly,W,Gold
+Aquatics,Swimming,"MORAVCOVA, Martina",SVK,Women,100m butterfly,W,Silver
+Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,100m freestyle,M,Bronze
+Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,100m freestyle,M,Gold
+Aquatics,Swimming,"POPOV, Alexander",RUS,Men,100m freestyle,M,Silver
+Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,100m freestyle,W,Bronze
+Aquatics,Swimming,"TORRES, Dara",USA,Women,100m freestyle,W,Bronze
+Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,100m freestyle,W,Gold
+Aquatics,Swimming,"ALSHAMMAR, Therese",SWE,Women,100m freestyle,W,Silver
+Aquatics,Swimming,"THOMPSON, Chris",USA,Men,1500m freestyle,M,Bronze
+Aquatics,Swimming,"HACKETT, Grant",AUS,Men,1500m freestyle,M,Gold
+Aquatics,Swimming,"PERKINS, Kieren John",AUS,Men,1500m freestyle,M,Silver
+Aquatics,Swimming,"WELSH, Matthew",AUS,Men,200m backstroke,M,Bronze
+Aquatics,Swimming,"KRAYZELBURG, Lenny",USA,Men,200m backstroke,M,Gold
+Aquatics,Swimming,"PEIRSOL, Aaron",USA,Men,200m backstroke,M,Silver
+Aquatics,Swimming,"NAKAO, Miki",JPN,Women,200m backstroke,W,Bronze
+Aquatics,Swimming,"MOCANU, Diana",ROU,Women,200m backstroke,W,Gold
+Aquatics,Swimming,"MARACINEANU, Roxana",FRA,Women,200m backstroke,W,Silver
+Aquatics,Swimming,"RUMMOLO, Davide",ITA,Men,200m breaststroke,M,Bronze
+Aquatics,Swimming,"FIORAVANTI, Domenico",ITA,Men,200m breaststroke,M,Gold
+Aquatics,Swimming,"PARKIN, Terence",RSA,Men,200m breaststroke,M,Silver
+Aquatics,Swimming,"BEARD, Amanda",USA,Women,200m breaststroke,W,Bronze
+Aquatics,Swimming,"KOVACS, Agnes",HUN,Women,200m breaststroke,W,Gold
+Aquatics,Swimming,"KOWAL, Kristy",USA,Women,200m breaststroke,W,Silver
+Aquatics,Swimming,"NORRIS, Justin",AUS,Men,200m butterfly,M,Bronze
+Aquatics,Swimming,"MALCHOW, Tom",USA,Men,200m butterfly,M,Gold
+Aquatics,Swimming,"SYLANTYEV, Denys",UKR,Men,200m butterfly,M,Silver
+Aquatics,Swimming,"THOMAS, Petria",AUS,Women,200m butterfly,W,Bronze
+Aquatics,Swimming,"HYMAN, Misty",USA,Women,200m butterfly,W,Gold
+Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200m butterfly,W,Silver
+Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,200m freestyle,M,Bronze
+Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,200m freestyle,M,Gold
+Aquatics,Swimming,"THORPE, Ian",AUS,Men,200m freestyle,M,Silver
+Aquatics,Swimming,"POLL AHRENS, Claudia",CRC,Women,200m freestyle,W,Bronze
+Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200m freestyle,W,Gold
+Aquatics,Swimming,"MORAVCOVA, Martina",SVK,Women,200m freestyle,W,Silver
+Aquatics,Swimming,"WILKENS, Tom",USA,Men,200m individual medley,M,Bronze
+Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,200m individual medley,M,Gold
+Aquatics,Swimming,"DOLAN, Tom",USA,Men,200m individual medley,M,Silver
+Aquatics,Swimming,"TEUSCHER, Cristina",USA,Women,200m individual medley,W,Bronze
+Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,200m individual medley,W,Gold
+Aquatics,Swimming,"CASLARU, Beatrice",ROU,Women,200m individual medley,W,Silver
+Aquatics,Swimming,"KELLER, Klete",USA,Men,400m freestyle,M,Bronze
+Aquatics,Swimming,"THORPE, Ian",AUS,Men,400m freestyle,M,Gold
+Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,400m freestyle,M,Silver
+Aquatics,Swimming,"POLL AHRENS, Claudia",CRC,Women,400m freestyle,W,Bronze
+Aquatics,Swimming,"BENNETT, Brooke",USA,Women,400m freestyle,W,Gold
+Aquatics,Swimming,"MUNZ, Diana",USA,Women,400m freestyle,W,Silver
+Aquatics,Swimming,"MYDEN, Curtis Allen",CAN,Men,400m individual medley,M,Bronze
+Aquatics,Swimming,"DOLAN, Tom",USA,Men,400m individual medley,M,Gold
+Aquatics,Swimming,"VENDT, Erik",USA,Men,400m individual medley,M,Silver
+Aquatics,Swimming,"CASLARU, Beatrice",ROU,Women,400m individual medley,W,Bronze
+Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,400m individual medley,W,Gold
+Aquatics,Swimming,"TAJIMA, Yasuko",JPN,Women,400m individual medley,W,Silver
+Aquatics,Swimming,"BORGES, Gustavo",BRA,Men,4x100m freestyle relay,M,Bronze
+Aquatics,Swimming,"JAYME, Carlos",BRA,Men,4x100m freestyle relay,M,Bronze
+Aquatics,Swimming,"SCHERER, Fernando",BRA,Men,4x100m freestyle relay,M,Bronze
+Aquatics,Swimming,"SILVA FILHO, Edvaldo",BRA,Men,4x100m freestyle relay,M,Bronze
+Aquatics,Swimming,"CALLUS, Ashley",AUS,Men,4x100m freestyle relay,M,Gold
+Aquatics,Swimming,"FYDLER, Christopher John",AUS,Men,4x100m freestyle relay,M,Gold
+Aquatics,Swimming,"KLIM, Michael",AUS,Men,4x100m freestyle relay,M,Gold
+Aquatics,Swimming,"PEARSON, Todd",AUS,Men,4x100m freestyle relay,M,Gold
+Aquatics,Swimming,"PINE, Adam",AUS,Men,4x100m freestyle relay,M,Gold
+Aquatics,Swimming,"THORPE, Ian",AUS,Men,4x100m freestyle relay,M,Gold
+Aquatics,Swimming,"DAVIS, Josh",USA,Men,4x100m freestyle relay,M,Silver
+Aquatics,Swimming,"ERVIN, Anthony",USA,Men,4x100m freestyle relay,M,Silver
+Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,4x100m freestyle relay,M,Silver
+Aquatics,Swimming,"LEZAK, Jason",USA,Men,4x100m freestyle relay,M,Silver
+Aquatics,Swimming,"TUCKER, Scott",USA,Men,4x100m freestyle relay,M,Silver
+Aquatics,Swimming,"WALKER, Neil",USA,Men,4x100m freestyle relay,M,Silver
+Aquatics,Swimming,"ALSHAMMAR, Therese",SWE,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"JOHNCKE, Louise",SWE,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"KAMMERLING, Anna-Karin",SWE,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"LILLHAGE, Josefin",SWE,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"SJOBERG, Johanna",SWE,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"SVAHNSTROM, Malin",SWE,Women,4x100m freestyle relay,W,Bronze
+Aquatics,Swimming,"PHENIX, Erin Ashley",USA,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"SHEALY, Courtney",USA,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"TAPPIN, Ashley T",USA,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"TORRES, Dara",USA,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"VAN DYKEN, Amy",USA,Women,4x100m freestyle relay,W,Gold
+Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"GROOT, Chantal",NED,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"HENNEKEN, Thamar",NED,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"VAN RIJN, Wilma",NED,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"VAN ROOIJEN, Manon",NED,Women,4x100m freestyle relay,W,Silver
+Aquatics,Swimming,"KRUPPA, Jens",GER,Men,4x100m medley relay,M,Bronze
+Aquatics,Swimming,"RUPPRATH, Thomas",GER,Men,4x100m medley relay,M,Bronze
+Aquatics,Swimming,"SPANNEBERG, Torsten",GER,Men,4x100m medley relay,M,Bronze
+Aquatics,Swimming,"THELOKE, Stev",GER,Men,4x100m medley relay,M,Bronze
+Aquatics,Swimming,"CROCKER, Ian",USA,Men,4x100m medley relay,M,Gold
+Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,4x100m medley relay,M,Gold
+Aquatics,Swimming,"HANNAN, Tommy",USA,Men,4x100m medley relay,M,Gold
+Aquatics,Swimming,"KRAYZELBURG, Lenny",USA,Men,4x100m medley relay,M,Gold
+Aquatics,Swimming,"LEZAK, Jason",USA,Men,4x100m medley relay,M,Gold
+Aquatics,Swimming,"MOSES, Ed",USA,Men,4x100m medley relay,M,Gold
+Aquatics,Swimming,"WALKER, Neil",USA,Men,4x100m medley relay,M,Gold
+Aquatics,Swimming,"HARRISON, Regan",AUS,Men,4x100m medley relay,M,Silver
+Aquatics,Swimming,"HUEGILL, Geoff",AUS,Men,4x100m medley relay,M,Silver
+Aquatics,Swimming,"KLIM, Michael",AUS,Men,4x100m medley relay,M,Silver
+Aquatics,Swimming,"MITCHELL, Ryan",AUS,Men,4x100m medley relay,M,Silver
+Aquatics,Swimming,"PINE, Adam",AUS,Men,4x100m medley relay,M,Silver
+Aquatics,Swimming,"THORPE, Ian",AUS,Men,4x100m medley relay,M,Silver
+Aquatics,Swimming,"WATSON, Josh",AUS,Men,4x100m medley relay,M,Silver
+Aquatics,Swimming,"WELSH, Matthew",AUS,Men,4x100m medley relay,M,Silver
+Aquatics,Swimming,"MINAMOTO, Sumika",JPN,Women,4x100m medley relay,W,Bronze
+Aquatics,Swimming,"NAKAMURA, Mai",JPN,Women,4x100m medley relay,W,Bronze
+Aquatics,Swimming,"ONISHI, Junko",JPN,Women,4x100m medley relay,W,Bronze
+Aquatics,Swimming,"TANAKA, Masami",JPN,Women,4x100m medley relay,W,Bronze
+Aquatics,Swimming,"BEDFORD, B J",USA,Women,4x100m medley relay,W,Gold
+Aquatics,Swimming,"QUANN, Megan",USA,Women,4x100m medley relay,W,Gold
+Aquatics,Swimming,"SHEALY, Courtney",USA,Women,4x100m medley relay,W,Gold
+Aquatics,Swimming,"STITTS, Staciana",USA,Women,4x100m medley relay,W,Gold
+Aquatics,Swimming,"TAPPIN, Ashley T",USA,Women,4x100m medley relay,W,Gold
+Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,4x100m medley relay,W,Gold
+Aquatics,Swimming,"TORRES, Dara",USA,Women,4x100m medley relay,W,Gold
+Aquatics,Swimming,"VAN DYKEN, Amy",USA,Women,4x100m medley relay,W,Gold
+Aquatics,Swimming,"CALUB, Dyana",AUS,Women,4x100m medley relay,W,Silver
+Aquatics,Swimming,"JONES, Leisel",AUS,Women,4x100m medley relay,W,Silver
+Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,4x100m medley relay,W,Silver
+Aquatics,Swimming,"ROONEY, Giaan",AUS,Women,4x100m medley relay,W,Silver
+Aquatics,Swimming,"RYAN, Sarah",AUS,Women,4x100m medley relay,W,Silver
+Aquatics,Swimming,"THOMAS, Petria",AUS,Women,4x100m medley relay,W,Silver
+Aquatics,Swimming,"WHITE, Tarnee",AUS,Women,4x100m medley relay,W,Silver
+Aquatics,Swimming,"KENKHUIS, Johan",NED,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"VAN DER ZIJDEN, Mark",NED,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"WOUDA, Marcel",NED,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"ZUIJDWEG, Martijn",NED,Men,4x200m freestyle relay,M,Bronze
+Aquatics,Swimming,"HACKETT, Grant",AUS,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"KIRBY, William",AUS,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"KLIM, Michael",AUS,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"KOWALSKI, Daniel",AUS,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"PEARSON, Todd",AUS,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"THORPE, Ian",AUS,Men,4x200m freestyle relay,M,Gold
+Aquatics,Swimming,"CARVIN, Chad",USA,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"DAVIS, Josh",USA,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"DUSING, Nate",USA,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"GOLDBLATT, Scott",USA,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"KELLER, Klete",USA,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"RAUCH, Jamie",USA,Men,4x200m freestyle relay,M,Silver
+Aquatics,Swimming,"BUSCHSCHULTE, Antje",GER,Women,4x200m freestyle relay,W,Bronze
+Aquatics,Swimming,"FREITAG, Meike",GER,Women,4x200m freestyle relay,W,Bronze
+Aquatics,Swimming,"HARSTICK, Sara",GER,Women,4x200m freestyle relay,W,Bronze
+Aquatics,Swimming,"KIELGASS, Kerstin",GER,Women,4x200m freestyle relay,W,Bronze
+Aquatics,Swimming,"STEFFEN, Britta",GER,Women,4x200m freestyle relay,W,Bronze
+Aquatics,Swimming,"VAN ALMSICK, Franziska",GER,Women,4x200m freestyle relay,W,Bronze
+Aquatics,Swimming,"ARSENAULT, Samantha",USA,Women,4x200m freestyle relay,W,Gold
+Aquatics,Swimming,"BENKO, Lindsay",USA,Women,4x200m freestyle relay,W,Gold
+Aquatics,Swimming,"BLACK, Kim",USA,Women,4x200m freestyle relay,W,Gold
+Aquatics,Swimming,"MUNZ, Diana",USA,Women,4x200m freestyle relay,W,Gold
+Aquatics,Swimming,"STOWERS, Julia",USA,Women,4x200m freestyle relay,W,Gold
+Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,4x200m freestyle relay,W,Gold
+Aquatics,Swimming,"GRAHAM, Elka",AUS,Women,4x200m freestyle relay,W,Silver
+Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,4x200m freestyle relay,W,Silver
+Aquatics,Swimming,"ROONEY, Giaan",AUS,Women,4x200m freestyle relay,W,Silver
+Aquatics,Swimming,"THOMAS, Petria",AUS,Women,4x200m freestyle relay,W,Silver
+Aquatics,Swimming,"THOMSON, Kirsten",AUS,Women,4x200m freestyle relay,W,Silver
+Aquatics,Swimming,"VAN LINT, Jacinta",AUS,Women,4x200m freestyle relay,W,Silver
+Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,50m freestyle,M,Bronze
+Aquatics,Swimming,"ERVIN, Anthony",USA,Men,50m freestyle,M,Gold
+Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,50m freestyle,M,Gold
+Aquatics,Swimming,"TORRES, Dara",USA,Women,50m freestyle,W,Bronze
+Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,50m freestyle,W,Gold
+Aquatics,Swimming,"ALSHAMMAR, Therese",SWE,Women,50m freestyle,W,Silver
+Aquatics,Swimming,"SANDENO, Kaitlin",USA,Women,800m freestyle,W,Bronze
+Aquatics,Swimming,"BENNETT, Brooke",USA,Women,800m freestyle,W,Gold
+Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,800m freestyle,W,Silver
+Aquatics,Synchronized S.,"DEDIEU, Virginie",FRA,Women,duet,W,Bronze
+Aquatics,Synchronized S.,"LIGNOT, Myriam",FRA,Women,duet,W,Bronze
+Aquatics,Synchronized S.,"BRUSNIKINA, Olga",RUS,Women,duet,W,Gold
+Aquatics,Synchronized S.,"KISSELEVA, Maria",RUS,Women,duet,W,Gold
+Aquatics,Synchronized S.,"TACHIBANA, Miya",JPN,Women,duet,W,Silver
+Aquatics,Synchronized S.,"TAKEDA, Miho",JPN,Women,duet,W,Silver
+Aquatics,Synchronized S.,"BEAUMONT, Lyne",CAN,Women,team,W,Bronze
+Aquatics,Synchronized S.,"CARVER-DIAS, Claire",CAN,Women,team,W,Bronze
+Aquatics,Synchronized S.,"CHAN, Erin",CAN,Women,team,W,Bronze
+Aquatics,Synchronized S.,"GARCEAU, Catherine",CAN,Women,team,W,Bronze
+Aquatics,Synchronized S.,"LETOURNEAU, Fanny",CAN,Women,team,W,Bronze
+Aquatics,Synchronized S.,"NORMAND, Kirstin",CAN,Women,team,W,Bronze
+Aquatics,Synchronized S.,"TAILLON, Jacinthe",CAN,Women,team,W,Bronze
+Aquatics,Synchronized S.,"TATHAM, Reidun",CAN,Women,team,W,Bronze
+Aquatics,Synchronized S.,"AZAROVA, Elena",RUS,Women,team,W,Gold
+Aquatics,Synchronized S.,"BRUSNIKINA, Olga",RUS,Women,team,W,Gold
+Aquatics,Synchronized S.,"KISSELEVA, Maria",RUS,Women,team,W,Gold
+Aquatics,Synchronized S.,"NOVOKSHCHENOVA, Olga",RUS,Women,team,W,Gold
+Aquatics,Synchronized S.,"PERCHINA, Irina",RUS,Women,team,W,Gold
+Aquatics,Synchronized S.,"SOIA, Elena",RUS,Women,team,W,Gold
+Aquatics,Synchronized S.,"VASILIEVA, Yulia",RUS,Women,team,W,Gold
+Aquatics,Synchronized S.,"VASSIOUKOVA, Olga",RUS,Women,team,W,Gold
+Aquatics,Synchronized S.,"EGAMI, Ayano",JPN,Women,team,W,Silver
+Aquatics,Synchronized S.,"FUJII, Raika",JPN,Women,team,W,Silver
+Aquatics,Synchronized S.,"ISODA, Yoko",JPN,Women,team,W,Silver
+Aquatics,Synchronized S.,"JIMBO, Rei",JPN,Women,team,W,Silver
+Aquatics,Synchronized S.,"TACHIBANA, Miya",JPN,Women,team,W,Silver
+Aquatics,Synchronized S.,"TAKEDA, Miho",JPN,Women,team,W,Silver
+Aquatics,Synchronized S.,"YONEDA, Yoko",JPN,Women,team,W,Silver
+Aquatics,Synchronized S.,"YONEDA, Yuko",JPN,Women,team,W,Silver
+Aquatics,Water polo,"CIRIC, Aleksandar",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"IKODINOVIC, Danilo",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"JELENIC, Viktor",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"KULJACA, Nikola",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"SAPIC, Aleksandar",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"SAVIC, Dejan",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"SOSTAR, Aleksandar",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"TRBOJEVIC, Petar",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"USKOKOVIC, Veljko",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"VASOVIC, Jugoslav",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"VUJASINOVIC, Vladimir",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"VUKANIC, Nenad",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"ZIMONJIC, Predrag",YUG,Men,water polo,M,Bronze
+Aquatics,Water polo,"BENEDEK, Tibor",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"BIROS, Peter",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"FODOR, Rajmund",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"KASAS, Tamas",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"KISS, Gergely",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"KOSZ, Zoltan",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"MARCZ, Tamas",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"MOLNAR, Tamas",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"STEINMETZ, Barnabas",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"SZECSI, Zoltan",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"SZEKELY, Bulcsu",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"VARGA, Zsolt",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"VARI, Attila",HUN,Men,water polo,M,Gold
+Aquatics,Water polo,"BALACHOV, Roman",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"DOUGUINE, Dmitri",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"ERYSHOV, Alexandre",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"GARBOUZOV, Serguei",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"GORSHKOV, Dmitry",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"IATSEV, Iouri",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"KOZLOV, Nikolai",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"MAXIMOV, Nikolai",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"REKETCHINSKI, Andrei",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"STRATAN, Dmitri",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"TCHOMAKHIDZE, Revaz",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"ZAKIROV, Marat",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"ZINNOUROV, Irek",RUS,Men,water polo,M,Silver
+Aquatics,Water polo,"AKOBIA, Marina",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"ANIKEEVA, Ekaterina",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"KONOUKH, Sofia",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"KOROLEVA, Maria",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"KOUTOUZOVA, Natalia",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"KOUZINA, Svetlana",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"PETROVA, Ioulia",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"PETROVA, Tatiana",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"RYTOVA, Galina",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"SMUROVA, Elena",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"TOKOUN, Elena",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"TOLKOUNOVA, Irina",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"VASSILIEVA, Ekaterina",RUS,Women,water polo,W,Bronze
+Aquatics,Water polo,"CASTLE, Naomi",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"FOX, Joanne",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"GUSTERSON, Bridgette",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"HANKIN, Simone",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"HIGGINS, Yvette",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"HOOPER, Kate",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"MAYER, Bronwyn",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"MILLER, Gail",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"MILLS, Melissa",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"WATSON, Debbie",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"WEEKES, Liz",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"WOODHOUSE, Danielle",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"WOODS, Taryn",AUS,Women,water polo,W,Gold
+Aquatics,Water polo,"BEAUREGARD, Robin",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"ESTES, Ellen",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"JOHNSON, Courtney",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"LORENZ, Ericka",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"MOODY, Heather",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"ORWIG, Bernice",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"O'TOOLE, Maureen",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"PAYNE, Nicolle",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"PETRI, Heather",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"SHEEHY, Kathy",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"SIMMONS, Coralie",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"SWAIL, Julie",USA,Women,water polo,W,Silver
+Aquatics,Water polo,"VILLA, Brenda",USA,Women,water polo,W,Silver
+Archery,Archery,"VAN ALTEN, Wietse",NED,Men,individual (FITA Olympic round - 70m),M,Bronze
+Archery,Archery,"FAIRWEATHER, Simon",AUS,Men,individual (FITA Olympic round - 70m),M,Gold
+Archery,Archery,"WUNDERLE, Victor",USA,Men,individual (FITA Olympic round - 70m),M,Silver
+Archery,Archery,"KIM, Soo-Nyung",KOR,Women,individual (FITA Olympic round - 70m),W,Bronze
+Archery,Archery,"YUN, Mi-Jin",KOR,Women,individual (FITA Olympic round - 70m),W,Gold
+Archery,Archery,"KIM, Nam-Soon",KOR,Women,individual (FITA Olympic round - 70m),W,Silver
+Archery,Archery,"JOHNSON, Richard",USA,Men,team (FITA Olympic round - 70m),M,Bronze
+Archery,Archery,"WHITE, Rodney",USA,Men,team (FITA Olympic round - 70m),M,Bronze
+Archery,Archery,"WUNDERLE, Victor",USA,Men,team (FITA Olympic round - 70m),M,Bronze
+Archery,Archery,"JANG, Yong-Ho",KOR,Men,team (FITA Olympic round - 70m),M,Gold
+Archery,Archery,"KIM, Chung-Tae",KOR,Men,team (FITA Olympic round - 70m),M,Gold
+Archery,Archery,"OH, Kyo-Moon",KOR,Men,team (FITA Olympic round - 70m),M,Gold
+Archery,Archery,"BISIANI, Matteo",ITA,Men,team (FITA Olympic round - 70m),M,Silver
+Archery,Archery,"DI BUO, Ilario",ITA,Men,team (FITA Olympic round - 70m),M,Silver
+Archery,Archery,"FRANGILLI, Michele",ITA,Men,team (FITA Olympic round - 70m),M,Silver
+Archery,Archery,"MENSING, Barbara",GER,Women,team (FITA Olympic round - 70m),W,Bronze
+Archery,Archery,"PFOHL, Cornelia",GER,Women,team (FITA Olympic round - 70m),W,Bronze
+Archery,Archery,"WAGNER, Sandra",GER,Women,team (FITA Olympic round - 70m),W,Bronze
+Archery,Archery,"KIM, Nam-Soon",KOR,Women,team (FITA Olympic round - 70m),W,Gold
+Archery,Archery,"KIM, Soo-Nyung",KOR,Women,team (FITA Olympic round - 70m),W,Gold
+Archery,Archery,"YUN, Mi-Jin",KOR,Women,team (FITA Olympic round - 70m),W,Gold
+Archery,Archery,"BURDEYNA, Nataliya",UKR,Women,team (FITA Olympic round - 70m),W,Silver
+Archery,Archery,"SADOVNYCHA, Olena",UKR,Women,team (FITA Olympic round - 70m),W,Silver
+Archery,Archery,"SERDYUK, Kateryna",UKR,Women,team (FITA Olympic round - 70m),W,Silver
+Athletics,Athletics,"MEZGEBU, Assefa",ETH,Men,10000m,M,Bronze
+Athletics,Athletics,"GEBRSELASSIE, Haile",ETH,Men,10000m,M,Gold
+Athletics,Athletics,"TERGAT, Paul",KEN,Men,10000m,M,Silver
+Athletics,Athletics,"RIBEIRO, Fernanda",POR,Women,10000m,W,Bronze
+Athletics,Athletics,"TULU, Derartu",ETH,Women,10000m,W,Gold
+Athletics,Athletics,"WAMI, Gete",ETH,Women,10000m,W,Silver
+Athletics,Athletics,"THOMPSON, Obadele",BAR,Men,100m,M,Bronze
+Athletics,Athletics,"GREENE, Maurice",USA,Men,100m,M,Gold
+Athletics,Athletics,"BOLDON, Ato",TRI,Men,100m,M,Silver
+Athletics,Athletics,"OTTEY-PAGE, Merlene",JAM,Women,100m,W,Bronze
+Athletics,Athletics,"LAWRENCE, Tanya",JAM,Women,100m,W,Silver
+Athletics,Athletics,"THANOU, Ekaterini",GRE,Women,100m,W,Silver
+Athletics,Athletics,"MORRISON, Melissa",USA,Women,100m hurdles,W,Bronze
+Athletics,Athletics,"SHISHIGINA, Olga",KAZ,Women,100m hurdles,W,Gold
+Athletics,Athletics,"ALOZIE, Gloria",NGR,Women,100m hurdles,W,Silver
+Athletics,Athletics,"CREAR, Mark",USA,Men,110m hurdles,M,Bronze
+Athletics,Athletics,"GARCIA, Anier",CUB,Men,110m hurdles,M,Gold
+Athletics,Athletics,"TRAMMELL, Terrence",USA,Men,110m hurdles,M,Silver
+Athletics,Athletics,"LAGAT, Bernard",KEN,Men,1500m,M,Bronze
+Athletics,Athletics,"NGENYI, Noah Kiprono",KEN,Men,1500m,M,Gold
+Athletics,Athletics,"EL GUERROUJ, Hicham",MAR,Men,1500m,M,Silver
+Athletics,Athletics,"SZABO, Gabriela",ROU,Women,1500m,W,Bronze
+Athletics,Athletics,"MERAH-BENIDA, Nouria",ALG,Women,1500m,W,Gold
+Athletics,Athletics,"SZEKELY, Violeta",ROU,Women,1500m,W,Silver
+Athletics,Athletics,"BOLDON, Ato",TRI,Men,200m,M,Bronze
+Athletics,Athletics,"KENTERIS, Konstantinos",GRE,Men,200m,M,Gold
+Athletics,Athletics,"CAMPBELL, Darren",GBR,Men,200m,M,Silver
+Athletics,Athletics,"MCDONALD, Beverly",JAM,Women,200m,W,Bronze
+Athletics,Athletics,"DAVIS, Pauline Elaine",BAH,Women,200m,W,Gold
+Athletics,Athletics,"JAYASINGHE, Susanthika",SRI,Women,200m,W,Silver
+Athletics,Athletics,"VASCO, Maria",ESP,Women,20km race walk,W,Bronze
+Athletics,Athletics,"WANG, Liping",CHN,Women,20km race walk,W,Gold
+Athletics,Athletics,"PLAETZER, Kjersti",NOR,Women,20km race walk,W,Silver
+Athletics,Athletics,"ANDREYEV, Vladimir",RUS,Men,20km walk,M,Bronze
+Athletics,Athletics,"KORZENIOWSKI, Robert",POL,Men,20km walk,M,Gold
+Athletics,Athletics,"HERNANDEZ, Noe",MEX,Men,20km walk,M,Silver
+Athletics,Athletics,"EZZINE, Ali",MAR,Men,3000m steeplechase,M,Bronze
+Athletics,Athletics,"KOSGEI, Reuben",KEN,Men,3000m steeplechase,M,Gold
+Athletics,Athletics,"KIPKETER, Wilson Boit",KEN,Men,3000m steeplechase,M,Silver
+Athletics,Athletics,"HAUGHTON, Greg",JAM,Men,400m,M,Bronze
+Athletics,Athletics,"JOHNSON, Michael",USA,Men,400m,M,Gold
+Athletics,Athletics,"HARRISON, Alvin",USA,Men,400m,M,Silver
+Athletics,Athletics,"MERRY, Katharine",GBR,Women,400m,W,Bronze
+Athletics,Athletics,"FREEMAN, Cathy",AUS,Women,400m,W,Gold
+Athletics,Athletics,"GRAHAM, Lorraine",JAM,Women,400m,W,Silver
+Athletics,Athletics,"HERBERT, Llewellyn",RSA,Men,400m hurdles,M,Bronze
+Athletics,Athletics,"TAYLOR, Angelo",USA,Men,400m hurdles,M,Gold
+Athletics,Athletics,"SOMAYLI, Hadi",KSA,Men,400m hurdles,M,Silver
+Athletics,Athletics,"BIDOUANE, Nouzha",MAR,Women,400m hurdles,W,Bronze
+Athletics,Athletics,"PRIVALOVA, Irina",RUS,Women,400m hurdles,W,Gold
+Athletics,Athletics,"HEMMINGS, Deon Marie",JAM,Women,400m hurdles,W,Silver
+Athletics,Athletics,"CESAR, Jose Angel",CUB,Men,4x100m relay,M,Bronze
+Athletics,Athletics,"GARCIA, Ivan",CUB,Men,4x100m relay,M,Bronze
+Athletics,Athletics,"MAYOLA, Freddy",CUB,Men,4x100m relay,M,Bronze
+Athletics,Athletics,"PEREZ, Luis Alberto",CUB,Men,4x100m relay,M,Bronze
+Athletics,Athletics,"BROKENBURR, Kenneth",USA,Men,4x100m relay,M,Gold
+Athletics,Athletics,"DRUMMOND, Jon",USA,Men,4x100m relay,M,Gold
+Athletics,Athletics,"GREENE, Maurice",USA,Men,4x100m relay,M,Gold
+Athletics,Athletics,"LEWIS, Brian",USA,Men,4x100m relay,M,Gold
+Athletics,Athletics,"MONTGOMERY, Tim",USA,Men,4x100m relay,M,Gold
+Athletics,Athletics,"WILLIAMS III, Bernard",USA,Men,4x100m relay,M,Gold
+Athletics,Athletics,"DE LIMA, Vicente",BRA,Men,4x100m relay,M,Silver
+Athletics,Athletics,"RIBEIRO, Edson",BRA,Men,4x100m relay,M,Silver
+Athletics,Athletics,"SILVA, Andre Domingos",BRA,Men,4x100m relay,M,Silver
+Athletics,Athletics,"SILVA, Claudinei",BRA,Men,4x100m relay,M,Silver
+Athletics,Athletics,"SOUZA, Claudio Roberto",BRA,Men,4x100m relay,M,Silver
+Athletics,Athletics,"EDWARDS, Torri",USA,Women,4x100m relay,W,Bronze
+Athletics,Athletics,"GAINES, Chryste",USA,Women,4x100m relay,W,Bronze
+Athletics,Athletics,"PERRY, Nanceen",USA,Women,4x100m relay,W,Bronze
+Athletics,Athletics,"RICHARDSON, Passion",USA,Women,4x100m relay,W,Bronze
+Athletics,Athletics,"DAVIS, Pauline Elaine",BAH,Women,4x100m relay,W,Gold
+Athletics,Athletics,"FERGUSON-MCKENZIE, Debbie",BAH,Women,4x100m relay,W,Gold
+Athletics,Athletics,"FYNES, Sevatheda",BAH,Women,4x100m relay,W,Gold
+Athletics,Athletics,"LEWIS, Eldice",BAH,Women,4x100m relay,W,Gold
+Athletics,Athletics,"STURRUP, Chandra",BAH,Women,4x100m relay,W,Gold
+Athletics,Athletics,"CAMPBELL-BROWN, Veronica",JAM,Women,4x100m relay,W,Silver
+Athletics,Athletics,"FRAZER, Merlene",JAM,Women,4x100m relay,W,Silver
+Athletics,Athletics,"LAWRENCE, Tanya",JAM,Women,4x100m relay,W,Silver
+Athletics,Athletics,"MCDONALD, Beverly",JAM,Women,4x100m relay,W,Silver
+Athletics,Athletics,"OTTEY-PAGE, Merlene",JAM,Women,4x100m relay,W,Silver
+Athletics,Athletics,"AYRE, Sanjay",JAM,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"BLACKWOOD, Michael",JAM,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"HAUGHTON, Greg",JAM,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"MCDONALD, Michael",JAM,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"MCFARLANE, Danny",JAM,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"WILLIAMS, Christopher",JAM,Men,4x400m relay,M,Bronze
+Athletics,Athletics,"AWAZIE, Nduka",NGR,Men,4x400m relay,M,Silver
+Athletics,Athletics,"BADA, Sunday",NGR,Men,4x400m relay,M,Silver
+Athletics,Athletics,"CHUKWU, Clement",NGR,Men,4x400m relay,M,Silver
+Athletics,Athletics,"GADZAMA, Fidelis",NGR,Men,4x400m relay,M,Silver
+Athletics,Athletics,"MONYE, Jude",NGR,Men,4x400m relay,M,Silver
+Athletics,Athletics,"UDO OBONG, Enefiok",NGR,Men,4x400m relay,M,Silver
+Athletics,Athletics,"GONCHARENKO, Svetlana",RUS,Women,4x400m relay,W,Bronze
+Athletics,Athletics,"KOTLYAROVA, Olga",RUS,Women,4x400m relay,W,Bronze
+Athletics,Athletics,"NAZAROVA, Natalya",RUS,Women,4x400m relay,W,Bronze
+Athletics,Athletics,"PRIVALOVA, Irina",RUS,Women,4x400m relay,W,Bronze
+Athletics,Athletics,"SOTNIKOVA, Yulia",RUS,Women,4x400m relay,W,Bronze
+Athletics,Athletics,"ZYKINA, Olesya",RUS,Women,4x400m relay,W,Bronze
+Athletics,Athletics,"ANDERSON, Andrea",USA,Women,4x400m relay,W,Gold
+Athletics,Athletics,"COLANDER, LaTasha",USA,Women,4x400m relay,W,Gold
+Athletics,Athletics,"HENNAGAN, Monique",USA,Women,4x400m relay,W,Gold
+Athletics,Athletics,"MILES, Jearl",USA,Women,4x400m relay,W,Gold
+Athletics,Athletics,"BURGHER, Michelle",JAM,Women,4x400m relay,W,Silver
+Athletics,Athletics,"GRAHAM, Lorraine",JAM,Women,4x400m relay,W,Silver
+Athletics,Athletics,"HEMMINGS, Deon Marie",JAM,Women,4x400m relay,W,Silver
+Athletics,Athletics,"HOWELL, Charmaine",JAM,Women,4x400m relay,W,Silver
+Athletics,Athletics,"RICHARDS, Sandie",JAM,Women,4x400m relay,W,Silver
+Athletics,Athletics,"SCOTT-POMALES, Catherine",JAM,Women,4x400m relay,W,Silver
+Athletics,Athletics,"LAHLAFI, Brahim",MAR,Men,5000m,M,Bronze
+Athletics,Athletics,"WOLDE, Millon",ETH,Men,5000m,M,Gold
+Athletics,Athletics,"SAIDI-SIEF, Ali",ALG,Men,5000m,M,Silver
+Athletics,Athletics,"WAMI, Gete",ETH,Women,5000m,W,Bronze
+Athletics,Athletics,"SZABO, Gabriela",ROU,Women,5000m,W,Gold
+Athletics,Athletics,"O'SULLIVAN, Sonia",IRL,Women,5000m,W,Silver
+Athletics,Athletics,"SANCHEZ GUERRERO, Joel",MEX,Men,50km walk,M,Bronze
+Athletics,Athletics,"KORZENIOWSKI, Robert",POL,Men,50km walk,M,Gold
+Athletics,Athletics,"FADEJEVS, Aigars",LAT,Men,50km walk,M,Silver
+Athletics,Athletics,"SAID GUERNI, Djabir",ALG,Men,800m,M,Bronze
+Athletics,Athletics,"SCHUMANN, Nils",GER,Men,800m,M,Gold
+Athletics,Athletics,"KIPKETER, Wilson",DEN,Men,800m,M,Silver
+Athletics,Athletics,"HOLMES, Kelly",GBR,Women,800m,W,Bronze
+Athletics,Athletics,"MUTOLA, Maria",MOZ,Women,800m,W,Gold
+Athletics,Athletics,"GRAF, Stephanie",AUT,Women,800m,W,Silver
+Athletics,Athletics,"HUFFINS, Chris",USA,Men,decathlon,M,Bronze
+Athletics,Athletics,"NOOL, Erki",EST,Men,decathlon,M,Gold
+Athletics,Athletics,"SEBRLE, Roman",CZE,Men,decathlon,M,Silver
+Athletics,Athletics,"KRUGER, Frantz",RSA,Men,discus throw,M,Bronze
+Athletics,Athletics,"ALEKNA, Virgilijus",LTU,Men,discus throw,M,Gold
+Athletics,Athletics,"RIEDEL, Lars",GER,Men,discus throw,M,Silver
+Athletics,Athletics,"YATCHENKO, Iryna",BLR,Women,discus throw,W,Bronze
+Athletics,Athletics,"ZVEREVA, Ellina",BLR,Women,discus throw,W,Gold
+Athletics,Athletics,"KELESIDOU, Anastasia",GRE,Women,discus throw,W,Silver
+Athletics,Athletics,"ASTAPKOVICH, Igor",BLR,Men,hammer throw,M,Bronze
+Athletics,Athletics,"ZIOLKOWSKI, Szymon",POL,Men,hammer throw,M,Gold
+Athletics,Athletics,"VIZZONI, Nicola",ITA,Men,hammer throw,M,Silver
+Athletics,Athletics,"MUENCHOW, Kirsten",GER,Women,hammer throw,W,Bronze
+Athletics,Athletics,"SKOLIMOWSKA, Kamila",POL,Women,hammer throw,W,Gold
+Athletics,Athletics,"KUZENKOVA, Olga",RUS,Women,hammer throw,W,Silver
+Athletics,Athletics,"SAZANOVICH, Natalya",BLR,Women,heptathlon,W,Bronze
+Athletics,Athletics,"LEWIS, Denise",GBR,Women,heptathlon,W,Gold
+Athletics,Athletics,"PROKHOROVA, Yelena",RUS,Women,heptathlon,W,Silver
+Athletics,Athletics,"HAMMAD, Abderrahmane",ALG,Men,high jump,M,Bronze
+Athletics,Athletics,"KLIUGIN, Sergey",RUS,Men,high jump,M,Gold
+Athletics,Athletics,"SOTOMAYOR, Javier",CUB,Men,high jump,M,Silver
+Athletics,Athletics,"BERGQVIST, Kajsa",SWE,Women,high jump,W,Bronze
+Athletics,Athletics,"PANTELIMON, Oana",ROU,Women,high jump,W,Bronze
+Athletics,Athletics,"YELESINA, Yelena",RUS,Women,high jump,W,Gold
+Athletics,Athletics,"CLOETE, Hestrie",RSA,Women,high jump,W,Silver
+Athletics,Athletics,"MAKAROV, Sergey",RUS,Men,javelin throw,M,Bronze
+Athletics,Athletics,"ZELEZNY, Jan",CZE,Men,javelin throw,M,Gold
+Athletics,Athletics,"BACKLEY, Steve",GBR,Men,javelin throw,M,Silver
+Athletics,Athletics,"MENENDEZ, Osleidys",CUB,Women,javelin throw,W,Bronze
+Athletics,Athletics,"HATTESTAD, Trine",NOR,Women,javelin throw,W,Gold
+Athletics,Athletics,"MANIANI-TZELILI, Mirella",GRE,Women,javelin throw,W,Silver
+Athletics,Athletics,"SCHURENKO, Roman",UKR,Men,long jump,M,Bronze
+Athletics,Athletics,"PEDROSO, Ivan",CUB,Men,long jump,M,Gold
+Athletics,Athletics,"TAURIMA, Jai",AUS,Men,long jump,M,Silver
+Athletics,Athletics,"KOTOVA, Tatyana",RUS,Women,long jump,W,Bronze
+Athletics,Athletics,"DRECHSLER, Heike",GER,Women,long jump,W,Gold
+Athletics,Athletics,"MAY, Fiona",ITA,Women,long jump,W,Silver
+Athletics,Athletics,"TOLA, Tesfaye",ETH,Men,marathon,M,Bronze
+Athletics,Athletics,"CHEPCHUMBA, Joyce",KEN,Men,marathon,W,Bronze
+Athletics,Athletics,"ABERA, Gezahegne",ETH,Men,marathon,M,Gold
+Athletics,Athletics,"WAINAINA, Erick",KEN,Men,marathon,M,Silver
+Athletics,Athletics,"TAKAHASHI, Naoko",JPN,Women,marathon,W,Gold
+Athletics,Athletics,"SIMON, Lidia Elena",ROU,Women,marathon,W,Silver
+Athletics,Athletics,"TARASOV, Maksim",RUS,Men,pole vault,M,Bronze
+Athletics,Athletics,"HYSONG, Nick",USA,Men,pole vault,M,Gold
+Athletics,Athletics,"JOHNSON, Lawrence",USA,Men,pole vault,M,Silver
+Athletics,Athletics,"FLOSADOTTIR, Vala",ISL,Women,pole vault,W,Bronze
+Athletics,Athletics,"DRAGILA, Stacy",USA,Women,pole vault,W,Gold
+Athletics,Athletics,"GRIGORIEVA, Tatiana",AUS,Women,pole vault,W,Silver
+Athletics,Athletics,"GODINA, John",USA,Men,shot put,M,Bronze
+Athletics,Athletics,"HARJU, Arsi",FIN,Men,shot put,M,Gold
+Athletics,Athletics,"NELSON, Adam",USA,Men,shot put,M,Silver
+Athletics,Athletics,"KUMBERNUSS, Astrid",GER,Women,shot put,W,Bronze
+Athletics,Athletics,"KAROLCHIK, Yanina",BLR,Women,shot put,W,Gold
+Athletics,Athletics,"PELESHENKO, Larisa",RUS,Women,shot put,W,Silver
+Athletics,Athletics,"KAPUSTIN, Denis",RUS,Men,triple jump,M,Bronze
+Athletics,Athletics,"EDWARDS, Jonathan David",GBR,Men,triple jump,M,Gold
+Athletics,Athletics,"GARCIA, Yoel",CUB,Men,triple jump,M,Silver
+Athletics,Athletics,"HOVOROVA, Olena",UKR,Women,triple jump,W,Bronze
+Athletics,Athletics,"MARINOVA, Tereza",BUL,Women,triple jump,W,Gold
+Athletics,Athletics,"LEBEDEVA, Tatyana",RUS,Women,triple jump,W,Silver
+Badminton,Badminton,"HA, Tae-Kwon",KOR,Men,doubles,M,Bronze
+Badminton,Badminton,"KIM, Dong Moon",KOR,Men,doubles,M,Bronze
+Badminton,Badminton,"ARCHER, Simon",GBR,Men,doubles,X,Bronze
+Badminton,Badminton,"GUNAWAN, Tony",INA,Men,doubles,M,Gold
+Badminton,Badminton,"WIJAYA, Candra",INA,Men,doubles,M,Gold
+Badminton,Badminton,"ZHANG, Jun",CHN,Men,doubles,X,Gold
+Badminton,Badminton,"LEE, Dong Soo",KOR,Men,doubles,M,Silver
+Badminton,Badminton,"YOO, Yong-Sung",KOR,Men,doubles,M,Silver
+Badminton,Badminton,"KUSHANJANTO, Tri",INA,Men,doubles,X,Silver
+Badminton,Badminton,"GAO, Ling",CHN,Women,doubles,W,Bronze
+Badminton,Badminton,"QIN, Yiyuan",CHN,Women,doubles,W,Bronze
+Badminton,Badminton,"GOODE, Joanne",GBR,Women,doubles,X,Bronze
+Badminton,Badminton,"GE, Fei",CHN,Women,doubles,W,Gold
+Badminton,Badminton,"GU, Jun",CHN,Women,doubles,W,Gold
+Badminton,Badminton,"GAO, Ling",CHN,Women,doubles,X,Gold
+Badminton,Badminton,"HUANG, Nanyan",CHN,Women,doubles,W,Silver
+Badminton,Badminton,"YANG, Wei",CHN,Women,doubles,W,Silver
+Badminton,Badminton,"TIMUR, Minarti",INA,Women,doubles,X,Silver
+Badminton,Badminton,"XIA, Xuanze",CHN,Men,singles,M,Bronze
+Badminton,Badminton,"JI, Xinpeng",CHN,Men,singles,M,Gold
+Badminton,Badminton,HENDRAWAN,INA,Men,singles,M,Silver
+Badminton,Badminton,"YE, Zhaoying",CHN,Women,singles,W,Bronze
+Badminton,Badminton,"GONG, Zhichao",CHN,Women,singles,W,Gold
+Badminton,Badminton,"MARTIN, Camilla",DEN,Women,singles,W,Silver
+Baseball,Baseball,"CHANG, Song-Ho",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"CHONG, Tae-Hyon",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"CHUNG, Min-Tae",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"CHUNG, Soo-Keun",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"HONG, Sung-Heon",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"JIN, Pil-Jung",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"KIM, Dong-Joo",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"KIM, Han-Soo",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"KIM, Ki-Tae",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"KIM, Soo-Kyung",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"KIM, Tae-Gyun",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"KOO, Dae-Sung",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"LEE, Byoung-Kyu",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"LEE, Seung-Ho",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"LEE, Seung-Yub",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"LIM, Chang-Yong",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"LIM, Sun-Dong",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"PARK, Jae-Hong",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"PARK, Jinman",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"PARK, Jong-Ho",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"PARK, Kyung-Oan",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"PARK, Seok-Jin",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"SON, Min-Han",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"SONG, Jin-Woo",KOR,Men,baseball,M,Bronze
+Baseball,Baseball,"ABERNATHY, Brent",USA,Men,baseball,M,Gold
+Baseball,Baseball,"AINSWORTH, Kurt",USA,Men,baseball,M,Gold
+Baseball,Baseball,"BORDERS, Pat",USA,Men,baseball,M,Gold
+Baseball,Baseball,"BURROUGHS, Sean",USA,Men,baseball,M,Gold
+Baseball,Baseball,"COTTON, John",USA,Men,baseball,M,Gold
+Baseball,Baseball,"DAWKINS, Travis",USA,Men,baseball,M,Gold
+Baseball,Baseball,"EVERETT, Adam",USA,Men,baseball,M,Gold
+Baseball,Baseball,"FRANKLIN, Ryan",USA,Men,baseball,M,Gold
+Baseball,Baseball,"GEORGE, Chris",USA,Men,baseball,M,Gold
+Baseball,Baseball,"HEAMS, Shane",USA,Men,baseball,M,Gold
+Baseball,Baseball,"JENSEN, Marcus",USA,Men,baseball,M,Gold
+Baseball,Baseball,"KINKADE, Mike",USA,Men,baseball,M,Gold
+Baseball,Baseball,"KRIVDA, Rick",USA,Men,baseball,M,Gold
+Baseball,Baseball,"MIENTKIEWICZ, Doug",USA,Men,baseball,M,Gold
+Baseball,Baseball,"NEILL, Mike",USA,Men,baseball,M,Gold
+Baseball,Baseball,"OSWALT, Roy",USA,Men,baseball,M,Gold
+Baseball,Baseball,"RAUCH, Jon",USA,Men,baseball,M,Gold
+Baseball,Baseball,"SANDERS, Anthony",USA,Men,baseball,M,Gold
+Baseball,Baseball,"SEAY, Bobby",USA,Men,baseball,M,Gold
+Baseball,Baseball,"SHEETS, Ben",USA,Men,baseball,M,Gold
+Baseball,Baseball,"WILKERSON, Brad",USA,Men,baseball,M,Gold
+Baseball,Baseball,"WILLIAMS, Todd",USA,Men,baseball,M,Gold
+Baseball,Baseball,"YOUNG, Ernie",USA,Men,baseball,M,Gold
+Baseball,Baseball,"YOUNG, Tim",USA,Men,baseball,M,Gold
+Baseball,Baseball,"AJETE, Omar",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"ARAGON, Yovany",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"CALDES, Miguel",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"CASTRO, Danel",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"CONTRERAS, Jose Ariel",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"DUENAS, Yobal",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"GOMEZ, Yasser",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"IBAR, Jose",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"KINDELAN, Orestes",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"LAZO, Pedro Luis",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"LINARES, Omar",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"MACIAS, Oscar",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"MANRIQUE, Juan",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"MENDEZ, Javier",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"MERINO, Rolando",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"MESA FRESNEDA, German",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"PACHECO, Antonio",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"PESTANO, Ariel",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"PIERRE, Gabriel",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"RODRIGUEZ, Maels",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"SCULL, Antonio",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"ULACIA, Luis",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"VALLE, Lazaro",CUB,Men,baseball,M,Silver
+Baseball,Baseball,"VERA, Norge Luis",CUB,Men,baseball,M,Silver
+Basketball,Basketball,"ADOMAITIS, Dainius",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"EINIKIS, Gintaras",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"GIEDRAITIS, Audrius",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"JASIKEVICIUS, Sarunas",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"MARCIULIONIS, Kestutis",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"MASIULIS, Tomas",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"MASKOLIUNAS, Darius",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"SISKAUSKAS, Ramunas",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"SONGAILA, Darius",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"STOMBERGAS, Saulius",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"TIMINSKAS, Mindaugas",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"ZUKAUSKAS, Eurelijus",LTU,Men,basketball,M,Bronze
+Basketball,Basketball,"ABDUR-RAHIM, Shareef",USA,Men,basketball,M,Gold
+Basketball,Basketball,"ALLEN, Ray",USA,Men,basketball,M,Gold
+Basketball,Basketball,"BAKER, Vin",USA,Men,basketball,M,Gold
+Basketball,Basketball,"CARTER, Vince",USA,Men,basketball,M,Gold
+Basketball,Basketball,"GARNETT, Kevin",USA,Men,basketball,M,Gold
+Basketball,Basketball,"HARDAWAY, Tim",USA,Men,basketball,M,Gold
+Basketball,Basketball,"HOUSTON, Allan",USA,Men,basketball,M,Gold
+Basketball,Basketball,"KIDD, Jason",USA,Men,basketball,M,Gold
+Basketball,Basketball,"MCDYESS, Antonio",USA,Men,basketball,M,Gold
+Basketball,Basketball,"MOURNING, Alonzo",USA,Men,basketball,M,Gold
+Basketball,Basketball,"PAYTON, Gary",USA,Men,basketball,M,Gold
+Basketball,Basketball,"SMITH, Steve",USA,Men,basketball,M,Gold
+Basketball,Basketball,"BILBA, Jim",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"BONATO, Yann",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"DIOUMASSI, Makan",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"FOIREST, Laurent",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"GADOU, Thierry",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"JULIAN, Cyril",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"PALMER, Henry Crawford",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"RIGAUDEAU, Antoine",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"RISACHER, Stephane",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"SCIARRA, Laurent",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"SONKO, Mustapha",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"WEIS, Frederic",FRA,Men,basketball,M,Silver
+Basketball,Basketball,"ARCAIN, Janeth",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"DAVID, Ilisaine Karen",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"GONCALVES, Lilian Cristina",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"LUZ, Helen Cristina",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"LUZ, Silvia",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"NEVES, Claudia",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"OLIVEIRA, Alessandra",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"PINTO, Adriana",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"SANTOS, Adriana Aparecida",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"SANTOS, Cintia",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"SANTOS, Kelly",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"SOBRAL, Marta",BRA,Women,basketball,W,Bronze
+Basketball,Basketball,"BOLTON, Ruthie",USA,Women,basketball,W,Gold
+Basketball,Basketball,"EDWARDS, Teresa",USA,Women,basketball,W,Gold
+Basketball,Basketball,"GRIFFITH, Yolanda",USA,Women,basketball,W,Gold
+Basketball,Basketball,"HOLDSCLAW, Chamique",USA,Women,basketball,W,Gold
+Basketball,Basketball,"LESLIE, Lisa",USA,Women,basketball,W,Gold
+Basketball,Basketball,"MCCRAY, Nikki",USA,Women,basketball,W,Gold
+Basketball,Basketball,"MILTON, Delisha",USA,Women,basketball,W,Gold
+Basketball,Basketball,"SMITH, Katie",USA,Women,basketball,W,Gold
+Basketball,Basketball,"STALEY, Dawn",USA,Women,basketball,W,Gold
+Basketball,Basketball,"SWOOPES, Sheryl",USA,Women,basketball,W,Gold
+Basketball,Basketball,"WILLIAMS, Natalie",USA,Women,basketball,W,Gold
+Basketball,Basketball,"WOLTERS, Kara",USA,Women,basketball,W,Gold
+Basketball,Basketball,"BOYD, Carla",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"BROGAN, Michelle",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"BRONDELLO, Alexandra",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"FALLON, Trish",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"HARROWER, Kristi",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"HILL, Jo",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"JACKSON, Lauren",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"LA FLEUR, Annie",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"SANDIE, Shelley",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"SPORN, Rachael",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"TIMMS, Michelle",AUS,Women,basketball,W,Silver
+Basketball,Basketball,"WHITTLE, Jennifer",AUS,Women,basketball,W,Silver
+Boxing,Boxing,"KIM, Un Chol",PRK,Men,- 48kg (light-flyweight),M,Bronze
+Boxing,Boxing,"ROMERO, Maikro",CUB,Men,- 48kg (light-flyweight),M,Bronze
+Boxing,Boxing,"ASLOUM, Brahim",FRA,Men,- 48kg (light-flyweight),M,Gold
+Boxing,Boxing,"LOZANO MU?OZ, Rafael",ESP,Men,- 48kg (light-flyweight),M,Silver
+Boxing,Boxing,"SAIDOV, Rustam",UZB,Men,+ 91kg (super heavyweight),M,Bronze
+Boxing,Boxing,"VIDOZ, Paolo",ITA,Men,+ 91kg (super heavyweight),M,Bronze
+Boxing,Boxing,"HARRISON, Audley",GBR,Men,+ 91kg (super heavyweight),M,Gold
+Boxing,Boxing,"DILDABEKOV, Mukhtarkhan",KAZ,Men,+ 91kg (super heavyweight),M,Silver
+Boxing,Boxing,"SYDORENKO, Volodymyr",UKR,Men,48 - 51kg (flyweight),M,Bronze
+Boxing,Boxing,"THOMAS, Jerome",FRA,Men,48 - 51kg (flyweight),M,Bronze
+Boxing,Boxing,"PONLID, Wijan",THA,Men,48 - 51kg (flyweight),M,Gold
+Boxing,Boxing,"JUMADILOV, Bulat",KAZ,Men,48 - 51kg (flyweight),M,Silver
+Boxing,Boxing,"DANYLCHENKO, Sergiy",UKR,Men,51 - 54kg (bantamweight),M,Bronze
+Boxing,Boxing,"VINSON, Clarence",USA,Men,51 - 54kg (bantamweight),M,Bronze
+Boxing,Boxing,"RIGONDEAUX ORTIZ, Guillermo",CUB,Men,51 - 54kg (bantamweight),M,Gold
+Boxing,Boxing,"MALAKHBEKOV, Raimkul",RUS,Men,51 - 54kg (bantamweight),M,Silver
+Boxing,Boxing,"DJAMALOUDINOV, Kamil",RUS,Men,54 - 57kg (featherweight),M,Bronze
+Boxing,Boxing,"TAMSAMANI, Tahar",MAR,Men,54 - 57kg (featherweight),M,Bronze
+Boxing,Boxing,"SATTARKHANOV, Bekzat",KAZ,Men,54 - 57kg (featherweight),M,Gold
+Boxing,Boxing,"JUAREZ, Ricardo",USA,Men,54 - 57kg (featherweight),M,Silver
+Boxing,Boxing,"BEJARANO, Cristian",MEX,Men,57 - 60kg (lightweight),M,Bronze
+Boxing,Boxing,"MALETINE, Alexandre",RUS,Men,57 - 60kg (lightweight),M,Bronze
+Boxing,Boxing,"KINDELAN, Mario",CUB,Men,57 - 60kg (lightweight),M,Gold
+Boxing,Boxing,"KOTELNYK, Andriy",UKR,Men,57 - 60kg (lightweight),M,Silver
+Boxing,Boxing,"ALLALOU, Mohamed",ALG,Men,60 - 63.5kg (light-welterweight),M,Bronze
+Boxing,Boxing,"LUNA, Diogenes",CUB,Men,60 - 63.5kg (light-welterweight),M,Bronze
+Boxing,Boxing,"ABDOOLLAYEV, Mahammatkodir",UZB,Men,60 - 63.5kg (light-welterweight),M,Gold
+Boxing,Boxing,"WILLIAMS JR, Ricardo",USA,Men,60 - 63.5kg (light-welterweight),M,Silver
+Boxing,Boxing,"GRUSAC, Vitalie",MDA,Men,63.5 - 67kg (welterweight),M,Bronze
+Boxing,Boxing,"SIMION, Dorel",ROU,Men,63.5 - 67kg (welterweight),M,Bronze
+Boxing,Boxing,"SAITOV, Oleg",RUS,Men,63.5 - 67kg (welterweight),M,Gold
+Boxing,Boxing,"DOTSENKO, Sergey",UKR,Men,63.5 - 67kg (welterweight),M,Silver
+Boxing,Boxing,"TAYLOR, Jermain",USA,Men,67 - 71kg (light-middleweight),M,Bronze
+Boxing,Boxing,"THONGBURAN, Pornchai",THA,Men,67 - 71kg (light-middleweight),M,Bronze
+Boxing,Boxing,"IBRAIMOV, Yermakhan",KAZ,Men,67 - 71kg (light-middleweight),M,Gold
+Boxing,Boxing,"SIMION, Marian",ROU,Men,67 - 71kg (light-middleweight),M,Silver
+Boxing,Boxing,"ALAKPAROV, Vugar",AZE,Men,71-75kg,M,Bronze
+Boxing,Boxing,"ERDEI, Zsolt",HUN,Men,71-75kg,M,Bronze
+Boxing,Boxing,"GUTIERREZ, Jorge",CUB,Men,71-75kg,M,Gold
+Boxing,Boxing,"GAIDARBEKOV, Gaidarbek",RUS,Men,71-75kg,M,Silver
+Boxing,Boxing,"FEDCHUK, Andriy",UKR,Men,75 - 81kg (light-heavyweight),M,Bronze
+Boxing,Boxing,"MIHAYLOV, Sergey",UZB,Men,75 - 81kg (light-heavyweight),M,Bronze
+Boxing,Boxing,"LEBZIAK, Alexandre",RUS,Men,75 - 81kg (light-heavyweight),M,Gold
+Boxing,Boxing,"KRAJ, Rudolf",CZE,Men,75 - 81kg (light-heavyweight),M,Silver
+Boxing,Boxing,"KOEBER, Sebastian",GER,Men,81 - 91kg (heavyweight),M,Bronze
+Boxing,Boxing,"TCHANTURIA, Vladimer",GEO,Men,81 - 91kg (heavyweight),M,Bronze
+Boxing,Boxing,"SAVON, Felix",CUB,Men,81 - 91kg (heavyweight),M,Gold
+Boxing,Boxing,"IBRAGUIMOV, Soultanakhmed",RUS,Men,81 - 91kg (heavyweight),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"GILES, Stephen Cory",CAN,Men,C-1 1000m (canoe single),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"DITTMER, Andreas",GER,Men,C-1 1000m (canoe single),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"BALCEIRO, Ledys Frank",CUB,Men,C-1 1000m (canoe single),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"DITTMER, Andreas",GER,Men,C-1 500m (canoe single),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"KOLONICS, Gyorgy",HUN,Men,C-1 500m (canoe single),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"OPALEV, Maxim",RUS,Men,C-1 500m (canoe single),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"KOBER, Lars",GER,Men,C-2 1000m (canoe double),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"UTESS, Stefan",GER,Men,C-2 1000m (canoe double),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"POPESCU, Florin",ROU,Men,C-2 1000m (canoe double),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"PRICOP, Mitica",ROU,Men,C-2 1000m (canoe double),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"PEREIRA, Leobaldo",CUB,Men,C-2 1000m (canoe double),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"ROJAS, Ibrahin",CUB,Men,C-2 1000m (canoe double),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"POPESCU, Florin",ROU,Men,C-2 500m (canoe double),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"PRICOP, Mitica",ROU,Men,C-2 500m (canoe double),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"NOVAK, Ferenc",HUN,Men,C-2 500m (canoe double),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"PULAI, Imre",HUN,Men,C-2 500m (canoe double),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"BARASZKIEWICZ, Pawel",POL,Men,C-2 500m (canoe double),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"JEDRASZKO, Daniel",POL,Men,C-2 500m (canoe double),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"BRABANTS, Tim",GBR,Men,K-1 1000m (kayak single),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"HOLMANN, Knut",NOR,Men,K-1 1000m (kayak single),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"MERKOV, Petar",BUL,Men,K-1 1000m (kayak single),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"KOLGANOV, Michael",ISR,Men,K-1 500m (kayak single),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"HOLMANN, Knut",NOR,Men,K-1 500m (kayak single),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"MERKOV, Petar",BUL,Men,K-1 500m (kayak single),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"BORCHERT, Katrin",AUS,Women,K-1 500m (kayak single),W,Bronze
+Canoe / Kayak,Canoe / Kayak F,"IDEM, Josefa",ITA,Women,K-1 500m (kayak single),W,Gold
+Canoe / Kayak,Canoe / Kayak F,"BRUNET, Caroline",CAN,Women,K-1 500m (kayak single),W,Silver
+Canoe / Kayak,Canoe / Kayak F,"BARTFAI, Krisztian",HUN,Men,K-2 1000m (kayak double),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"VEREB, Krisztian",HUN,Men,K-2 1000m (kayak double),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"BONOMI, Beniamino",ITA,Men,K-2 1000m (kayak double),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"ROSSI, Antonio",ITA,Men,K-2 1000m (kayak double),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"NILSSON, Henrik",SWE,Men,K-2 1000m (kayak double),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"OSCARSSON, Markus",SWE,Men,K-2 1000m (kayak double),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"RAUHE, Ronald",GER,Men,K-2 500m (kayak double),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"WIESKOETTER, Tim",GER,Men,K-2 500m (kayak double),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"KAMMERER, Zoltan",HUN,Men,K-2 500m (kayak double),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"STORCZ, Botond",HUN,Men,K-2 500m (kayak double),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"COLLINS, Daniel",AUS,Men,K-2 500m (kayak double),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"TRIM, Andrew Lawrence",AUS,Men,K-2 500m (kayak double),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"PASTUSZKA, Aneta",POL,Women,K-2 500m (kayak double),W,Bronze
+Canoe / Kayak,Canoe / Kayak F,"SOKOLOWSKA KULESZA, Beata",POL,Women,K-2 500m (kayak double),W,Bronze
+Canoe / Kayak,Canoe / Kayak F,"FISCHER, Birgit",GER,Women,K-2 500m (kayak double),W,Gold
+Canoe / Kayak,Canoe / Kayak F,"WAGNER-AUGUSTIN, Katrin",GER,Women,K-2 500m (kayak double),W,Gold
+Canoe / Kayak,Canoe / Kayak F,"KOVACS, Katalin",HUN,Women,K-2 500m (kayak double),W,Silver
+Canoe / Kayak,Canoe / Kayak F,"SZABO, Szilvia",HUN,Women,K-2 500m (kayak double),W,Silver
+Canoe / Kayak,Canoe / Kayak F,"BIALKOWSKI, Dariusz",POL,Men,K-4 1000m (kayak four),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"KOTOWICZ, Grzegorz",POL,Men,K-4 1000m (kayak four),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"SEROCZYNSKI, Adam",POL,Men,K-4 1000m (kayak four),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"WITKOWSKI, Marek",POL,Men,K-4 1000m (kayak four),M,Bronze
+Canoe / Kayak,Canoe / Kayak F,"HORVATH, Gabor",HUN,Men,K-4 1000m (kayak four),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"KAMMERER, Zoltan",HUN,Men,K-4 1000m (kayak four),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"STORCZ, Botond",HUN,Men,K-4 1000m (kayak four),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"VERECKEI, Akos",HUN,Men,K-4 1000m (kayak four),M,Gold
+Canoe / Kayak,Canoe / Kayak F,"BACH, Bjoern",GER,Men,K-4 1000m (kayak four),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"SCHAEFER, Jan",GER,Men,K-4 1000m (kayak four),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"ULM, Stefan",GER,Men,K-4 1000m (kayak four),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"ZABEL, Mark",GER,Men,K-4 1000m (kayak four),M,Silver
+Canoe / Kayak,Canoe / Kayak F,"IONITA, Raluca",ROU,Women,K-4 500m (kayak four),W,Bronze
+Canoe / Kayak,Canoe / Kayak F,"LIMBAU, Mariana",ROU,Women,K-4 500m (kayak four),W,Bronze
+Canoe / Kayak,Canoe / Kayak F,"RADU, Elena",ROU,Women,K-4 500m (kayak four),W,Bronze
+Canoe / Kayak,Canoe / Kayak F,"TOMA, Sanda",ROU,Women,K-4 500m (kayak four),W,Bronze
+Canoe / Kayak,Canoe / Kayak F,"FISCHER, Birgit",GER,Women,K-4 500m (kayak four),W,Gold
+Canoe / Kayak,Canoe / Kayak F,"MUCKE, Manuela",GER,Women,K-4 500m (kayak four),W,Gold
+Canoe / Kayak,Canoe / Kayak F,"SCHUCK, Anett",GER,Women,K-4 500m (kayak four),W,Gold
+Canoe / Kayak,Canoe / Kayak F,"WAGNER-AUGUSTIN, Katrin",GER,Women,K-4 500m (kayak four),W,Gold
+Canoe / Kayak,Canoe / Kayak F,"KOBAN, Rita",HUN,Women,K-4 500m (kayak four),W,Silver
+Canoe / Kayak,Canoe / Kayak F,"KOVACS, Katalin",HUN,Women,K-4 500m (kayak four),W,Silver
+Canoe / Kayak,Canoe / Kayak F,"SZABO, Szilvia",HUN,Women,K-4 500m (kayak four),W,Silver
+Canoe / Kayak,Canoe / Kayak F,"VISKI, Erzsebet",HUN,Women,K-4 500m (kayak four),W,Silver
+Canoe / Kayak,Canoe / Kayak S,"MINCIK, Juraj",SVK,Men,C-1 (canoe single),M,Bronze
+Canoe / Kayak,Canoe / Kayak S,"ESTANGUET, Tony",FRA,Men,C-1 (canoe single),M,Gold
+Canoe / Kayak,Canoe / Kayak S,"MARTIKAN, Michal",SVK,Men,C-1 (canoe single),M,Silver
+Canoe / Kayak,Canoe / Kayak S,"JIRAS, Marek",CZE,Men,C-2 (canoe double),M,Bronze
+Canoe / Kayak,Canoe / Kayak S,"MADER, Tomas",CZE,Men,C-2 (canoe double),M,Bronze
+Canoe / Kayak,Canoe / Kayak S,"HOCHSCHORNER, Pavol",SVK,Men,C-2 (canoe double),M,Gold
+Canoe / Kayak,Canoe / Kayak S,"HOCHSCHORNER, Peter",SVK,Men,C-2 (canoe double),M,Gold
+Canoe / Kayak,Canoe / Kayak S,"KOLOMANSKI, Krzysztof",POL,Men,C-2 (canoe double),M,Silver
+Canoe / Kayak,Canoe / Kayak S,"STANISZEWSKI, Michal",POL,Men,C-2 (canoe double),M,Silver
+Canoe / Kayak,Canoe / Kayak S,"FERRAZZI, Pierpaolo",ITA,Men,K-1 (kayak single),M,Bronze
+Canoe / Kayak,Canoe / Kayak S,"SCHMIDT, Thomas",GER,Men,K-1 (kayak single),M,Gold
+Canoe / Kayak,Canoe / Kayak S,"RATCLIFFE, Paul",GBR,Men,K-1 (kayak single),M,Silver
+Canoe / Kayak,Canoe / Kayak S,"BARDET, Anne-Lise",FRA,Women,K-1 (kayak single),W,Bronze
+Canoe / Kayak,Canoe / Kayak S,"HILGERTOVA, Stepanka",CZE,Women,K-1 (kayak single),W,Gold
+Canoe / Kayak,Canoe / Kayak S,"GUIBAL, Brigitte",FRA,Women,K-1 (kayak single),W,Silver
+Cycling,Cycling Road,"KLODEN, Andreas",GER,Men,individual road race,M,Bronze
+Cycling,Cycling Road,"ULLRICH, Jan",GER,Men,individual road race,M,Gold
+Cycling,Cycling Road,"VINOKUROV, Alexandr",KAZ,Men,individual road race,M,Silver
+Cycling,Cycling Road,"ZILIUTE, Diana",LTU,Women,individual road race,W,Bronze
+Cycling,Cycling Road,"ZIJLAARD-VAN MOORSEL, Leontien",NED,Women,individual road race,W,Gold
+Cycling,Cycling Road,"KUPFERNAGEL, Hanka",GER,Women,individual road race,W,Silver
+Cycling,Cycling Road,"ARMSTRONG, Lance E.",USA,Men,individual time trial,M,Bronze
+Cycling,Cycling Road,"EKIMOV, Vyacheslav",RUS,Men,individual time trial,M,Gold
+Cycling,Cycling Road,"ULLRICH, Jan",GER,Men,individual time trial,M,Silver
+Cycling,Cycling Road,"LONGO-CIPRELLI, Jeannie",FRA,Women,individual time trial,W,Bronze
+Cycling,Cycling Road,"ZIJLAARD-VAN MOORSEL, Leontien",NED,Women,individual time trial,W,Gold
+Cycling,Cycling Road,"HOLDEN, Mari",USA,Women,individual time trial,W,Silver
+Cycling,Cycling Track,"KELLY, Shane",AUS,Men,1km time trial,M,Bronze
+Cycling,Cycling Track,"QUEALLY, Jason",GBR,Men,1km time trial,M,Gold
+Cycling,Cycling Track,"NIMKE, Stefan",GER,Men,1km time trial,M,Silver
+Cycling,Cycling Track,"JIANG, Cuihua",CHN,Women,500m time trial,W,Bronze
+Cycling,Cycling Track,"BALLANGER, Felicia",FRA,Women,500m time trial,W,Gold
+Cycling,Cycling Track,"FERRIS, Michelle",AUS,Women,500m time trial,W,Silver
+Cycling,Cycling Track,"MCGEE, Bradley",AUS,Men,Individual Pursuit,M,Bronze
+Cycling,Cycling Track,"BARTKO, Robert",GER,Men,Individual Pursuit,M,Gold
+Cycling,Cycling Track,"LEHMANN, Jens",GER,Men,Individual Pursuit,M,Silver
+Cycling,Cycling Track,"MCGREGOR, Yvonne",GBR,Women,individual pursuit,W,Bronze
+Cycling,Cycling Track,"ZIJLAARD-VAN MOORSEL, Leontien",NED,Women,individual pursuit,W,Gold
+Cycling,Cycling Track,"CLIGNET, Marion",FRA,Women,individual pursuit,W,Silver
+Cycling,Cycling Track,"FIEDLER, Jens",GER,Men,Keirin,M,Bronze
+Cycling,Cycling Track,"ROUSSEAU, Florian",FRA,Men,Keirin,M,Gold
+Cycling,Cycling Track,"NEIWAND, Garry Malcolm",AUS,Men,Keirin,M,Silver
+Cycling,Cycling Track,"MARTINELLO, Silvio",ITA,Men,Madison,M,Bronze
+Cycling,Cycling Track,"VILLA, Marco",ITA,Men,Madison,M,Bronze
+Cycling,Cycling Track,"AITKEN, Brett",AUS,Men,Madison,M,Gold
+Cycling,Cycling Track,"MCGRORY, Scott",AUS,Men,Madison,M,Gold
+Cycling,Cycling Track,"DE WILDE, Etienne",BEL,Men,Madison,M,Silver
+Cycling,Cycling Track,"GILMORE, Matthew",BEL,Men,Madison,M,Silver
+Cycling,Cycling Track,"EADIE, Sean",AUS,Men,Olympic Sprint,M,Bronze
+Cycling,Cycling Track,"HILL, Darryn",AUS,Men,Olympic Sprint,M,Bronze
+Cycling,Cycling Track,"NEIWAND, Garry Malcolm",AUS,Men,Olympic Sprint,M,Bronze
+Cycling,Cycling Track,"GANE, Laurent",FRA,Men,Olympic Sprint,M,Gold
+Cycling,Cycling Track,"ROUSSEAU, Florian",FRA,Men,Olympic Sprint,M,Gold
+Cycling,Cycling Track,"TOURNANT, Arnaud",FRA,Men,Olympic Sprint,M,Gold
+Cycling,Cycling Track,"HOY, Chris",GBR,Men,Olympic Sprint,M,Silver
+Cycling,Cycling Track,"MACLEAN, Craig",GBR,Men,Olympic Sprint,M,Silver
+Cycling,Cycling Track,"QUEALLY, Jason",GBR,Men,Olympic Sprint,M,Silver
+Cycling,Cycling Track,"MARKOV, Alexei",RUS,Men,Points Race,M,Bronze
+Cycling,Cycling Track,"LLANERAS, Joan",ESP,Men,Points Race,M,Gold
+Cycling,Cycling Track,"WYNANTS, Milton Ariel",URU,Men,Points Race,M,Silver
+Cycling,Cycling Track,"SLIOUSSAREVA, Olga",RUS,Women,points race,W,Bronze
+Cycling,Cycling Track,"BELLUTTI, Antonella",ITA,Women,points race,W,Gold
+Cycling,Cycling Track,"ZIJLAARD-VAN MOORSEL, Leontien",NED,Women,points race,W,Silver
+Cycling,Cycling Track,"YANOVYCH, Iryna",UKR,Women,sprint,W,Bronze
+Cycling,Cycling Track,"BALLANGER, Felicia",FRA,Women,sprint,W,Gold
+Cycling,Cycling Track,"GRISHINA, Oksana",RUS,Women,sprint,W,Silver
+Cycling,Cycling Track,"FIEDLER, Jens",GER,Men,Sprint indivual,M,Bronze
+Cycling,Cycling Track,"NOTHSTEIN, Marty",USA,Men,Sprint indivual,M,Gold
+Cycling,Cycling Track,"ROUSSEAU, Florian",FRA,Men,Sprint indivual,M,Silver
+Cycling,Cycling Track,"CLAY, Jonny",GBR,Men,Team Pursuit (4000m),M,Bronze
+Cycling,Cycling Track,"HAYLES, Rob",GBR,Men,Team Pursuit (4000m),M,Bronze
+Cycling,Cycling Track,"MANNING, Paul",GBR,Men,Team Pursuit (4000m),M,Bronze
+Cycling,Cycling Track,"NEWTON, Chris",GBR,Men,Team Pursuit (4000m),M,Bronze
+Cycling,Cycling Track,"STEEL, Bryan",GBR,Men,Team Pursuit (4000m),M,Bronze
+Cycling,Cycling Track,"WIGGINS, Bradley",GBR,Men,Team Pursuit (4000m),M,Bronze
+Cycling,Cycling Track,"BARTKO, Robert",GER,Men,Team Pursuit (4000m),M,Gold
+Cycling,Cycling Track,"BECKE, Daniel",GER,Men,Team Pursuit (4000m),M,Gold
+Cycling,Cycling Track,"FULST, Guido",GER,Men,Team Pursuit (4000m),M,Gold
+Cycling,Cycling Track,"LEHMANN, Jens",GER,Men,Team Pursuit (4000m),M,Gold
+Cycling,Cycling Track,"POLLACK, Olaf",GER,Men,Team Pursuit (4000m),M,Gold
+Cycling,Cycling Track,"CHERNYAVSKYY, Sergiy",UKR,Men,Team Pursuit (4000m),M,Silver
+Cycling,Cycling Track,"FEDENKO, Oleksandr",UKR,Men,Team Pursuit (4000m),M,Silver
+Cycling,Cycling Track,"MATVEYEV, Sergiy",UKR,Men,Team Pursuit (4000m),M,Silver
+Cycling,Cycling Track,"SIMONENKO, Alexander",UKR,Men,Team Pursuit (4000m),M,Silver
+Cycling,Mountain Bike,"SAUSER, Christoph",SUI,Men,cross-country,M,Bronze
+Cycling,Mountain Bike,"MARTINEZ, Miguel",FRA,Men,cross-country,M,Gold
+Cycling,Mountain Bike,"MEIRHAEGHE, Filip",BEL,Men,cross-country,M,Silver
+Cycling,Mountain Bike,"FULLANA, Marga",ESP,Women,cross-country,W,Bronze
+Cycling,Mountain Bike,"PEZZO, Paola",ITA,Women,cross-country,W,Gold
+Cycling,Mountain Bike,"BLATTER, Barbara",SUI,Women,cross-country,W,Silver
+Equestrian,Dressage,"SALZGEBER, Ulla",GER,Women,individual,X,Bronze
+Equestrian,Dressage,"VAN GRUNSVEN, Anky",NED,Women,individual,X,Gold
+Equestrian,Dressage,"WERTH, Isabell",GER,Women,individual,X,Silver
+Equestrian,Dressage,"DOVER, Robert",USA,Men,team,X,Bronze
+Equestrian,Dressage,"SEIDEL, Guenter",USA,Men,team,X,Bronze
+Equestrian,Dressage,"TEEUWISSEN, Arjen",NED,Men,team,X,Silver
+Equestrian,Dressage,"BLINKS, Susan",USA,Women,team,X,Bronze
+Equestrian,Dressage,"TRAURIG, Christine",USA,Women,team,X,Bronze
+Equestrian,Dressage,"CAPELLMANN, Nadine",GER,Women,team,X,Gold
+Equestrian,Dressage,"SALZGEBER, Ulla",GER,Women,team,X,Gold
+Equestrian,Dressage,"SIMONS DE RIDDER, Alexandra",GER,Women,team,X,Gold
+Equestrian,Dressage,"WERTH, Isabell",GER,Women,team,X,Gold
+Equestrian,Dressage,"BONTJE, Ellen",NED,Women,team,X,Silver
+Equestrian,Dressage,"VAN BAALEN, Coby",NED,Women,team,X,Silver
+Equestrian,Dressage,"VAN GRUNSVEN, Anky",NED,Women,team,X,Silver
+Equestrian,Eventing,"TODD, Mark",NZL,Men,individual,X,Bronze
+Equestrian,Eventing,"O'CONNOR, David",USA,Men,individual,X,Gold
+Equestrian,Eventing,"HOY, Andrew",AUS,Men,individual,X,Silver
+Equestrian,Eventing,"O'CONNOR, David",USA,Men,team,X,Bronze
+Equestrian,Eventing,"DUTTON, Phillip",AUS,Men,team,X,Gold
+Equestrian,Eventing,"HOY, Andrew",AUS,Men,team,X,Gold
+Equestrian,Eventing,"RYAN, Matthew Morgan",AUS,Men,team,X,Gold
+Equestrian,Eventing,"TINNEY, Stuart",AUS,Men,team,X,Gold
+Equestrian,Eventing,"LAW, Leslie",GBR,Men,team,X,Silver
+Equestrian,Eventing,"STARK, Ian",GBR,Men,team,X,Silver
+Equestrian,Eventing,"FOUT, Nina",USA,Women,team,X,Bronze
+Equestrian,Eventing,"O'CONNOR, Karen",USA,Women,team,X,Bronze
+Equestrian,Eventing,"WIESMAN, Linden",USA,Women,team,X,Bronze
+Equestrian,Eventing,"BRAKEWELL, Jeanette",GBR,Women,team,X,Silver
+Equestrian,Eventing,"FUNNELL, Pippa",GBR,Women,team,X,Silver
+Equestrian,Jumping,"ALEID, Khaled",KSA,Men,individual,X,Bronze
+Equestrian,Jumping,"DUBBELDAM, Jeroen",NED,Men,individual,X,Gold
+Equestrian,Jumping,"VOORN, Albert",NED,Men,individual,X,Silver
+Equestrian,Jumping,"AZEVEDO, Luiz Felipe",BRA,Men,team,X,Bronze
+Equestrian,Jumping,"JOHANNPETER, Andre",BRA,Men,team,X,Bronze
+Equestrian,Jumping,"MIRANDA NETO, Alvaro",BRA,Men,team,X,Bronze
+Equestrian,Jumping,"PESSOA, Rodrigo",BRA,Men,team,X,Bronze
+Equestrian,Jumping,"BECKER, Otto",GER,Men,team,X,Gold
+Equestrian,Jumping,"BEERBAUM, Ludger",GER,Men,team,X,Gold
+Equestrian,Jumping,"EHNING, Marcus",GER,Men,team,X,Gold
+Equestrian,Jumping,"NIEBERG, Lars",GER,Men,team,X,Gold
+Equestrian,Jumping,"FUCHS, Markus",SUI,Men,team,X,Silver
+Equestrian,Jumping,"MANDLI, Beat",SUI,Men,team,X,Silver
+Equestrian,Jumping,"MELLIGER, Wilhelm",SUI,Men,team,X,Silver
+Equestrian,Jumping,"MCNAUGHT, Lesley",SUI,Women,team,X,Silver
+Fencing,Fencing,"LEE, Sang-Ki",KOR,Men,?p?e individual,M,Bronze
+Fencing,Fencing,"KOLOBKOV, Pavel",RUS,Men,?p?e individual,M,Gold
+Fencing,Fencing,"OBRY, Hughes",FRA,Men,?p?e individual,M,Silver
+Fencing,Fencing,"FLESSEL-COLOVIC, Laura",FRA,Women,?p?e individual,W,Bronze
+Fencing,Fencing,"NAGY, Timea",HUN,Women,?p?e individual,W,Gold
+Fencing,Fencing,"BUERKI, Gianna",SUI,Women,?p?e individual,W,Silver
+Fencing,Fencing,"LOYOLA, Nelson",CUB,Men,?p?e team,M,Bronze
+Fencing,Fencing,"PEDROSO, Carlos",CUB,Men,?p?e team,M,Bronze
+Fencing,Fencing,"TREVEJO, Ivan",CUB,Men,?p?e team,M,Bronze
+Fencing,Fencing,"MAZZONI, Angelo",ITA,Men,?p?e team,M,Gold
+Fencing,Fencing,"MILANOLI, Paolo",ITA,Men,?p?e team,M,Gold
+Fencing,Fencing,"RANDAZZO, Maurizio",ITA,Men,?p?e team,M,Gold
+Fencing,Fencing,"ROTA, Alfredo",ITA,Men,?p?e team,M,Gold
+Fencing,Fencing,"DI MARTINO, Jean-Francois",FRA,Men,?p?e team,M,Silver
+Fencing,Fencing,"OBRY, Hughes",FRA,Men,?p?e team,M,Silver
+Fencing,Fencing,"SRECKI, Eric",FRA,Men,?p?e team,M,Silver
+Fencing,Fencing,"LI, Na",CHN,Women,?p?e team,W,Bronze
+Fencing,Fencing,"LIANG, Qin",CHN,Women,?p?e team,W,Bronze
+Fencing,Fencing,"YANG, Shaoqi",CHN,Women,?p?e team,W,Bronze
+Fencing,Fencing,"AZNAVOURIAN, Karina",RUS,Women,?p?e team,W,Gold
+Fencing,Fencing,"ERMAKOVA, Oxana",RUS,Women,?p?e team,W,Gold
+Fencing,Fencing,"LOGOUNOVA, Tatiana",RUS,Women,?p?e team,W,Gold
+Fencing,Fencing,"MAZINA, Mariya",RUS,Women,?p?e team,W,Gold
+Fencing,Fencing,"BUERKI, Gianna",SUI,Women,?p?e team,W,Silver
+Fencing,Fencing,"LAMON, Sophie",SUI,Women,?p?e team,W,Silver
+Fencing,Fencing,"ROMAGNOLI, Diana",SUI,Women,?p?e team,W,Silver
+Fencing,Fencing,"SHEVCHENKO, Dmitri",RUS,Men,foil individual,M,Bronze
+Fencing,Fencing,"KIM, Young Ho",KOR,Men,foil individual,M,Gold
+Fencing,Fencing,"BISSDORF, Ralf",GER,Men,foil individual,M,Silver
+Fencing,Fencing,"TRILLINI, Giovanna",ITA,Women,foil individual,W,Bronze
+Fencing,Fencing,"VEZZALI, Valentina",ITA,Women,foil individual,W,Gold
+Fencing,Fencing,"KOENIG, Rita",GER,Women,foil individual,W,Silver
+Fencing,Fencing,"CROSTA, Daniele",ITA,Men,foil team,M,Bronze
+Fencing,Fencing,"MAGNI, Gabriele",ITA,Men,foil team,M,Bronze
+Fencing,Fencing,"SANZO, Salvatore",ITA,Men,foil team,M,Bronze
+Fencing,Fencing,"ZENNARO, Matteo",ITA,Men,foil team,M,Bronze
+Fencing,Fencing,"FERRARI, Jean-Noel",FRA,Men,foil team,M,Gold
+Fencing,Fencing,"GUYART, Brice",FRA,Men,foil team,M,Gold
+Fencing,Fencing,"LHOTELLIER, Patrice",FRA,Men,foil team,M,Gold
+Fencing,Fencing,"PLUMENAIL, Lionel",FRA,Men,foil team,M,Gold
+Fencing,Fencing,"DONG, Zhaozhi",CHN,Men,foil team,M,Silver
+Fencing,Fencing,"WANG, Haibin",CHN,Men,foil team,M,Silver
+Fencing,Fencing,"YE, Chong",CHN,Men,foil team,M,Silver
+Fencing,Fencing,"BAU, Sabine Christiane",GER,Women,foil team,W,Bronze
+Fencing,Fencing,"KOENIG, Rita",GER,Women,foil team,W,Bronze
+Fencing,Fencing,"WEBER-KOSZTO, Monika",GER,Women,foil team,W,Bronze
+Fencing,Fencing,"BIANCHEDI, Diana",ITA,Women,foil team,W,Gold
+Fencing,Fencing,"TRILLINI, Giovanna",ITA,Women,foil team,W,Gold
+Fencing,Fencing,"VEZZALI, Valentina",ITA,Women,foil team,W,Gold
+Fencing,Fencing,"GRUCHALA, Sylwia",POL,Women,foil team,W,Silver
+Fencing,Fencing,"MROCZKIEWICZ, Magdalena",POL,Women,foil team,W,Silver
+Fencing,Fencing,"RYBICKA, Anna",POL,Women,foil team,W,Silver
+Fencing,Fencing,"SZEWCZYK, Barbara",POL,Women,foil team,W,Silver
+Fencing,Fencing,"KOTHNY, Wiradech",GER,Men,sabre individual,M,Bronze
+Fencing,Fencing,"COVALIU, Mihai",ROU,Men,sabre individual,M,Gold
+Fencing,Fencing,"GOURDAIN, Mathieu",FRA,Men,sabre individual,M,Silver
+Fencing,Fencing,"BAUER, Dennis",GER,Men,sabre team,M,Bronze
+Fencing,Fencing,"KOTHNY, Wiradech",GER,Men,sabre team,M,Bronze
+Fencing,Fencing,"WEBER, Alexander",GER,Men,sabre team,M,Bronze
+Fencing,Fencing,"CHARIKOV, Serguei",RUS,Men,sabre team,M,Gold
+Fencing,Fencing,"FROSSINE, Alexei",RUS,Men,sabre team,M,Gold
+Fencing,Fencing,"POZDNYAKOV, Stanislav",RUS,Men,sabre team,M,Gold
+Fencing,Fencing,"GOURDAIN, Mathieu",FRA,Men,sabre team,M,Silver
+Fencing,Fencing,"PILLET, Julien",FRA,Men,sabre team,M,Silver
+Fencing,Fencing,"SEGUIN, Cedric",FRA,Men,sabre team,M,Silver
+Fencing,Fencing,"TOUYA, Damien",FRA,Men,sabre team,M,Silver
+Football,Football,"ALVAREZ, Cristian",CHI,Men,football,M,Bronze
+Football,Football,"ARRUE, Francisco",CHI,Men,football,M,Bronze
+Football,Football,"CONTRERAS, Pablo",CHI,Men,football,M,Bronze
+Football,Football,"DI GREGORIO, Javier",CHI,Men,football,M,Bronze
+Football,Football,"GONZALEZ, Sebastian",CHI,Men,football,M,Bronze
+Football,Football,"HENRIQUEZ, David",CHI,Men,football,M,Bronze
+Football,Football,"IBARRA, Manuel",CHI,Men,football,M,Bronze
+Football,Football,"MALDONADO, Claudio",CHI,Men,football,M,Bronze
+Football,Football,"NAVIA, Reinaldo",CHI,Men,football,M,Bronze
+Football,Football,"NUNEZ, Rodrigo",CHI,Men,football,M,Bronze
+Football,Football,"OLARRA, Rafael",CHI,Men,football,M,Bronze
+Football,Football,"ORMAZABAL, Patricio",CHI,Men,football,M,Bronze
+Football,Football,"PIZARRO, David",CHI,Men,football,M,Bronze
+Football,Football,"REYES, Pedro",CHI,Men,football,M,Bronze
+Football,Football,"ROJAS, Mauricio",CHI,Men,football,M,Bronze
+Football,Football,"TAPIA, Nelson",CHI,Men,football,M,Bronze
+Football,Football,"TELLO, Rodrigo",CHI,Men,football,M,Bronze
+Football,Football,"ZAMORANO, Ivan",CHI,Men,football,M,Bronze
+Football,Football,"ABANDA ETONG, Patrice",CMR,Men,football,M,Gold
+Football,Football,"ALNOUDJI, Nicolas",CMR,Men,football,M,Gold
+Football,Football,"BEAUD, Clement",CMR,Men,football,M,Gold
+Football,Football,"BEKONO NDENE, Daniel",CMR,Men,football,M,Gold
+Football,Football,"BRANCO, Serge",CMR,Men,football,M,Gold
+Football,Football,"EPALLE, Joel",CMR,Men,football,M,Gold
+Football,Football,"ETAME MAYER, Lawren",CMR,Men,football,M,Gold
+Football,Football,"ETO'O FILS, Samuel",CMR,Men,football,M,Gold
+Football,Football,"KAMENI, Idriss C",CMR,Men,football,M,Gold
+Football,Football,"MBAMI, Modeste",CMR,Men,football,M,Gold
+Football,Football,"MBOMA DEM, Patrick",CMR,Men,football,M,Gold
+Football,Football,"MEYONG ZE, Albert",CMR,Men,football,M,Gold
+Football,Football,"MIMPO, Serge",CMR,Men,football,M,Gold
+Football,Football,"NGOME KOME, Daniel",CMR,Men,football,M,Gold
+Football,Football,"NGUIMBAT, Aaron",CMR,Men,football,M,Gold
+Football,Football,"NJITAP FOTSO, Geremi",CMR,Men,football,M,Gold
+Football,Football,"SUFFO K, Patrick",CMR,Men,football,M,Gold
+Football,Football,"WOME NLEND, Pierre",CMR,Men,football,M,Gold
+Football,Football,"ALBELDA, David",ESP,Men,football,M,Silver
+Football,Football,"AMAYA, Ivan",ESP,Men,football,M,Silver
+Football,Football,"ANGULO, Miguel Angel",ESP,Men,football,M,Silver
+Football,Football,"ARANZUBIA, Daniel",ESP,Men,football,M,Silver
+Football,Football,"CAPDEVILA, Juan",ESP,Men,football,M,Silver
+Football,Football,"FERRON, Jordi",ESP,Men,football,M,Silver
+Football,Football,"GARCIA, Gabriel",ESP,Men,football,M,Silver
+Football,Football,"HERNANDEZ, Xavier",ESP,Men,football,M,Silver
+Football,Football,"LACRUZ, Jesus Maria",ESP,Men,football,M,Silver
+Football,Football,"LUQUE, Alberto",ESP,Men,football,M,Silver
+Football,Football,"MARCHENA, Carlos",ESP,Men,football,M,Silver
+Football,Football,"ORTIZ, Felipe",ESP,Men,football,M,Silver
+Football,Football,"PUYOL, Carlos",ESP,Men,football,M,Silver
+Football,Football,"ROMERO, Jose Maria",ESP,Men,football,M,Silver
+Football,Football,"RUIZ, Ismael",ESP,Men,football,M,Silver
+Football,Football,"TAMUDO, Raul",ESP,Men,football,M,Silver
+Football,Football,"VELAMAZAN, Antonio",ESP,Men,football,M,Silver
+Football,Football,"VERGARA, Unai",ESP,Men,football,M,Silver
+Football,Football,"ANGERER, Nadine",GER,Women,football,W,Bronze
+Football,Football,"BRANDEBUSEMEYER, Nicole",GER,Women,football,W,Bronze
+Football,Football,"FITSCHEN, Doris",GER,Women,football,W,Bronze
+Football,Football,"GOETTE, Jeannette",GER,Women,football,W,Bronze
+Football,Football,"GOTTSCHLICH, Stefanie",GER,Women,football,W,Bronze
+Football,Football,"GRINGS, Inka",GER,Women,football,W,Bronze
+Football,Football,"HINGST, Ariane",GER,Women,football,W,Bronze
+Football,Football,"HOFFMANN, Melanie",GER,Women,football,W,Bronze
+Football,Football,"JONES, Steffi",GER,Women,football,W,Bronze
+Football,Football,"LINGOR, Renate",GER,Women,football,W,Bronze
+Football,Football,"MEINERT, Maren",GER,Women,football,W,Bronze
+Football,Football,"MINNERT, Sandra",GER,Women,football,W,Bronze
+Football,Football,"MUELLER, Claudia",GER,Women,football,W,Bronze
+Football,Football,"PRINZ, Birgit",GER,Women,football,W,Bronze
+Football,Football,"ROTTENBERG, Silke",GER,Women,football,W,Bronze
+Football,Football,"STEGEMANN, Kerstin",GER,Women,football,W,Bronze
+Football,Football,"WIEGMANN, Bettina",GER,Women,football,W,Bronze
+Football,Football,"WUNDERLICH, Tina",GER,Women,football,W,Bronze
+Football,Football,"BEKKEVOLD, Kristin",NOR,Women,football,W,Gold
+Football,Football,"ESPESETH, Gro",NOR,Women,football,W,Gold
+Football,Football,"GULBRANDSEN, Ragnhild",NOR,Women,football,W,Gold
+Football,Football,"GULBRANDSEN, Solveig",NOR,Women,football,W,Gold
+Football,Football,"HAUGENES, Margunn",NOR,Women,football,W,Gold
+Football,Football,"HOVLAND, Ingeborg",NOR,Women,football,W,Gold
+Football,Football,"JENSEN, Christine Boe",NOR,Women,football,W,Gold
+Football,Football,"JOERGENSEN, Silje",NOR,Women,football,W,Gold
+Football,Football,"KNUDSEN, Monica",NOR,Women,football,W,Gold
+Football,Football,"KRINGEN, Goeril",NOR,Women,football,W,Gold
+Football,Football,"KVITLAND, Bente",NOR,Women,football,W,Gold
+Football,Football,"LEHN, Unni",NOR,Women,football,W,Gold
+Football,Football,"MELLGREN, Dagny",NOR,Women,football,W,Gold
+Football,Football,"NORDBY, Bente",NOR,Women,football,W,Gold
+Football,Football,"PETTERSEN, Marianne",NOR,Women,football,W,Gold
+Football,Football,"RAPP, Anita",NOR,Women,football,W,Gold
+Football,Football,"RIISE, Hege",NOR,Women,football,W,Gold
+Football,Football,"SANDAUNE, Brit",NOR,Women,football,W,Gold
+Football,Football,"CHASTAIN, Brandi",USA,Women,football,W,Silver
+Football,Football,"FAIR, Lorrie",USA,Women,football,W,Silver
+Football,Football,"FAWCETT, Joy",USA,Women,football,W,Silver
+Football,Football,"FOUDY, Julie",USA,Women,football,W,Silver
+Football,Football,"FRENCH, Michelle",USA,Women,football,W,Silver
+Football,Football,"HAMM, Mia",USA,Women,football,W,Silver
+Football,Football,"LILLY, Kristine",USA,Women,football,W,Silver
+Football,Football,"MACMILLAN, Shannon",USA,Women,football,W,Silver
+Football,Football,"MILBRETT, Tiffeny",USA,Women,football,W,Silver
+Football,Football,"MULLINIX, Siri",USA,Women,football,W,Silver
+Football,Football,"OVERBECK, Carla",USA,Women,football,W,Silver
+Football,Football,"PARLOW, Cindy",USA,Women,football,W,Silver
+Football,Football,"PEARCE, Christie",USA,Women,football,W,Silver
+Football,Football,"SCURRY, Briana",USA,Women,football,W,Silver
+Football,Football,"SERLENGA, Nikki",USA,Women,football,W,Silver
+Football,Football,"SLATON, Danielle",USA,Women,football,W,Silver
+Football,Football,"SOBRERO, Kate",USA,Women,football,W,Silver
+Football,Football,"WHALEN, Sara",USA,Women,football,W,Silver
+Gymnastics,Artistic G.,"PRODOUNOVA, Elena",RUS,Women,balance beam,W,Bronze
+Gymnastics,Artistic G.,"LIU, Xuan",CHN,Women,balance beam,W,Gold
+Gymnastics,Artistic G.,"LOBAZNIOUK, Ekaterina",RUS,Women,balance beam,W,Silver
+Gymnastics,Artistic G.,"IOVTCHEV, Iordan",BUL,Men,floor exercises,M,Bronze
+Gymnastics,Artistic G.,"VIHROVS, Igors",LAT,Men,floor exercises,M,Gold
+Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,floor exercises,M,Silver
+Gymnastics,Artistic G.,"AMANAR, Simona",ROU,Women,floor exercises,W,Bronze
+Gymnastics,Artistic G.,"ZAMOLODCHIKOVA, Elena",RUS,Women,floor exercises,W,Gold
+Gymnastics,Artistic G.,"KHORKINA, Svetlana",RUS,Women,floor exercises,W,Silver
+Gymnastics,Artistic G.,"LEE, Joo Hyung",KOR,Men,horizontal bar,M,Bronze
+Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,horizontal bar,M,Gold
+Gymnastics,Artistic G.,"VARONIAN, Benjamin",FRA,Men,horizontal bar,M,Silver
+Gymnastics,Artistic G.,"BERESH, Oleksandr",UKR,Men,individual all-round,M,Bronze
+Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,individual all-round,M,Gold
+Gymnastics,Artistic G.,"YANG, Wey",CHN,Men,individual all-round,M,Silver
+Gymnastics,Artistic G.,"LIU, Xuan",CHN,Women,individual all-round,W,Bronze
+Gymnastics,Artistic G.,"AMANAR, Simona",ROU,Women,individual all-round,W,Gold
+Gymnastics,Artistic G.,"OLARU, Maria",ROU,Women,individual all-round,W,Silver
+Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,parallel bars,M,Bronze
+Gymnastics,Artistic G.,"LI, Xiaopeng",CHN,Men,parallel bars,M,Gold
+Gymnastics,Artistic G.,"LEE, Joo Hyung",KOR,Men,parallel bars,M,Silver
+Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,pommel horse,M,Bronze
+Gymnastics,Artistic G.,"URZICA, Marius Daniel",ROU,Men,pommel horse,M,Gold
+Gymnastics,Artistic G.,"POUJADE, Eric",FRA,Men,pommel horse,M,Silver
+Gymnastics,Artistic G.,"IOVTCHEV, Iordan",BUL,Men,rings,M,Bronze
+Gymnastics,Artistic G.,"CSOLLANY, Szilveszter",HUN,Men,rings,M,Gold
+Gymnastics,Artistic G.,"TAMPAKOS, Dimosthenis",GRE,Men,rings,M,Silver
+Gymnastics,Artistic G.,"ALECHINE, Maxim",RUS,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"BONDARENKO, Alexei",RUS,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"DREVINE, Dmitri",RUS,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"KRUKOV, Nikolay",RUS,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"PODGORNYI, Evgueni",RUS,Men,team competition,M,Bronze
+Gymnastics,Artistic G.,"HUANG, Xu",CHN,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"LI, Xiaopeng",CHN,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"XIAO, Junfeng",CHN,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"XING, Aowei",CHN,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"YANG, Wey",CHN,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"ZHENG, Lihui",CHN,Men,team competition,M,Gold
+Gymnastics,Artistic G.,"BERESH, Oleksandr",UKR,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"GONCHAROV, Valeri",UKR,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"MYEZYENTSEV, Ruslan",UKR,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"PERESHKURA, Valeriy",UKR,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"SVETLICHNYI, Alexandre",UKR,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"ZOZULIA, Roman",UKR,Men,team competition,M,Silver
+Gymnastics,Artistic G.,"CHOW, Amy",USA,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"DANTZSCHER, Jamie",USA,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"DAWES, Dominique",USA,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"MALONEY, Kristin",USA,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"RAY, Elise",USA,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"SCHWIKERT-WARREN, Tasha",USA,Women,team competition,W,Bronze
+Gymnastics,Artistic G.,"AMANAR, Simona",ROU,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"BOBOC, Loredana",ROU,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"ISARESCU, Andreea Florenta",ROU,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"OLARU, Maria",ROU,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"PRESACAN, Maria Claudia",ROU,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"RADUCAN, Andreea Madalina",ROU,Women,team competition,W,Gold
+Gymnastics,Artistic G.,"KHORKINA, Svetlana",RUS,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"KOLESNIKOVA, Anastassia",RUS,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"LOBAZNIOUK, Ekaterina",RUS,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"PRODOUNOVA, Elena",RUS,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"TCHEPELEVA, Anna",RUS,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"ZAMOLODCHIKOVA, Elena",RUS,Women,team competition,W,Silver
+Gymnastics,Artistic G.,"YANG, Yun",CHN,Women,uneven bars,W,Bronze
+Gymnastics,Artistic G.,"KHORKINA, Svetlana",RUS,Women,uneven bars,W,Gold
+Gymnastics,Artistic G.,"LING, Jie",CHN,Women,uneven bars,W,Silver
+Gymnastics,Artistic G.,"BLANIK, Leszek",POL,Men,vault,M,Bronze
+Gymnastics,Artistic G.,"DEFERR, Gervasio",ESP,Men,vault,M,Gold
+Gymnastics,Artistic G.,"BONDARENKO, Alexei",RUS,Men,vault,M,Silver
+Gymnastics,Artistic G.,"LOBAZNIOUK, Ekaterina",RUS,Women,vault,W,Bronze
+Gymnastics,Artistic G.,"ZAMOLODCHIKOVA, Elena",RUS,Women,vault,W,Gold
+Gymnastics,Artistic G.,"RADUCAN, Andreea Madalina",ROU,Women,vault,W,Silver
+Gymnastics,Rhythmic G.,"AINDILI, Eirini",GRE,Women,group competition,W,Bronze
+Gymnastics,Rhythmic G.,"CHRISTODOULOU, Evangelia",GRE,Women,group competition,W,Bronze
+Gymnastics,Rhythmic G.,"GEORGATOU, Maria",GRE,Women,group competition,W,Bronze
+Gymnastics,Rhythmic G.,"KARYAMI, Zacharoula",GRE,Women,group competition,W,Bronze
+Gymnastics,Rhythmic G.,"PANTAZI, Charikleia",GRE,Women,group competition,W,Bronze
+Gymnastics,Rhythmic G.,"POLLATOU, Anna",GRE,Women,group competition,W,Bronze
+Gymnastics,Rhythmic G.,"BELOVA, Irina",RUS,Women,group competition,W,Gold
+Gymnastics,Rhythmic G.,"CHALAMOVA, Elena",RUS,Women,group competition,W,Gold
+Gymnastics,Rhythmic G.,"LAVROVA, Natalia",RUS,Women,group competition,W,Gold
+Gymnastics,Rhythmic G.,"NETESSOVA, Maria",RUS,Women,group competition,W,Gold
+Gymnastics,Rhythmic G.,"SHIMANSKAYA, Vera",RUS,Women,group competition,W,Gold
+Gymnastics,Rhythmic G.,"ZILBER, Irina",RUS,Women,group competition,W,Gold
+Gymnastics,Rhythmic G.,"ANANKO, Tatyana",BLR,Women,group competition,W,Silver
+Gymnastics,Rhythmic G.,"BELAN, Tatyana",BLR,Women,group competition,W,Silver
+Gymnastics,Rhythmic G.,"GLAZKOVA, Anna",BLR,Women,group competition,W,Silver
+Gymnastics,Rhythmic G.,"ILYENKOVA, Irina",BLR,Women,group competition,W,Silver
+Gymnastics,Rhythmic G.,"LAZUK, Maria",BLR,Women,group competition,W,Silver
+Gymnastics,Rhythmic G.,"PUZHEVICH, Olga",BLR,Women,group competition,W,Silver
+Gymnastics,Rhythmic G.,"KABAEVA, Alina",RUS,Women,individual all-round,W,Bronze
+Gymnastics,Rhythmic G.,"BARSLUKOVA, Yulia",RUS,Women,individual all-round,W,Gold
+Gymnastics,Rhythmic G.,"RASKINA, Yulia",BLR,Women,individual all-round,W,Silver
+Gymnastics,Trampoline,"TURGEON, Mathieu",CAN,Men,individual,M,Bronze
+Gymnastics,Trampoline,"MOSKALENKO, Alexander",RUS,Men,individual,M,Gold
+Gymnastics,Trampoline,"WALLACE, Ji",AUS,Men,individual,M,Silver
+Gymnastics,Trampoline,"COCKBURN, Karen",CAN,Women,individual,W,Bronze
+Gymnastics,Trampoline,"KARAVAEVA, Irina",RUS,Women,individual,W,Gold
+Gymnastics,Trampoline,"TSYHULEVA, Oksana",UKR,Women,individual,W,Silver
+Handball,Handball,"BARRUFET, David",ESP,Men,handball,M,Bronze
+Handball,Handball,"DOUICHEBAEV, Talant",ESP,Men,handball,M,Bronze
+Handball,Handball,"GARRALDA, Mateo",ESP,Men,handball,M,Bronze
+Handball,Handball,"GUIJOSA, Rafael",ESP,Men,handball,M,Bronze
+Handball,Handball,"LOZANO, Demetrio",ESP,Men,handball,M,Bronze
+Handball,Handball,"MASIP BORRAS, Enric",ESP,Men,handball,M,Bronze
+Handball,Handball,"NUNEZ, Jordi",ESP,Men,handball,M,Bronze
+Handball,Handball,"O'CALLAGHAN, Xavier",ESP,Men,handball,M,Bronze
+Handball,Handball,"OLALLA, Jesus",ESP,Men,handball,M,Bronze
+Handball,Handball,"ORTEGA, Antonio",ESP,Men,handball,M,Bronze
+Handball,Handball,"PEREZ, Juan",ESP,Men,handball,M,Bronze
+Handball,Handball,"UGALDE, Antonio",ESP,Men,handball,M,Bronze
+Handball,Handball,"URDANGARIN, Ignacio",ESP,Men,handball,M,Bronze
+Handball,Handball,"URDIALES, Alberto",ESP,Men,handball,M,Bronze
+Handball,Handball,"XEPKIN, Andriy",ESP,Men,handball,M,Bronze
+Handball,Handball,"FILIPPOV, Dmitriy",RUS,Men,handball,M,Gold
+Handball,Handball,"GORPICHIN, Viatcheslav",RUS,Men,handball,M,Gold
+Handball,Handball,"KHODKOV, Oleg",RUS,Men,handball,M,Gold
+Handball,Handball,"KOKCHAROV, Edouard",RUS,Men,handball,M,Gold
+Handball,Handball,"KOUDINOV, Vassili",RUS,Men,handball,M,Gold
+Handball,Handball,"KOULINTCHENKO, Stanislav",RUS,Men,handball,M,Gold
+Handball,Handball,"KOUZELEV, Dmitri",RUS,Men,handball,M,Gold
+Handball,Handball,"KRIVOSHLYKOV, Denis",RUS,Men,handball,M,Gold
+Handball,Handball,"LAVROV, Andrey",RUS,Men,handball,M,Gold
+Handball,Handball,"LAVROV, Igor",RUS,Men,handball,M,Gold
+Handball,Handball,"POGORELOV, Serguei",RUS,Men,handball,M,Gold
+Handball,Handball,"SUKOSSIAN, Pavel",RUS,Men,handball,M,Gold
+Handball,Handball,"TORGOVANOV, Dmitri",RUS,Men,handball,M,Gold
+Handball,Handball,"TUCHKIN, Alexandre",RUS,Men,handball,M,Gold
+Handball,Handball,"VORONIN, Lev",RUS,Men,handball,M,Gold
+Handball,Handball,"ANDERSSON, Magnus",SWE,Men,handball,M,Silver
+Handball,Handball,"BOQUIST, Martin",SWE,Men,handball,M,Silver
+Handball,Handball,"FRANDESJO, Martin",SWE,Men,handball,M,Silver
+Handball,Handball,"FRANZEN, Mathias",SWE,Men,handball,M,Silver
+Handball,Handball,"GENTZEL, Peter",SWE,Men,handball,M,Silver
+Handball,Handball,"LARSSON, Andreas",SWE,Men,handball,M,Silver
+Handball,Handball,"LINDGREN, Ola",SWE,Men,handball,M,Silver
+Handball,Handball,"LOFGREN, Stefan",SWE,Men,handball,M,Silver
+Handball,Handball,"OLSSON, Staffan",SWE,Men,handball,M,Silver
+Handball,Handball,"PETTERSSON, Johan",SWE,Men,handball,M,Silver
+Handball,Handball,"SIVERTSSON, Thomas",SWE,Men,handball,M,Silver
+Handball,Handball,"SVENSSON, Tomas",SWE,Men,handball,M,Silver
+Handball,Handball,"THORSSON, Pierre",SWE,Men,handball,M,Silver
+Handball,Handball,"VRANJES, Ljubomir",SWE,Men,handball,M,Silver
+Handball,Handball,"WISLANDER, Magnus",SWE,Men,handball,M,Silver
+Handball,Handball,"BJERKRHEIM, Susann Goksoer",NOR,Women,handball,W,Bronze
+Handball,Handball,"DUVHOLT, Kristine",NOR,Women,handball,W,Bronze
+Handball,Handball,"ERIKSEN, Ann",NOR,Women,handball,W,Bronze
+Handball,Handball,"GRINI, Kjersti",NOR,Women,handball,W,Bronze
+Handball,Handball,"HALTVIK, Trine",NOR,Women,handball,W,Bronze
+Handball,Handball,"HILMO, Elisabeth",NOR,Women,handball,W,Bronze
+Handball,Handball,"HUNDVIN, Mia",NOR,Women,handball,W,Bronze
+Handball,Handball,"LARSEN, Tonje",NOR,Women,handball,W,Bronze
+Handball,Handball,"LEGANGER, Cecilie",NOR,Women,handball,W,Bronze
+Handball,Handball,"NILSEN, Jeanette",NOR,Women,handball,W,Bronze
+Handball,Handball,"ROKNE, Marianne",NOR,Women,handball,W,Bronze
+Handball,Handball,"SAETTEM, Birgitte",NOR,Women,handball,W,Bronze
+Handball,Handball,"SANDVE, Monica",NOR,Women,handball,W,Bronze
+Handball,Handball,"SOERLIE, Else-Marthe",NOR,Women,handball,W,Bronze
+Handball,Handball,"TJUGUM, Heidi Maire",NOR,Women,handball,W,Bronze
+Handball,Handball,"ANDERSEN, Camilla",DEN,Women,handball,W,Gold
+Handball,Handball,"BOTTZAU, Tina",DEN,Women,handball,W,Gold
+Handball,Handball,"BRODSGAARD, Karen",DEN,Women,handball,W,Gold
+Handball,Handball,"FRUELUND, Katrine",DEN,Women,handball,W,Gold
+Handball,Handball,"GRONBEK, Maja",DEN,Women,handball,W,Gold
+Handball,Handball,"HANSEN, Christina Roslyng",DEN,Women,handball,W,Gold
+Handball,Handball,"HOFFMAN, Anette",DEN,Women,handball,W,Gold
+Handball,Handball,"KIAERSKOU, Lotte",DEN,Women,handball,W,Gold
+Handball,Handball,"KJAERGAARD, Tonje",DEN,Women,handball,W,Gold
+Handball,Handball,"KOLLING, Janne",DEN,Women,handball,W,Gold
+Handball,Handball,"MORTENSEN, Karin",DEN,Women,handball,W,Gold
+Handball,Handball,"NIELSEN, Anja",DEN,Women,handball,W,Gold
+Handball,Handball,"PETERSEN, Rikke",DEN,Women,handball,W,Gold
+Handball,Handball,"RANTALA, Lene",DEN,Women,handball,W,Gold
+Handball,Handball,"VESTERGAARD LARSEN, Mette",DEN,Women,handball,W,Gold
+Handball,Handball,"BALOGH, Beatrix",HUN,Women,handball,W,Silver
+Handball,Handball,"DELI, Rita",HUN,Women,handball,W,Silver
+Handball,Handball,"FARKAS, Agnes",HUN,Women,handball,W,Silver
+Handball,Handball,"FARKAS, Andrea",HUN,Women,handball,W,Silver
+Handball,Handball,"KANTOR, Aniko",HUN,Women,handball,W,Silver
+Handball,Handball,"KOKENY, Beatrix",HUN,Women,handball,W,Silver
+Handball,Handball,"KULCSAR, Anita",HUN,Women,handball,W,Silver
+Handball,Handball,"LOWY, Dora",HUN,Women,handball,W,Silver
+Handball,Handball,"NAGY, Aniko",HUN,Women,handball,W,Silver
+Handball,Handball,"PADAR, Ildiko",HUN,Women,handball,W,Silver
+Handball,Handball,"PALINGER, Katalin",HUN,Women,handball,W,Silver
+Handball,Handball,"PIGNICZKI, Krisztina",HUN,Women,handball,W,Silver
+Handball,Handball,"RADULOVICS, Bojana",HUN,Women,handball,W,Silver
+Handball,Handball,"SITI, Beata",HUN,Women,handball,W,Silver
+Handball,Handball,"ZSEMBERY, Tamasne",HUN,Women,handball,W,Silver
+Hockey,Hockey,"BRENNAN, Michael",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"COMMENS, Adam",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"DAVIES, Stephen",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"DILETTI, Damon",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"DREHER, Lachlan",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"DUFF, Jason",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"ELDER, Troy",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"ELMER, James",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"GAUDOIN, Paul",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"HOLT, Stephen",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"LIVERMORE, Brent",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"SPROULE, Daniel",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"STACEY, Jay Jason",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"VICTORY, Craig",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"WELLS, Matthew",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"YORK, Michael",AUS,Men,hockey,M,Bronze
+Hockey,Hockey,"BRINKMAN, Jacques",NED,Men,hockey,M,Gold
+Hockey,Hockey,"BUMA, Jaap Derk",NED,Men,hockey,M,Gold
+Hockey,Hockey,"DE NOOIJER, Teun",NED,Men,hockey,M,Gold
+Hockey,Hockey,"DELMEE, Jeroen",NED,Men,hockey,M,Gold
+Hockey,Hockey,"EIKELBOOM, Marten",NED,Men,hockey,M,Gold
+Hockey,Hockey,"GEERIS, Piet-Hein",NED,Men,hockey,M,Gold
+Hockey,Hockey,"JANSEN, Franciscus Ronaldus Maria",NED,Men,hockey,M,Gold
+Hockey,Hockey,"JAZET, Erik",NED,Men,hockey,M,Gold
+Hockey,Hockey,"LOMANS, Bram",NED,Men,hockey,M,Gold
+Hockey,Hockey,"VAN DER WEIDE, Sander",NED,Men,hockey,M,Gold
+Hockey,Hockey,"VAN PELT, Wouter",NED,Men,hockey,M,Gold
+Hockey,Hockey,"VAN WEEL, Diederik",NED,Men,hockey,M,Gold
+Hockey,Hockey,"VAN WIJK, Remco",NED,Men,hockey,M,Gold
+Hockey,Hockey,"VEEN, Stephan",NED,Men,hockey,M,Gold
+Hockey,Hockey,"VOGELS, Guus",NED,Men,hockey,M,Gold
+Hockey,Hockey,"WIND, Peter",NED,Men,hockey,M,Gold
+Hockey,Hockey,"HAN, Hyung-Bae",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"HWANG, Jong-Hyun",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"JEON, Hong-Kwon",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"JEON, Jong-Ha",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"JI, Seong-Hwan",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"KANG, Keon-Wook",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"KIM, Chel-Hwan",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"KIM, Jung-Chul",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"KIM, Kyung Seok",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"KIM, Yong-Bae",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"KIM, Yoon",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"LIM, Jong-Chun",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"LIM, Jung-Woo",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"SEO, Jong-Ho",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"SONG, Seung-Tae",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"YEO, Woon-Kon",KOR,Men,hockey,M,Silver
+Hockey,Hockey,"BOOIJ, Minke",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"BOOMGAARDT, Ageeth",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"DEITERS, Julie",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"DONNERS, Wilhelmina",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"MOREIRA DE MELO, Fatima",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"SINNIGE, Clarinda",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"SMABERS, Hanneke",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"SMABERS, Minke",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"TEEUWEN, Josepha",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"THATE, Carole",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"TOUW, Daphne",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"VAN DE KIEFT, Fleur",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"VAN DEN BOOGAARD, Dillianne",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"VAN DER VAART, Macha",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"VAN DER WIELEN, Suzan",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"VEENSTRA, Myrna",NED,Women,hockey,W,Bronze
+Hockey,Hockey,"ALLEN, Katie",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"ANNAN, Alyson",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"CARRUTHERS, Lisa",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"FARRELL, Renita",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"HASLAM, Juliet",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"HAWKES, Rechelle",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"HUDSON, Nicole",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"IMISON, Rachel",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"MAITLAND, Clover",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"MITCHELL-TAVERNER, Claire",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"MORRIS, Jenny",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"PEEK, Alison Louise",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"POWELL, Katrina",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"SKIRVING, Angie",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"STARRE, Katie",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"TOWERS, Julie",AUS,Women,hockey,W,Gold
+Hockey,Hockey,"AICEGA, Magdalena",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"ANTONISKA, Mariela",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"ARRONDO, Ines",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"AYMAR, Luciana",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"FERRARI, Maria Paz",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"GAMBERO, Ana",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"GARCIA, Agustina",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"HERNANDEZ, Maria de la Paz",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"MAIZTEGUI, Laura",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"MARGALOT, Mercedes",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"MASOTTA, Paula Karina",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"ONETO, Vanina Paula",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"RIMOLDI PUIG, Jorgelina",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"ROGNONI, Maria Cecilia",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"STEPNIK, Ayelen Iara",ARG,Women,hockey,W,Silver
+Hockey,Hockey,"VUKOJICIC, Paola",ARG,Women,hockey,W,Silver
+Judo,Judo,"GRADANTE, Anna-Maria",GER,Women,- 48kg (extra-lightweight),W,Bronze
+Judo,Judo,"SIMONS, Ann",BEL,Women,- 48kg (extra-lightweight),W,Bronze
+Judo,Judo,"TANI, Ryoko",JPN,Women,- 48kg (extra-lightweight),W,Gold
+Judo,Judo,"BROULETOVA, Lioubov",RUS,Women,- 48kg (extra-lightweight),W,Silver
+Judo,Judo,"POULOT RAMOS, Manolo",CUB,Men,- 60 kg,M,Bronze
+Judo,Judo,"SMAGULOV, Aidyn",KGZ,Men,- 60 kg,M,Bronze
+Judo,Judo,"NOMURA, Tadahiro",JPN,Men,- 60 kg,M,Gold
+Judo,Judo,"JUNG, Bu-Kyung",KOR,Men,- 60 kg,M,Silver
+Judo,Judo,"PERTELSON, Indrek",EST,Men,+ 100kg (heavyweight),M,Bronze
+Judo,Judo,"TMENOV, Tamerlan",RUS,Men,+ 100kg (heavyweight),M,Bronze
+Judo,Judo,"DOUILLET, David",FRA,Men,+ 100kg (heavyweight),M,Gold
+Judo,Judo,"SHINOHARA, Shinichi",JPN,Men,+ 100kg (heavyweight),M,Silver
+Judo,Judo,"KIM, Seon-Young",KOR,Women,+ 78kg (heavyweight),W,Bronze
+Judo,Judo,"YAMASHITA, Mayumi",JPN,Women,+ 78kg (heavyweight),W,Bronze
+Judo,Judo,"YUAN, Hua",CHN,Women,+ 78kg (heavyweight),W,Gold
+Judo,Judo,"BELTRAN, Daima Mayelis",CUB,Women,+ 78kg (heavyweight),W,Silver
+Judo,Judo,"KYE, Sun Hui",PRK,Women,48 - 52kg (half-lightweight),W,Bronze
+Judo,Judo,"LIU, Yuxiang",CHN,Women,48 - 52kg (half-lightweight),W,Bronze
+Judo,Judo,"VERDECIA, Legna",CUB,Women,48 - 52kg (half-lightweight),W,Gold
+Judo,Judo,"NARAZAKI, Noriko",JPN,Women,48 - 52kg (half-lightweight),W,Silver
+Judo,Judo,"KUSAKABE, Kie",JPN,Women,52 - 57kg (lightweight),W,Bronze
+Judo,Judo,"PEKLI, Maria",AUS,Women,52 - 57kg (lightweight),W,Bronze
+Judo,Judo,"FERNANDEZ, Isabel",ESP,Women,52 - 57kg (lightweight),W,Gold
+Judo,Judo,"GONZALEZ, Driulys",CUB,Women,52 - 57kg (lightweight),W,Silver
+Judo,Judo,"JUNG, Sung-Sook",KOR,Women,57 - 63kg (half-middleweight),W,Bronze
+Judo,Judo,"VANDECAVEYE, Gella",BEL,Women,57 - 63kg (half-middleweight),W,Bronze
+Judo,Judo,"VANDENHENDE, Severine",FRA,Women,57 - 63kg (half-middleweight),W,Gold
+Judo,Judo,"LI, Shufang",CHN,Women,57 - 63kg (half-middleweight),W,Silver
+Judo,Judo,"GIOVINAZZO, Girolamo",ITA,Men,60 - 66kg (half-lightweight),M,Bronze
+Judo,Judo,"VAZAGASHVILI, Giorgi",GEO,Men,60 - 66kg (half-lightweight),M,Bronze
+Judo,Judo,"OZKAN, Huseyin",TUR,Men,60 - 66kg (half-lightweight),M,Gold
+Judo,Judo,"BENBOUDAOUD, Larbi",FRA,Men,60 - 66kg (half-lightweight),M,Silver
+Judo,Judo,"CHO, Min-Sun",KOR,Women,63 - 70kg (middleweight),W,Bronze
+Judo,Judo,"SCAPIN, Ylenia",ITA,Women,63 - 70kg (middleweight),W,Bronze
+Judo,Judo,"VERANES, Sibelis",CUB,Women,63 - 70kg (middleweight),W,Gold
+Judo,Judo,"HOWEY, Kate",GBR,Women,63 - 70kg (middleweight),W,Silver
+Judo,Judo,"LARYUKOV, Anatoly",BLR,Men,66 - 73kg (lightweight),M,Bronze
+Judo,Judo,"ZELONIJS, Vsevolods",LAT,Men,66 - 73kg (lightweight),M,Bronze
+Judo,Judo,"MADDALONI, Giuseppe",ITA,Men,66 - 73kg (lightweight),M,Gold
+Judo,Judo,"CAMILO, Tiago",BRA,Men,66 - 73kg (lightweight),M,Silver
+Judo,Judo,"PIERANTOZZI, Emanuela",ITA,Women,70 - 78kg (half-heavyweight),W,Bronze
+Judo,Judo,"RICHTER, Simona Marcela",ROU,Women,70 - 78kg (half-heavyweight),W,Bronze
+Judo,Judo,"TANG, Lin",CHN,Women,70 - 78kg (half-heavyweight),W,Gold
+Judo,Judo,"LEBRUN, Celine",FRA,Women,70 - 78kg (half-heavyweight),W,Silver
+Judo,Judo,"BUDOLIN, Aleksei",EST,Men,73 - 81kg (half-middleweight),M,Bronze
+Judo,Judo,"DELGADO, Nuno",POR,Men,73 - 81kg (half-middleweight),M,Bronze
+Judo,Judo,"TAKIMOTO, Makoto",JPN,Men,73 - 81kg (half-middleweight),M,Gold
+Judo,Judo,"CHO, In-Chul",KOR,Men,73 - 81kg (half-middleweight),M,Silver
+Judo,Judo,"DEMONTFAUCON, Frederic",FRA,Men,81 - 90kg (middleweight),M,Bronze
+Judo,Judo,"MASHURENKO, Ruslan",UKR,Men,81 - 90kg (middleweight),M,Bronze
+Judo,Judo,"HUIZINGA, Mark",NED,Men,81 - 90kg (middleweight),M,Gold
+Judo,Judo,"HONORATO, Carlos",BRA,Men,81 - 90kg (middleweight),M,Silver
+Judo,Judo,"STEPKINE, Iouri",RUS,Men,90 - 100kg (half-heavyweight),M,Bronze
+Judo,Judo,"TRAINEAU, Stephane",FRA,Men,90 - 100kg (half-heavyweight),M,Bronze
+Judo,Judo,"INOUE, Kosei",JPN,Men,90 - 100kg (half-heavyweight),M,Gold
+Judo,Judo,"GILL, Nicolas",CAN,Men,90 - 100kg (half-heavyweight),M,Silver
+Modern Pentathlon,Modern Pentath.,"DOVGAL, Pavel",BLR,Men,Individual competition,M,Bronze
+Modern Pentathlon,Modern Pentath.,"SVATKOVSKIY, Dmitri",RUS,Men,Individual competition,M,Gold
+Modern Pentathlon,Modern Pentath.,"BALOGH, Gabor",HUN,Men,Individual competition,M,Silver
+Modern Pentathlon,Modern Pentath.,"ALLENBY, Kate",GBR,Women,Individual competition,W,Bronze
+Modern Pentathlon,Modern Pentath.,"COOK, Stephanie",GBR,Women,Individual competition,W,Gold
+Modern Pentathlon,Modern Pentath.,"DE RIEL, Emily",USA,Women,Individual competition,W,Silver
+Rowing,Rowing,"LONG, Matthew",AUS,Men,coxless pair (2-),M,Bronze
+Rowing,Rowing,"TOMKINS, James",AUS,Men,coxless pair (2-),M,Bronze
+Rowing,Rowing,"ANDRIEUX, Michel",FRA,Men,coxless pair (2-),M,Gold
+Rowing,Rowing,"ROLLAND, Jean Christophe",FRA,Men,coxless pair (2-),M,Gold
+Rowing,Rowing,"BEA, Sebastian",USA,Men,coxless pair (2-),M,Silver
+Rowing,Rowing,"MURPHY, Edward",USA,Men,coxless pair (2-),M,Silver
+Rowing,Rowing,"CALABRESE, Giovanni",ITA,Men,double sculls (2x),M,Bronze
+Rowing,Rowing,"SARTORI, Nicola",ITA,Men,double sculls (2x),M,Bronze
+Rowing,Rowing,"COP, Iztok",SLO,Men,double sculls (2x),M,Gold
+Rowing,Rowing,"SPIK, Luka",SLO,Men,double sculls (2x),M,Gold
+Rowing,Rowing,"BEKKEN, Fredrik",NOR,Men,double sculls (2x),M,Silver
+Rowing,Rowing,"TUFTE, Olaf",NOR,Men,double sculls (2x),M,Silver
+Rowing,Rowing,"POPLAVSKAJA, Kristina",LTU,Women,double sculls (2x),W,Bronze
+Rowing,Rowing,"SAKICKIENE, Birute",LTU,Women,double sculls (2x),W,Bronze
+Rowing,Rowing,"BORON, Kathrin",GER,Women,double sculls (2x),W,Gold
+Rowing,Rowing,"THIEME, Jana",GER,Women,double sculls (2x),W,Gold
+Rowing,Rowing,"VAN DISHOECK, Pieta",NED,Women,double sculls (2x),W,Silver
+Rowing,Rowing,"VAN NES, Eeke",NED,Women,double sculls (2x),W,Silver
+Rowing,Rowing,"BORASKA, Igor",CRO,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"CULJAK, Kresimir",CRO,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"FRANCETIC, Igor",CRO,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"FRANKOVIC, Tihomir",CRO,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"PETRISKO, Silvijo",CRO,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"SKELIN, Niksa",CRO,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"SKELIN, Sinisa",CRO,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"SMOLJANOVIC, Tomislav",CRO,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"VUJEVIC, Branimir",CRO,Men,eight with coxswain (8+),M,Bronze
+Rowing,Rowing,"ATTRILL, Louis",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"DENNIS, Simon",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"DOUGLAS, Rowley",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"GRUBOR, Luka",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"HUNT-DAVIS, Ben",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"LINDSAY, Andrew",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"SCARLETT, Fred",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"TRAPMORE, Steve",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"WEST, Kieran",GBR,Men,eight with coxswain (8+),M,Gold
+Rowing,Rowing,"BURKE, Daniel",AUS,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"FERNANDEZ, Jaime",AUS,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"GORDON, Alastair",AUS,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"HAYMAN, Brett",AUS,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"JAHRLING, Rob",AUS,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"MCKAY, Mike",AUS,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"PORZIG, Nicholas",AUS,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"RYAN, Christian",AUS,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"WELCH, Stuart",AUS,Men,eight with coxswain (8+),M,Silver
+Rowing,Rowing,"ALEXANDER, Buffy",CAN,Women,eight with coxswain (8+),W,Bronze
+Rowing,Rowing,"BIESENTHAL, Laryssa",CAN,Women,eight with coxswain (8+),W,Bronze
+Rowing,Rowing,"DAVIS, Heather",CAN,Women,eight with coxswain (8+),W,Bronze
+Rowing,Rowing,"KORN, Alison",CAN,Women,eight with coxswain (8+),W,Bronze
+Rowing,Rowing,"LUKE, Theresa",CAN,Women,eight with coxswain (8+),W,Bronze
+Rowing,Rowing,"MCDERMID, Heather",CAN,Women,eight with coxswain (8+),W,Bronze
+Rowing,Rowing,"ROBINSON, Emma",CAN,Women,eight with coxswain (8+),W,Bronze
+Rowing,Rowing,"THOMPSON, Lesley Allison",CAN,Women,eight with coxswain (8+),W,Bronze
+Rowing,Rowing,"URBANIAK, Dorota",CAN,Women,eight with coxswain (8+),W,Bronze
+Rowing,Rowing,"ANDRUNACHE, Georgeta",ROU,Women,eight with coxswain (8+),W,Gold
+Rowing,Rowing,"COCHELEA, Veronica",ROU,Women,eight with coxswain (8+),W,Gold
+Rowing,Rowing,"DUMITRACHE, Maria Magdalena",ROU,Women,eight with coxswain (8+),W,Gold
+Rowing,Rowing,"GAFENCU, Liliana",ROU,Women,eight with coxswain (8+),W,Gold
+Rowing,Rowing,"GEORGESCU, Elena",ROU,Women,eight with coxswain (8+),W,Gold
+Rowing,Rowing,"IGNAT, Doina",ROU,Women,eight with coxswain (8+),W,Gold
+Rowing,Rowing,"LIPA, Elisabeta",ROU,Women,eight with coxswain (8+),W,Gold
+Rowing,Rowing,"OLTEANU, Ioana",ROU,Women,eight with coxswain (8+),W,Gold
+Rowing,Rowing,"SUSANU, Viorica",ROU,Women,eight with coxswain (8+),W,Gold
+Rowing,Rowing,"APPELDOORN, Tessa",NED,Women,eight with coxswain (8+),W,Silver
+Rowing,Rowing,"BEEK TER, Carin",NED,Women,eight with coxswain (8+),W,Silver
+Rowing,Rowing,"MEIJER, Elien",NED,Women,eight with coxswain (8+),W,Silver
+Rowing,Rowing,"PENNINX, Nelleke",NED,Women,eight with coxswain (8+),W,Silver
+Rowing,Rowing,"QUIK, Martijntje",NED,Women,eight with coxswain (8+),W,Silver
+Rowing,Rowing,"VAN DISHOECK, Pieta",NED,Women,eight with coxswain (8+),W,Silver
+Rowing,Rowing,"VAN NES, Eeke",NED,Women,eight with coxswain (8+),W,Silver
+Rowing,Rowing,"VENEMA, Anneke",NED,Women,eight with coxswain (8+),W,Silver
+Rowing,Rowing,"WESTERHOF, Marieke",NED,Women,eight with coxswain (8+),W,Silver
+Rowing,Rowing,"DODWELL, Ben Philip",AUS,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"HANSON, Boden Joseph",AUS,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"STEWART, Geoff",AUS,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"STEWART, James",AUS,Men,four without coxswain (4-),M,Bronze
+Rowing,Rowing,"CRACKNELL, James",GBR,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"FOSTER, Tim James",GBR,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"PINSENT, Matthew",GBR,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"REDGRAVE, Steven",GBR,Men,four without coxswain (4-),M,Gold
+Rowing,Rowing,"CARBONCINI, Lorenzo",ITA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"DEI ROSSI, Riccardo",ITA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"MOLEA, Walter",ITA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"MORNATI, Carlo",ITA,Men,four without coxswain (4-),M,Silver
+Rowing,Rowing,"EBBESEN, Eskild Balschmidt",DEN,Men,lightweight coxless four (4-),M,Bronze
+Rowing,Rowing,"EBERT, Thomas",DEN,Men,lightweight coxless four (4-),M,Bronze
+Rowing,Rowing,"FEDDERSEN, Victor",DEN,Men,lightweight coxless four (4-),M,Bronze
+Rowing,Rowing,"MADSEN, Soren",DEN,Men,lightweight coxless four (4-),M,Bronze
+Rowing,Rowing,"BETTE, Jean-Christophe",FRA,Men,lightweight coxless four (4-),M,Gold
+Rowing,Rowing,"DORFMANN, Xavier",FRA,Men,lightweight coxless four (4-),M,Gold
+Rowing,Rowing,"HOCDE, Yves",FRA,Men,lightweight coxless four (4-),M,Gold
+Rowing,Rowing,"PORCHIER, Laurent",FRA,Men,lightweight coxless four (4-),M,Gold
+Rowing,Rowing,"BALMFORTH, Darren",AUS,Men,lightweight coxless four (4-),M,Silver
+Rowing,Rowing,"BURGESS, Simon",AUS,Men,lightweight coxless four (4-),M,Silver
+Rowing,Rowing,"EDWARDS, Anthony",AUS,Men,lightweight coxless four (4-),M,Silver
+Rowing,Rowing,"RICHARDS, Robert",AUS,Men,lightweight coxless four (4-),M,Silver
+Rowing,Rowing,"CHAPELLE, Thibaud",FRA,Men,lightweight double sculls (2x),M,Bronze
+Rowing,Rowing,"TOURON, Pascal",FRA,Men,lightweight double sculls (2x),M,Bronze
+Rowing,Rowing,"KUCHARSKI, Tomasz",POL,Men,lightweight double sculls (2x),M,Gold
+Rowing,Rowing,"SYCZ, Robert",POL,Men,lightweight double sculls (2x),M,Gold
+Rowing,Rowing,"LUINI, Elia",ITA,Men,lightweight double sculls (2x),M,Silver
+Rowing,Rowing,"PETTINARI, Leonardo",ITA,Men,lightweight double sculls (2x),M,Silver
+Rowing,Rowing,"COLLINS, Christine",USA,Women,lightweight double sculls (2x),W,Bronze
+Rowing,Rowing,"GARNER, Sarah",USA,Women,lightweight double sculls (2x),W,Bronze
+Rowing,Rowing,"ALUPEI, Angela",ROU,Women,lightweight double sculls (2x),W,Gold
+Rowing,Rowing,"BURCICA, Constanta",ROU,Women,lightweight double sculls (2x),W,Gold
+Rowing,Rowing,"BLASBERG, Claudia",GER,Women,lightweight double sculls (2x),W,Silver
+Rowing,Rowing,"VIEHOFF, Valerie",GER,Women,lightweight double sculls (2x),W,Silver
+Rowing,Rowing,"KRAFT, Karen",USA,Women,pair without coxswain (2-),W,Bronze
+Rowing,Rowing,"RYAN, Melissa",USA,Women,pair without coxswain (2-),W,Bronze
+Rowing,Rowing,"ANDRUNACHE, Georgeta",ROU,Women,pair without coxswain (2-),W,Gold
+Rowing,Rowing,"IGNAT, Doina",ROU,Women,pair without coxswain (2-),W,Gold
+Rowing,Rowing,"SLATTER, Kate Elizabeth",AUS,Women,pair without coxswain (2-),W,Silver
+Rowing,Rowing,"TAYLOR, Rachael",AUS,Women,pair without coxswain (2-),W,Silver
+Rowing,Rowing,"GEISLER, Marco",GER,Men,quadruple sculls without coxswain (4x),M,Bronze
+Rowing,Rowing,"HAJEK, Andreas",GER,Men,quadruple sculls without coxswain (4x),M,Bronze
+Rowing,Rowing,"VOLKERT, Stephan",GER,Men,quadruple sculls without coxswain (4x),M,Bronze
+Rowing,Rowing,"WILLMS, Andre",GER,Men,quadruple sculls without coxswain (4x),M,Bronze
+Rowing,Rowing,"ABBAGNALE, Agostino",ITA,Men,quadruple sculls without coxswain (4x),M,Gold
+Rowing,Rowing,"GALTAROSSA, Rossano",ITA,Men,quadruple sculls without coxswain (4x),M,Gold
+Rowing,Rowing,"RAINERI, Simone",ITA,Men,quadruple sculls without coxswain (4x),M,Gold
+Rowing,Rowing,"SARTORI, Alessio",ITA,Men,quadruple sculls without coxswain (4x),M,Gold
+Rowing,Rowing,"BARTMAN, Michiel",NED,Men,quadruple sculls without coxswain (4x),M,Silver
+Rowing,Rowing,"LIPPITS, Dirk",NED,Men,quadruple sculls without coxswain (4x),M,Silver
+Rowing,Rowing,"SIMON, Diederik",NED,Men,quadruple sculls without coxswain (4x),M,Silver
+Rowing,Rowing,"VERBERNE, Jochem",NED,Men,quadruple sculls without coxswain (4x),M,Silver
+Rowing,Rowing,"DORODNOVA, Oxana",RUS,Women,quadruple sculls without coxswain (4x),W,Bronze
+Rowing,Rowing,"FEDOTOVA, Irina",RUS,Women,quadruple sculls without coxswain (4x),W,Bronze
+Rowing,Rowing,"LEVINA, Yulia",RUS,Women,quadruple sculls without coxswain (4x),W,Bronze
+Rowing,Rowing,"MERK, Larisa",RUS,Women,quadruple sculls without coxswain (4x),W,Bronze
+Rowing,Rowing,"EVERS, Meike",GER,Women,quadruple sculls without coxswain (4x),W,Gold
+Rowing,Rowing,"KOWALSKI, Kerstin",GER,Women,quadruple sculls without coxswain (4x),W,Gold
+Rowing,Rowing,"KOWALSKI, Manja",GER,Women,quadruple sculls without coxswain (4x),W,Gold
+Rowing,Rowing,"LUTZE, Manuela",GER,Women,quadruple sculls without coxswain (4x),W,Gold
+Rowing,Rowing,"BATTEN, Guin",GBR,Women,quadruple sculls without coxswain (4x),W,Silver
+Rowing,Rowing,"BATTEN, Miriam",GBR,Women,quadruple sculls without coxswain (4x),W,Silver
+Rowing,Rowing,"GRAINGER, Katherine",GBR,Women,quadruple sculls without coxswain (4x),W,Silver
+Rowing,Rowing,"LINDSAY, Gillian Anne",GBR,Women,quadruple sculls without coxswain (4x),W,Silver
+Rowing,Rowing,"HACKER, Marcel",GER,Men,single sculls (1x),M,Bronze
+Rowing,Rowing,"WADDELL, Rob",NZL,Men,single sculls (1x),M,Gold
+Rowing,Rowing,"MUELLER, Xeno",SUI,Men,single sculls (1x),M,Silver
+Rowing,Rowing,"RUTSCHOW, Katrin",GER,Women,single sculls (1x),W,Bronze
+Rowing,Rowing,"KARSTEN, Ekaterina",BLR,Women,single sculls (1x),W,Gold
+Rowing,Rowing,"NEYKOVA, Rumyana",BUL,Women,single sculls (1x),W,Silver
+Sailing,Sailing,"CONTE, Javier",ARG,Men,470 - Two Person Dinghy,M,Bronze
+Sailing,Sailing,"DE LA FUENTE, Juan",ARG,Men,470 - Two Person Dinghy,M,Bronze
+Sailing,Sailing,"KING, Tom",AUS,Men,470 - Two Person Dinghy,M,Gold
+Sailing,Sailing,"TURNBULL, Mark",AUS,Men,470 - Two Person Dinghy,M,Gold
+Sailing,Sailing,"FOERSTER, Paul",USA,Men,470 - Two Person Dinghy,M,Silver
+Sailing,Sailing,"MERRICK, Robert",USA,Men,470 - Two Person Dinghy,M,Silver
+Sailing,Sailing,"PAKHOLCHIK, Olena",UKR,Women,470 - Two Person Dinghy,W,Bronze
+Sailing,Sailing,"TARAN, Ruslana",UKR,Women,470 - Two Person Dinghy,W,Bronze
+Sailing,Sailing,"ARMSTRONG, Jenny",AUS,Women,470 - Two Person Dinghy,W,Gold
+Sailing,Sailing,"STOWELL, Belinda",AUS,Women,470 - Two Person Dinghy,W,Gold
+Sailing,Sailing,"GLASER, Sarah",USA,Women,470 - Two Person Dinghy,W,Silver
+Sailing,Sailing,"ISLER, Jennifer",USA,Women,470 - Two Person Dinghy,W,Silver
+Sailing,Sailing,"MCKEE, Charles",USA,Men,49er - Skiff,X,Bronze
+Sailing,Sailing,"MCKEE, Jonathan Dunn",USA,Men,49er - Skiff,X,Bronze
+Sailing,Sailing,"JARVI, Jyrki",FIN,Men,49er - Skiff,X,Gold
+Sailing,Sailing,"JOHANSON, Thomas",FIN,Men,49er - Skiff,X,Gold
+Sailing,Sailing,"BARKER, Ian",GBR,Men,49er - Skiff,X,Silver
+Sailing,Sailing,"HISCOCKS, Simon",GBR,Men,49er - Skiff,X,Silver
+Sailing,Sailing,"MCINTOSH, Aaron",NZL,Men,board (Mistral),M,Bronze
+Sailing,Sailing,"SIEBER, Christoph",AUT,Men,board (Mistral),M,Gold
+Sailing,Sailing,"ESPINOLA, Carlos",ARG,Men,board (Mistral),M,Silver
+Sailing,Sailing,"KENDALL, Barbara",NZL,Women,board (Mistral),W,Bronze
+Sailing,Sailing,"SENSINI, Alessandra",ITA,Women,board (Mistral),W,Gold
+Sailing,Sailing,"LUX, Amelie",GER,Women,board (Mistral),W,Silver
+Sailing,Sailing,"DAVIS, Paul",NOR,Men,fleet/match race keelboat open (Soling),X,Bronze
+Sailing,Sailing,"JOHANNESSEN, Herman Horn",NOR,Men,fleet/match race keelboat open (Soling),X,Bronze
+Sailing,Sailing,"STOKKELAND, Espen",NOR,Men,fleet/match race keelboat open (Soling),X,Bronze
+Sailing,Sailing,"BANK, Jesper",DEN,Men,fleet/match race keelboat open (Soling),X,Gold
+Sailing,Sailing,"BLAKSKJAER, Henrik",DEN,Men,fleet/match race keelboat open (Soling),X,Gold
+Sailing,Sailing,"JACOBSEN, Thomas",DEN,Men,fleet/match race keelboat open (Soling),X,Gold
+Sailing,Sailing,"BAHR, Gunnar",GER,Men,fleet/match race keelboat open (Soling),X,Silver
+Sailing,Sailing,"BORKOWSKI, Ingo",GER,Men,fleet/match race keelboat open (Soling),X,Silver
+Sailing,Sailing,"SCH?MANN, Jochen",GER,Men,fleet/match race keelboat open (Soling),X,Silver
+Sailing,Sailing,"AMATO, Serena",ARG,Women,single-handed dinghy (Europe),W,Bronze
+Sailing,Sailing,"ROBERTSON, Shirley",GBR,Women,single-handed dinghy (Europe),W,Gold
+Sailing,Sailing,"MATTHIJSSE, Margriet",NED,Women,single-handed dinghy (Europe),W,Silver
+Sailing,Sailing,"LOOF, Fredrik",SWE,Men,single-handed dinghy (Finn),M,Bronze
+Sailing,Sailing,"PERCY, Iain",GBR,Men,single-handed dinghy (Finn),M,Gold
+Sailing,Sailing,"DEVOTI, Luca",ITA,Men,single-handed dinghy (Finn),M,Silver
+Sailing,Sailing,"BLACKBURN, Michael",AUS,Men,single-handed dinghy open (Laser),X,Bronze
+Sailing,Sailing,"AINSLIE, Ben",GBR,Men,single-handed dinghy open (Laser),X,Gold
+Sailing,Sailing,"SCHEIDT, Robert",BRA,Men,single-handed dinghy open (Laser),X,Silver
+Sailing,Sailing,"GAEBLER, Roland",GER,Men,Tornado - Multihull,X,Bronze
+Sailing,Sailing,"SCHWALL, Rene",GER,Men,Tornado - Multihull,X,Bronze
+Sailing,Sailing,"HAGARA, Roman",AUT,Men,Tornado - Multihull,X,Gold
+Sailing,Sailing,"STEINACHER, Hans Peter",AUT,Men,Tornado - Multihull,X,Gold
+Sailing,Sailing,"BUNDOCK, Darren",AUS,Men,Tornado - Multihull,X,Silver
+Sailing,Sailing,"FORBES, John",AUS,Men,Tornado - Multihull,X,Silver
+Sailing,Sailing,"FERREIRA, Marcelo",BRA,Men,two-person keelboat open (Star),X,Bronze
+Sailing,Sailing,"GRAEL, Torben",BRA,Men,two-person keelboat open (Star),X,Bronze
+Sailing,Sailing,"LILJEDAHL, Magnus",USA,Men,two-person keelboat open (Star),X,Gold
+Sailing,Sailing,"REYNOLDS, Mark Jeffrey",USA,Men,two-person keelboat open (Star),X,Gold
+Sailing,Sailing,"COVELL, Mark",GBR,Men,two-person keelboat open (Star),X,Silver
+Sailing,Sailing,"WALKER, Ian",GBR,Men,two-person keelboat open (Star),X,Silver
+Shooting,Shooting,"FORDER, Annemarie",AUS,Women,10m air pistol (40 shots),W,Bronze
+Shooting,Shooting,"TAO, Luna",CHN,Women,10m air pistol (40 shots),W,Gold
+Shooting,Shooting,"SEKARIC, Jasna",YUG,Women,10m air pistol (40 shots),W,Silver
+Shooting,Shooting,"BASINSKI, Igor",BLR,Men,10m air pistol (60 shots),M,Bronze
+Shooting,Shooting,"DUMOULIN, Franck",FRA,Men,10m air pistol (60 shots),M,Gold
+Shooting,Shooting,"WANG, Yifu",CHN,Men,10m air pistol (60 shots),M,Silver
+Shooting,Shooting,"GAO, Jing",CHN,Women,10m air rifle (40 shots),W,Bronze
+Shooting,Shooting,"JOHNSON, Nancy",USA,Women,10m air rifle (40 shots),W,Gold
+Shooting,Shooting,"KANG, Cho-Hyun",KOR,Women,10m air rifle (40 shots),W,Silver
+Shooting,Shooting,"ALEINIKOV, Evgeni",RUS,Men,10m air rifle (60 shots),M,Bronze
+Shooting,Shooting,"CAI, Yalin",CHN,Men,10m air rifle (60 shots),M,Gold
+Shooting,Shooting,"KHADJIBEKOV, Artem",RUS,Men,10m air rifle (60 shots),M,Silver
+Shooting,Shooting,"NIU, Zhiyuan",CHN,Men,10m running target (30+30 shots),M,Bronze
+Shooting,Shooting,"YANG, Ling",CHN,Men,10m running target (30+30 shots),M,Gold
+Shooting,Shooting,"MOLDOVAN, Oleg",MDA,Men,10m running target (30+30 shots),M,Silver
+Shooting,Shooting,"EVGLEVSKAYA, Lolita",BLR,Women,25m pistol (30+30 shots),W,Bronze
+Shooting,Shooting,"GROZDEVA, Maria",BUL,Women,25m pistol (30+30 shots),W,Gold
+Shooting,Shooting,"TAO, Luna",CHN,Women,25m pistol (30+30 shots),W,Silver
+Shooting,Shooting,"RAICEA, Iulian",ROU,Men,25m rapid fire pistol (60 shots),M,Bronze
+Shooting,Shooting,"ALIFIRENKO, Sergei",RUS,Men,25m rapid fire pistol (60 shots),M,Gold
+Shooting,Shooting,"ANSERMET, Michel",SUI,Men,25m rapid fire pistol (60 shots),M,Silver
+Shooting,Shooting,"TENK, Martin",CZE,Men,50m pistol (60 shots),M,Bronze
+Shooting,Shooting,"KIRIAKOV, Tanyu",BUL,Men,50m pistol (60 shots),M,Gold
+Shooting,Shooting,"BASINSKI, Igor",BLR,Men,50m pistol (60 shots),M,Silver
+Shooting,Shooting,"FEKLISTOVA, Maria",RUS,Women,50m rifle 3 positions (3x20 shots),W,Bronze
+Shooting,Shooting,"MAUER, Renata",POL,Women,50m rifle 3 positions (3x20 shots),W,Gold
+Shooting,Shooting,"GOLDOBINA, Tatiana",RUS,Women,50m rifle 3 positions (3x20 shots),W,Silver
+Shooting,Shooting,"STENVAAG, Harald",NOR,Men,50m rifle 3 positions (3x40 shots),M,Bronze
+Shooting,Shooting,"DEBEVEC, Rajmond",SLO,Men,50m rifle 3 positions (3x40 shots),M,Gold
+Shooting,Shooting,"HIRVI, Juha",FIN,Men,50m rifle 3 positions (3x40 shots),M,Silver
+Shooting,Shooting,"MARTYNOV, Sergei",BLR,Men,50m rifle prone (60 shots),M,Bronze
+Shooting,Shooting,"EDMAN, Jonas",SWE,Men,50m rifle prone (60 shots),M,Gold
+Shooting,Shooting,"GRIMMEL, Torben",DEN,Men,50m rifle prone (60 shots),M,Silver
+Shooting,Shooting,"RHODE, Kimberly",USA,Women,double trap (120 targets),W,Bronze
+Shooting,Shooting,"HANSEN, Pia",SWE,Women,double trap (120 targets),W,Gold
+Shooting,Shooting,"GELISIO, Deborah",ITA,Women,double trap (120 targets),W,Silver
+Shooting,Shooting,"ALDEEHANI, Fehaid",KUW,Men,double trap (150 targets),M,Bronze
+Shooting,Shooting,"FAULDS, Richard",GBR,Men,double trap (150 targets),M,Gold
+Shooting,Shooting,"MARK, Russell",AUS,Men,double trap (150 targets),M,Silver
+Shooting,Shooting,"GRAVES, James",USA,Men,skeet (125 targets),M,Bronze
+Shooting,Shooting,"MILCHEV, Mykola",UKR,Men,skeet (125 targets),M,Gold
+Shooting,Shooting,"MALEK, Petr",CZE,Men,skeet (125 targets),M,Silver
+Shooting,Shooting,"IGALY, Diana",HUN,Women,skeet (75 targets),W,Bronze
+Shooting,Shooting,"MEFTAKHETDINOVA, Zemfira",AZE,Women,skeet (75 targets),W,Gold
+Shooting,Shooting,"DEMINA, Svetlana",RUS,Women,skeet (75 targets),W,Silver
+Shooting,Shooting,"PELLIELO, Giovanni",ITA,Men,trap (125 targets),M,Bronze
+Shooting,Shooting,"DIAMOND, Michael",AUS,Men,trap (125 targets),M,Gold
+Shooting,Shooting,"PEEL, Ian",GBR,Men,trap (125 targets),M,Silver
+Shooting,Shooting,"GAO, E",CHN,Women,trap (75 targets),W,Bronze
+Shooting,Shooting,"GUDZINEVICIUTE, Daina",LTU,Women,trap (75 targets),W,Gold
+Shooting,Shooting,"RACINET, Delphine",FRA,Women,trap (75 targets),W,Silver
+Softball,Softball,"ALLEN, Sandra",AUS,Women,softball,W,Bronze
+Softball,Softball,"BROWN, Joanne",AUS,Women,softball,W,Bronze
+Softball,Softball,"DIENELT, Kerry",AUS,Women,softball,W,Bronze
+Softball,Softball,"EDEBONE, Peta",AUS,Women,softball,W,Bronze
+Softball,Softball,"FAIRHURST, Sue",AUS,Women,softball,W,Bronze
+Softball,Softball,"FOLLAS, Selina",AUS,Women,softball,W,Bronze
+Softball,Softball,"HANES, Fiona",AUS,Women,softball,W,Bronze
+Softball,Softball,"HARDIE, Kelly",AUS,Women,softball,W,Bronze
+Softball,Softball,"HARDING, Tanya",AUS,Women,softball,W,Bronze
+Softball,Softball,"MCDERMID, Sally",AUS,Women,softball,W,Bronze
+Softball,Softball,"MORROW, Simmone",AUS,Women,softball,W,Bronze
+Softball,Softball,"ROCHE, Melanie",AUS,Women,softball,W,Bronze
+Softball,Softball,"TITCUME, Natalie",AUS,Women,softball,W,Bronze
+Softball,Softball,"WARD, Natalie",AUS,Women,softball,W,Bronze
+Softball,Softball,"WILKINS, Brooke",AUS,Women,softball,W,Bronze
+Softball,Softball,"AMBROSI, Christie",USA,Women,softball,W,Gold
+Softball,Softball,"BERG, Laura",USA,Women,softball,W,Gold
+Softball,Softball,"BRUNDAGE, Jennifer",USA,Women,softball,W,Gold
+Softball,Softball,"BUSTOS, Crystl",USA,Women,softball,W,Gold
+Softball,Softball,"CORNELL, Sheila",USA,Women,softball,W,Gold
+Softball,Softball,"FERNANDEZ, Lisa",USA,Women,softball,W,Gold
+Softball,Softball,"HARRIGAN, Lori",USA,Women,softball,W,Gold
+Softball,Softball,"HENDERSON, Danielle",USA,Women,softball,W,Gold
+Softball,Softball,"MCFALLS, Jennifer",USA,Women,softball,W,Gold
+Softball,Softball,"NUVEMAN, Stacey",USA,Women,softball,W,Gold
+Softball,Softball,"O'BRIEN, Leah",USA,Women,softball,W,Gold
+Softball,Softball,"RICHARDSON, Dorothy",USA,Women,softball,W,Gold
+Softball,Softball,"SMITH, Michele",USA,Women,softball,W,Gold
+Softball,Softball,"VENTURELLA, Michelle",USA,Women,softball,W,Gold
+Softball,Softball,"WILLIAMS, Christa Lee",USA,Women,softball,W,Gold
+Softball,Softball,"ANDO, Misako",JPN,Women,softball,W,Silver
+Softball,Softball,"FUJII, Yumiko",JPN,Women,softball,W,Silver
+Softball,Softball,"ISHIKAWA, Taeko",JPN,Women,softball,W,Silver
+Softball,Softball,"ITO, Kazue",JPN,Women,softball,W,Silver
+Softball,Softball,"KOBAYASHI, Yoshimi",JPN,Women,softball,W,Silver
+Softball,Softball,"KOSEKI, Shiori",JPN,Women,softball,W,Silver
+Softball,Softball,"MASUBUCHI, Mariko",JPN,Women,softball,W,Silver
+Softball,Softball,"MATSUMOTO, Naomi",JPN,Women,softball,W,Silver
+Softball,Softball,"NAITO, Emi",JPN,Women,softball,W,Silver
+Softball,Softball,"SAITO, Haruka",JPN,Women,softball,W,Silver
+Softball,Softball,"TAKAYAMA, Juri",JPN,Women,softball,W,Silver
+Softball,Softball,"TAMOTO, Hiroko",JPN,Women,softball,W,Silver
+Softball,Softball,"UTSUGI, Reika",JPN,Women,softball,W,Silver
+Softball,Softball,"YAMADA, Miyo",JPN,Women,softball,W,Silver
+Softball,Softball,"YAMAJI, Noriko",JPN,Women,softball,W,Silver
+Table Tennis,Table Tennis,"CHILA, Patrick Antoine Edouard",FRA,Men,doubles,M,Bronze
+Table Tennis,Table Tennis,"GATIEN, Jean-Philippe",FRA,Men,doubles,M,Bronze
+Table Tennis,Table Tennis,"WANG, Liqin",CHN,Men,doubles,M,Gold
+Table Tennis,Table Tennis,"YAN, Sen",CHN,Men,doubles,M,Gold
+Table Tennis,Table Tennis,"KONG, Linghui",CHN,Men,doubles,M,Silver
+Table Tennis,Table Tennis,"LIU, Guoliang",CHN,Men,doubles,M,Silver
+Table Tennis,Table Tennis,"KIM, Moo-Kyo",KOR,Women,doubles,W,Bronze
+Table Tennis,Table Tennis,"RYU, Ji-Hye",KOR,Women,doubles,W,Bronze
+Table Tennis,Table Tennis,"LI, Ju",CHN,Women,doubles,W,Gold
+Table Tennis,Table Tennis,"WANG, Nan",CHN,Women,doubles,W,Gold
+Table Tennis,Table Tennis,"SUN, Jin",CHN,Women,doubles,W,Silver
+Table Tennis,Table Tennis,"YANG, Ying",CHN,Women,doubles,W,Silver
+Table Tennis,Table Tennis,"LIU, Guoliang",CHN,Men,singles,M,Bronze
+Table Tennis,Table Tennis,"KONG, Linghui",CHN,Men,singles,M,Gold
+Table Tennis,Table Tennis,"WALDNER, Jan-Ove",SWE,Men,singles,M,Silver
+Table Tennis,Table Tennis,"CHEN, Jing",TPE,Women,singles,W,Bronze
+Table Tennis,Table Tennis,"WANG, Nan",CHN,Women,singles,W,Gold
+Table Tennis,Table Tennis,"LI, Ju",CHN,Women,singles,W,Silver
+Taekwondo,Taekwondo,"CHI, Shu-Ju",TPE,Women,- 49 kg,W,Bronze
+Taekwondo,Taekwondo,"BURNS, Lauren",AUS,Women,- 49 kg,W,Gold
+Taekwondo,Taekwondo,"MELENDEZ RODRIGUEZ, Urbia",CUB,Women,- 49 kg,W,Silver
+Taekwondo,Taekwondo,"HUANG, Chih Hsiung",TPE,Men,- 58 kg,M,Bronze
+Taekwondo,Taekwondo,"MOUROUTSOS, Michail",GRE,Men,- 58 kg,M,Gold
+Taekwondo,Taekwondo,"ESPARZA, Gabriel",ESP,Men,- 58 kg,M,Silver
+Taekwondo,Taekwondo,"BOSSHART, Dominique",CAN,Women,+ 67 kg,W,Bronze
+Taekwondo,Taekwondo,"CHEN, Zhong",CHN,Women,+ 67 kg,W,Gold
+Taekwondo,Taekwondo,"IVANOVA, Natalia",RUS,Women,+ 67 kg,W,Silver
+Taekwondo,Taekwondo,"GENTIL, Pascal",FRA,Men,+ 80 kg,M,Bronze
+Taekwondo,Taekwondo,"KIM, Kyong-Hun",KOR,Men,+ 80 kg,M,Gold
+Taekwondo,Taekwondo,"TRENTON, Daniel",AUS,Men,+ 80 kg,M,Silver
+Taekwondo,Taekwondo,"BIKCIN, Hamide",TUR,Women,49 - 57 kg,W,Bronze
+Taekwondo,Taekwondo,"JUNG, Jae-Eun",KOR,Women,49 - 57 kg,W,Gold
+Taekwondo,Taekwondo,"TRAN, Hieu Ngan",VIE,Women,49 - 57 kg,W,Silver
+Taekwondo,Taekwondo,"OKAMOTO, Yoriko",JPN,Women,57 - 67 kg,W,Bronze
+Taekwondo,Taekwondo,"LEE, Sun-Hee",KOR,Women,57 - 67 kg,W,Gold
+Taekwondo,Taekwondo,"GUNDERSEN, Trude",NOR,Women,57 - 67 kg,W,Silver
+Taekwondo,Taekwondo,"SAEI, Hadi",IRI,Men,58 - 68 kg,M,Bronze
+Taekwondo,Taekwondo,"LOPEZ, Steven",USA,Men,58 - 68 kg,M,Gold
+Taekwondo,Taekwondo,"SIN, Joon-Sik",KOR,Men,58 - 68 kg,M,Silver
+Taekwondo,Taekwondo,"ESTRADA GARIBAY, Victor Manuel",MEX,Men,68 - 80 kg,M,Bronze
+Taekwondo,Taekwondo,"MATOS, Angel Valodia",CUB,Men,68 - 80 kg,M,Gold
+Taekwondo,Taekwondo,"EBNOUTALIB, Faissal",GER,Men,68 - 80 kg,M,Silver
+Tennis,Tennis,"CORRETJA, Alex",ESP,Men,doubles,M,Bronze
+Tennis,Tennis,"COSTA, Alberto",ESP,Men,doubles,M,Bronze
+Tennis,Tennis,"LAREAU, Sebastien",CAN,Men,doubles,M,Gold
+Tennis,Tennis,"NESTOR, Daniel",CAN,Men,doubles,M,Gold
+Tennis,Tennis,"WOODBRIDGE, Todd",AUS,Men,doubles,M,Silver
+Tennis,Tennis,"WOODFORDE, Mark",AUS,Men,doubles,M,Silver
+Tennis,Tennis,"CALLENS, Els",BEL,Women,doubles,W,Bronze
+Tennis,Tennis,"VAN ROOST, Dominique",BEL,Women,doubles,W,Bronze
+Tennis,Tennis,"WILLIAMS, Serena",USA,Women,doubles,W,Gold
+Tennis,Tennis,"WILLIAMS, Venus",USA,Women,doubles,W,Gold
+Tennis,Tennis,"BOOGERT, Kristie",NED,Women,doubles,W,Silver
+Tennis,Tennis,"OREMANS, Miriam",NED,Women,doubles,W,Silver
+Tennis,Tennis,"DI PASQUALE, Arnaud",FRA,Men,singles,M,Bronze
+Tennis,Tennis,"KAFELNIKOV, Eugueni",RUS,Men,singles,M,Gold
+Tennis,Tennis,"HAAS, Tommy",GER,Men,singles,M,Silver
+Tennis,Tennis,"SELES, Monica",USA,Women,singles,W,Bronze
+Tennis,Tennis,"WILLIAMS, Venus",USA,Women,singles,W,Gold
+Tennis,Tennis,"DEMENTIEVA, Elena",RUS,Women,singles,W,Silver
+Triathlon,Triathlon,"REHULA, Jan",CZE,Men,Individual,M,Bronze
+Triathlon,Triathlon,"WHITFIELD, Simon",CAN,Men,Individual,M,Gold
+Triathlon,Triathlon,"VUCKOVIC, Stephan",GER,Men,Individual,M,Silver
+Triathlon,Triathlon,"MESSMER, Magali",SUI,Women,Individual,W,Bronze
+Triathlon,Triathlon,"MCMAHON, Brigitte",SUI,Women,Individual,W,Gold
+Triathlon,Triathlon,"JONES, Michellie",AUS,Women,Individual,W,Silver
+Volleyball,Beach volley.,"AHMANN, J?rg",GER,Men,beach volleyball,M,Bronze
+Volleyball,Beach volley.,"HAGER, Axel",GER,Men,beach volleyball,M,Bronze
+Volleyball,Beach volley.,"BLANTON, Dain",USA,Men,beach volleyball,M,Gold
+Volleyball,Beach volley.,"FONOIMOANA, Eric",USA,Men,beach volleyball,M,Gold
+Volleyball,Beach volley.,"MELO, Jose Marco",BRA,Men,beach volleyball,M,Silver
+Volleyball,Beach volley.,"SANTOS, Ricardo",BRA,Men,beach volleyball,M,Silver
+Volleyball,Beach volley.,"PIRES, Sandra",BRA,Women,beach volleyball,W,Bronze
+Volleyball,Beach volley.,"SAMUEL RAMOS, Adriana",BRA,Women,beach volleyball,W,Bronze
+Volleyball,Beach volley.,"COOK, Natalie",AUS,Women,beach volleyball,W,Gold
+Volleyball,Beach volley.,"POTTHARST, Kerri",AUS,Women,beach volleyball,W,Gold
+Volleyball,Beach volley.,"BEDE, Shelda",BRA,Women,beach volleyball,W,Silver
+Volleyball,Beach volley.,"BEHAR, Adriana",BRA,Women,beach volleyball,W,Silver
+Volleyball,Volleyball,"BRACCI, Marco",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"CORSANO, Mirko",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"FEI, Alessandro",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"GARDINI, Andrea",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"GIANI, Andrea",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"GRAVINA, Pasquale",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"MASTRANGELO, Luigi",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"MEONI, Marco",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"PAPI, Samuele",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"ROSALBA, Simone",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"SARTORETTI, Andrea",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"TOFOLI, Paolo",ITA,Men,volleyball,M,Bronze
+Volleyball,Volleyball,"BATEZ, Vladimir",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"BOSKAN, Slobodan",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"GERIC, Andrija",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"GRBIC, Nikola",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"GRBIC, Vladimir",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"KOVAC, Slobodan",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"MESTER, Djula",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"MIJIC, Vasa",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"MILJKOVIC, Ivan",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"PETKOVIC, Veljko",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"VUJEVIC, Goran",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"VUSUROVIC, Igor",YUG,Men,volleyball,M,Gold
+Volleyball,Volleyball,"CHOULEPOV, Igor",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"GORYUSHEV, Valeriy",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"GUERASSIMOV, Alexandre",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"IAKOVLEV, Roman",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"KAZAKOV, Alexei",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"KHAMUTTSKIKH, Vadim",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"KULESHOV, Alexey",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"MITKOV, Evgueni",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"OLIKHVER, Ruslan",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"SAVELIEV, Ilia",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"TETYUKHIN, Sergey",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"USHAKOV, Konstantin",RUS,Men,volleyball,M,Silver
+Volleyball,Volleyball,"BARROS, Leila",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"COIMBRA, Erika",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"CONCEICAO, Janina",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"DIAS, Virna",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"FRAGA, Kely",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"LIMA, Ricarda",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"LOPES, Katia",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"OLIVEIRA, Elisangela",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"OLIVEIRA, Walewska",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"RODRIGUES, Karin",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"SILVA, Raquel",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"SOUZA, Helia",BRA,Women,volleyball,W,Bronze
+Volleyball,Volleyball,"AGUERO, Taimaris",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"BARROS, Zoila",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"BELL, Regla Maritza",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"COSTA, Marlenis",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"FERNANDEZ, Ana Ibis",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"FRANCIA, Mirka",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"GATO, Idalmis",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"IZQUIERDO, Lilia",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"LUIS, Alejandrina",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"RUIZ, Yumilka",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"SANCHEZ SALFRAN, Martha",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"TORRES, Regla",CUB,Women,volleyball,W,Gold
+Volleyball,Volleyball,"ARTAMONOVA, Evgenya",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"BELIKOVA, Anastassia",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"CHACHKOVA, Lioubov",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"GAMOVA, Ekaterina",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"GODINA, Elena",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"GRATCHEVA, Tatiana",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"MOROZOVA, Natalia",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"POTACHOVA, Olga",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"SARGSIAN, Inessa",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"TICHTCHENKO, Elizaveta",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"TYURINA, Elena",RUS,Women,volleyball,W,Silver
+Volleyball,Volleyball,"VASSILEVSKAIA, Elena",RUS,Women,volleyball,W,Silver
+Weightlifting,Weightlifting,"CHEMERKIN, Andrey",RUS,Men,+ 105kg,M,Bronze
+Weightlifting,Weightlifting,"REZA ZADEH, Hossein",IRI,Men,+ 105kg,M,Gold
+Weightlifting,Weightlifting,"WELLER, Ronny",GER,Men,+ 105kg,M,Silver
+Weightlifting,Weightlifting,"HAWORTH, Cheryl",USA,Women,+ 75kg,W,Bronze
+Weightlifting,Weightlifting,"DING, Meiyuan",CHN,Women,+ 75kg,W,Gold
+Weightlifting,Weightlifting,"WROBEL, Agata",POL,Women,+ 75kg,W,Silver
+Weightlifting,Weightlifting,"ASAAD, Said Saif",QAT,Men,105kg,M,Bronze
+Weightlifting,Weightlifting,"TAVAKOLI, Hossein",IRI,Men,105kg,M,Gold
+Weightlifting,Weightlifting,"TSAGAEV, Alan",BUL,Men,105kg,M,Silver
+Weightlifting,Weightlifting,"INDRIYANI, Sri",INA,Women,48kg,W,Bronze
+Weightlifting,Weightlifting,"NOTT, Tara",USA,Women,48kg,W,Gold
+Weightlifting,Weightlifting,"RUMBEWAS, Raema Lisa",INA,Women,48kg,W,Silver
+Weightlifting,Weightlifting,"SLAMET, Winarni Binti",INA,Women,53kg,W,Bronze
+Weightlifting,Weightlifting,"YANG, Xia",CHN,Women,53kg,W,Gold
+Weightlifting,Weightlifting,"LI, Feng-Ying",TPE,Women,53kg,W,Silver
+Weightlifting,Weightlifting,"ZHANG, Xiangxiang",CHN,Men,56kg,M,Bronze
+Weightlifting,Weightlifting,"MUTLU, Halil",TUR,Men,56kg,M,Gold
+Weightlifting,Weightlifting,"WU, Wenxiong",CHN,Men,56kg,M,Silver
+Weightlifting,Weightlifting,"SUTA, Khassaraporn",THA,Women,58kg,W,Bronze
+Weightlifting,Weightlifting,"JIMENEZ MENDIVIL, Soraya",MEX,Women,58kg,W,Gold
+Weightlifting,Weightlifting,"RI, Song Hui",PRK,Women,58kg,W,Silver
+Weightlifting,Weightlifting,"OLESHCHUK, Gennady",BLR,Men,62kg,M,Bronze
+Weightlifting,Weightlifting,"PECHALOV, Nikolay",CRO,Men,62kg,M,Gold
+Weightlifting,Weightlifting,"SAMPANIS, Leonidas",GRE,Men,62kg,M,Silver
+Weightlifting,Weightlifting,"CHATZIIOANNOU, Ioanna",GRE,Women,63kg,W,Bronze
+Weightlifting,Weightlifting,"CHEN, Xiaomin",CHN,Women,63kg,W,Gold
+Weightlifting,Weightlifting,"POPOVA, Valentina",RUS,Women,63kg,W,Silver
+Weightlifting,Weightlifting,"LAVRENOV, Sergei",BLR,Men,69kg,M,Bronze
+Weightlifting,Weightlifting,"BOEVSKI, Galabin",BUL,Men,69kg,M,Gold
+Weightlifting,Weightlifting,"MARKOV, Georgi",BUL,Men,69kg,M,Silver
+Weightlifting,Weightlifting,"MALLESWARI, Karnam",IND,Women,69kg,W,Bronze
+Weightlifting,Weightlifting,"LIN, Weining",CHN,Women,69kg,W,Gold
+Weightlifting,Weightlifting,"PERESZTEGINE MARKUS, Erzsebet",HUN,Women,69kg,W,Silver
+Weightlifting,Weightlifting,"KUO, Yi-Hang",TPE,Women,75kg,W,Bronze
+Weightlifting,Weightlifting,"URRUTIA, Maria Isabel",COL,Women,75kg,W,Gold
+Weightlifting,Weightlifting,"OGBEIFO, Ruth",NGR,Women,75kg,W,Silver
+Weightlifting,Weightlifting,"MELIKYAN, Arsen",ARM,Men,77kg,M,Bronze
+Weightlifting,Weightlifting,"ZHAN, Xugang",CHN,Men,77kg,M,Gold
+Weightlifting,Weightlifting,"MITROU, Viktor",GRE,Men,77kg,M,Silver
+Weightlifting,Weightlifting,"ASANIDZE, George",GEO,Men,85kg,M,Bronze
+Weightlifting,Weightlifting,"DIMAS, Pyrros",GRE,Men,85kg,M,Gold
+Weightlifting,Weightlifting,"HUSTER, Marc",GER,Men,85kg,M,Silver
+Weightlifting,Weightlifting,"PETROV, Aleksey",RUS,Men,94kg,M,Bronze
+Weightlifting,Weightlifting,"KAKIASVILIS, Akakios",GRE,Men,94kg,M,Gold
+Weightlifting,Weightlifting,"KOLECKI, Szymon",POL,Men,94kg,M,Silver
+Wrestling,Wrestling Free.,"KARNTANOV, Amiran",GRE,Men,48 - 54kg,M,Bronze
+Wrestling,Wrestling Free.,"ABDULLAYEV, Namig",AZE,Men,48 - 54kg,M,Gold
+Wrestling,Wrestling Free.,"HENSON, Samuel",USA,Men,48 - 54kg,M,Silver
+Wrestling,Wrestling Free.,"BRANDS, Terry",USA,Men,54 - 58kg,M,Bronze
+Wrestling,Wrestling Free.,"DABIR, Alireza",IRI,Men,54 - 58kg,M,Gold
+Wrestling,Wrestling Free.,"BUSLOVYCH, Yevgen",UKR,Men,54 - 58kg,M,Silver
+Wrestling,Wrestling Free.,"JANG, Jae-Sung",KOR,Men,58 - 63kg,M,Bronze
+Wrestling,Wrestling Free.,"OUMAKHANOV, Mourad",RUS,Men,58 - 63kg,M,Gold
+Wrestling,Wrestling Free.,"BARZAKOV, Serafim",BUL,Men,58 - 63kg,M,Silver
+Wrestling,Wrestling Free.,"MCILRAVY, Lincoln",USA,Men,63 - 69kg,M,Bronze
+Wrestling,Wrestling Free.,"IGALI, Daniel",CAN,Men,63 - 69kg,M,Gold
+Wrestling,Wrestling Free.,"GITINOV, Arsen",RUS,Men,63 - 69kg,M,Silver
+Wrestling,Wrestling Free.,"BEREKET, Adem",TUR,Men,69 - 76kg,M,Bronze
+Wrestling,Wrestling Free.,"SLAY, Brandon",USA,Men,69 - 76kg,M,Gold
+Wrestling,Wrestling Free.,"MOON, Eui Jae",KOR,Men,69 - 76kg,M,Silver
+Wrestling,Wrestling Free.,"IBRAGIMOV, Mogamed",MKD,Men,76 - 85kg,M,Bronze
+Wrestling,Wrestling Free.,"SAITIEV, Adam",RUS,Men,76 - 85kg,M,Gold
+Wrestling,Wrestling Free.,"ROMERO, Yoel",CUB,Men,76 - 85kg,M,Silver
+Wrestling,Wrestling Free.,"KURTANIDZE, Eldari",GEO,Men,85 - 97kg,M,Bronze
+Wrestling,Wrestling Free.,"MOURTASALIYEV, Saghid",RUS,Men,85 - 97kg,M,Gold
+Wrestling,Wrestling Free.,"BAIRAMUKOV, Islam",KAZ,Men,85 - 97kg,M,Silver
+Wrestling,Wrestling Free.,"RODRIGUEZ, Alexis",CUB,Men,97 - 130kg,M,Bronze
+Wrestling,Wrestling Free.,"MOUSSOULBES, David",RUS,Men,97 - 130kg,M,Gold
+Wrestling,Wrestling Free.,"TAYMAZOV, Artur",UZB,Men,97 - 130kg,M,Silver
+Wrestling,Wrestling Gre-R,"KANG, Yong Gyun",PRK,Men,48 - 54kg,M,Bronze
+Wrestling,Wrestling Gre-R,"SIM, Kwon-Ho",KOR,Men,48 - 54kg,M,Gold
+Wrestling,Wrestling Gre-R,"RIVAS, Lazaro",CUB,Men,48 - 54kg,M,Silver
+Wrestling,Wrestling Gre-R,"SHENG, Zetian",CHN,Men,54 - 58kg,M,Bronze
+Wrestling,Wrestling Gre-R,"NAZARIAN, Armen",BUL,Men,54 - 58kg,M,Gold
+Wrestling,Wrestling Gre-R,"KIM, In-Sub",KOR,Men,54 - 58kg,M,Silver
+Wrestling,Wrestling Gre-R,"CHACHUA, Akaki",GEO,Men,58 - 63kg,M,Bronze
+Wrestling,Wrestling Gre-R,"SAMURGASHEV, Varteres",RUS,Men,58 - 63kg,M,Gold
+Wrestling,Wrestling Gre-R,"MAREN, Juan Luis",CUB,Men,58 - 63kg,M,Silver
+Wrestling,Wrestling Gre-R,"GLOUCHKOV, Alexei",RUS,Men,63 - 69kg,M,Bronze
+Wrestling,Wrestling Gre-R,"ASCUY AGUILERA, Feliberto",CUB,Men,63 - 69kg,M,Gold
+Wrestling,Wrestling Gre-R,"NAGATA, Katsuhiko",JPN,Men,63 - 69kg,M,Silver
+Wrestling,Wrestling Gre-R,"YLI-HANNUKSELA, Marko",FIN,Men,69 - 76kg,M,Bronze
+Wrestling,Wrestling Gre-R,"KARDANOV, Mourat",RUS,Men,69 - 76kg,M,Gold
+Wrestling,Wrestling Gre-R,"LINDLAND, Matt James",USA,Men,69 - 76kg,M,Silver
+Wrestling,Wrestling Gre-R,"VAKHTANGADZE, Mukhran",GEO,Men,76 - 85kg,M,Bronze
+Wrestling,Wrestling Gre-R,"YERLIKAYA, Hamza",TUR,Men,76 - 85kg,M,Gold
+Wrestling,Wrestling Gre-R,"BARDOSI, Sandor Istvan",HUN,Men,76 - 85kg,M,Silver
+Wrestling,Wrestling Gre-R,"LOWNEY, Steven",USA,Men,85 - 97kg,M,Bronze
+Wrestling,Wrestling Gre-R,"LJUNGBERG, Mikael",SWE,Men,85 - 97kg,M,Gold
+Wrestling,Wrestling Gre-R,"SALDADZE, Davyd",UKR,Men,85 - 97kg,M,Silver
+Wrestling,Wrestling Gre-R,"DEBELKA, Dmitry",BLR,Men,97 - 130kg,M,Bronze
+Wrestling,Wrestling Gre-R,"GARDNER, Rulon",USA,Men,97 - 130kg,M,Gold
+Wrestling,Wrestling Gre-R,"KARELIN, Aleksandr",RUS,Men,97 - 130kg,M,Silver
