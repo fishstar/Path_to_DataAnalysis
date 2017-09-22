@@ -1,0 +1,1 @@
+Exercise from DataCamp course: Introduction to Data Visualization with Python
